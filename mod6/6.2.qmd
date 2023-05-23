@@ -1,97 +1,96 @@
 ---
 title: "Création de la page d'accueil de votre start-up"
 ---
+Création de la page d’accueil de votre start-up
+Objectif
 
-### <span data-contrast="none">Objectif</span>
+Pour finir le semestre en beauté et pour que vous puissiez mettre tout ce que vous avez appris et créé jusqu’ici ensemble, je vous propose de créer la page d’accueil du site web de votre start-up. Celle-ci, sera plutôt une présentation de votre projet et n’aura pas les fonctionnalités d’un site web complet, comme par exemple la présentation et la vente des produits. Au stade où vous êtes, il n’y a rien d’autre “à vendre” que votre idée! Votre page d’accueil sera donc dépouillée et sobre comme la page “à propos” de Prêt À Changer (voir ci-dessous).
 
-<span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335559738&quot;:520,&quot;335559739&quot;:80,&quot;335559740&quot;:259}"></span>
+![Page à propos de la compagnie Prêt À Changer](images/Screen Shot 2022-12-02 at 8.36.15 AM.png)
 
+Sur votre page d’accueil, il y aura 4 éléments, ceux que nous avons identifiés ensemble: 
 
+Le logo et le slogan de votre start-up
 
-<span data-contrast="auto">Pour finir le semestre en beauté et pour que vous puissiez mettre tout ce que vous avez appris et créé jusqu’ici ensemble, je vous propose de créer la page d’accueil du site web de votre start-up. Celle-ci, sera plutôt une présentation de votre projet et n'aura pas les fonctionnalités d'un site web complet, comme par exemple la présentation et la vente des produits. Au stade où vous êtes, il n'y a rien d'autre "à</span>
+Un paragraphe de présentation de votre start-up (à partir de votre pitch)
 
-<span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335559738&quot;:0,&quot;335559739&quot;:480,&quot;335559740&quot;:336}"> vendre" que votre idée! Votre page d'accueil sera donc dépouillée et sobre comme la page "à propos" de Prêt À Changer (voir ci-dessous). </span>
+Les trois qualités, ou valeurs, ou avantages de votre projet pour le client (à partir de votre pitch)
 
-<span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335559738&quot;:0,&quot;335559739&quot;:480,&quot;335559740&quot;:336}"><img src="https://canvas.its.virginia.edu/courses/264/files/680490/preview" alt="Page à propos de la compagnie Prêt À Changer" width="932" height="609" data-api-endpoint="https://canvas.its.virginia.edu/api/v1/courses/264/files/680490" data-api-returntype="File"></span>
-
-<span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335559738&quot;:0,&quot;335559739&quot;:480,&quot;335559740&quot;:336}">Sur votre page d'accueil, il y aura 4 éléments, ceux que nous avons identifiés ensemble:&nbsp;</span>
-
-1. <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335559738&quot;:0,&quot;335559739&quot;:480,&quot;335559740&quot;:336}">Le logo et le slogan de votre start-up </span>
-
-2. <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335559738&quot;:0,&quot;335559739&quot;:480,&quot;335559740&quot;:336}">Un paragraphe de présentation de votre start-up (à partir de votre pitch)</span>
-
-3. <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335559738&quot;:0,&quot;335559739&quot;:480,&quot;335559740&quot;:336}">Les trois qualités, ou valeurs, ou avantages de votre projet pour le client (à partir de votre pitch)</span>
-
-4. <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335559738&quot;:0,&quot;335559739&quot;:480,&quot;335559740&quot;:336}">Qui nous sommes (une brève présentation de vous-mêmes, en tant que fondateurs/trices de votre start-up. Pensez à quelques lignes similaires à l'accroche de votre CV.)</span>
+Qui nous sommes (une brève présentation de vous-mêmes, en tant que fondateurs/trices de votre start-up. Pensez à quelques lignes similaires à l’accroche de votre CV.)
 
 
-<!-- -->
+Exécution 
+Pour créer la page d’accueil de votre start-up, vous utiliserez WordPress. Il y a deux raisons pour cela. D’abord, WordPress est un des créateurs de site web parmi les plus populaires et les plus accessibles au monde. Avoir des compétences techniques avec WordPress est un atout pour un grand éventail de carrières professionnelles. En plus, WordPress est disponible gratuitement pour les étudiants et les enseignants de UVA, via UVA Collab.
 
-<span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335559738&quot;:0,&quot;335559739&quot;:480,&quot;335559740&quot;:336}"></span>
+Hier, en classe, je vous ai montré comment créer un site web WordPress à l’aide de UVA Collab mais je répète les étapes à suivre ci-dessus. Attention! Il suffit qu’un partenaire de chaque groupe crée un site et invite l’autre à y participer.
 
-### Exécution 
+![](images/Screen Shot 2022-12-02 at 12.08.07 PM.png) D’abord identifiez-vous
 
-Pour créer la page d'accueil de votre start-up, vous utiliserez [WordPress](<https://wordpress.com/fr/>). Il y a deux raisons pour cela. D'abord, WordPress est un des créateurs de site web parmi les plus populaires et les plus accessibles au monde. Avoir des compétences techniques avec WordPress est un atout pour un grand éventail de carrières professionnelles. En plus, WordPress est disponible gratuitement pour les étudiants et les enseignants de UVA, via UVA Collab.
 
-Hier, en classe, je vous ai montré comment créer un site web WordPress à l'aide de UVA Collab mais je répète les étapes à suivre ci-dessus. **Attention! Il suffit qu'un partenaire de chaque groupe crée un site et invite l'autre à y participer.**
 
-![Screen Shot 2022-12-02 at 12.08.07 PM.png](<https://canvas.its.virginia.edu/courses/264/files/680795/preview>)1\. D'abord identifiez-vous
+Screen Shot 2022-12-02 at 12.10.56 PM.png
+2. À partir de la page d’accueil, trouvez l’onglet “Site Builder” sur la barre latérale.
 
-![Screen Shot 2022-12-02 at 12.10.56 PM.png](<https://canvas.its.virginia.edu/courses/264/files/680796/preview>)
 
-2\. À partir de la page d'accueil, trouvez l'onglet "Site Builder" sur la barre latérale.
 
-![Screen Shot 2022-12-02 at 12.13.19 PM.png](<https://canvas.its.virginia.edu/courses/264/files/680799/preview>)
+Screen Shot 2022-12-02 at 12.13.19 PM.png
+3. Choisissez vos outils.
 
-3\. Choisissez vos outils.
 
-![Screen Shot 2022-12-02 at 12.14.16 PM.png](<https://canvas.its.virginia.edu/courses/264/files/680800/preview>)
 
-4\. Sur le moteur de recherche tapez "WordPress" puis ajouter cet outil.
+Screen Shot 2022-12-02 at 12.14.16 PM.png
+4. Sur le moteur de recherche tapez “WordPress” puis ajouter cet outil.
 
-![Screen Shot 2022-12-02 at 12.15.00 PM.png](<https://canvas.its.virginia.edu/courses/264/files/680801/preview>)
 
-5\. Votre site aura seulement 2 outils.
 
-![Screen Shot 2022-12-02 at 12.15.28 PM.png](<https://canvas.its.virginia.edu/courses/264/files/680802/preview>)
+Screen Shot 2022-12-02 at 12.15.00 PM.png
+5. Votre site aura seulement 2 outils.
 
-6\. Publiez votre site.
 
-![Screen Shot 2022-12-02 at 12.16.33 PM.png](<https://canvas.its.virginia.edu/courses/264/files/680803/preview>)
 
-7\. Pour inviter votre partenaire de groupe, il faut continuer avec les étapes suivantes. Trouvez l'onglet "Site Settings"
+Screen Shot 2022-12-02 at 12.15.28 PM.png
+6. Publiez votre site.
 
-![Screen Shot 2022-12-02 at 12.16.58 PM.png](<https://canvas.its.virginia.edu/courses/264/files/680804/preview>)
 
-8\. Trouvez l'onglet "Add Participants."
 
-![Screen Shot 2022-12-02 at 12.17.52 PM.png](<https://canvas.its.virginia.edu/courses/264/files/680805/preview>)
+Screen Shot 2022-12-02 at 12.16.33 PM.png
+7. Pour inviter votre partenaire de groupe, il faut continuer avec les étapes suivantes. Trouvez l’onglet “Site Settings”
 
-9\. Ajouter le "computing ID" de votre partenaire.
 
-![Screen Shot 2022-12-02 at 12.18.32 PM.png](<https://canvas.its.virginia.edu/courses/264/files/680806/preview>)
 
-10\. Choisissez le rôle de l'administrateur pour votre camarade.
+Screen Shot 2022-12-02 at 12.16.58 PM.png
+8. Trouvez l’onglet “Add Participants.”
 
-![Screen Shot 2022-12-02 at 12.20.20 PM.png](<https://canvas.its.virginia.edu/courses/264/files/680807/preview>)
 
-11\. Envoyez-lui une notification.
 
-![Screen Shot 2022-12-02 at 12.23.17 PM.png](<https://canvas.its.virginia.edu/courses/264/files/680809/preview>)
+Screen Shot 2022-12-02 at 12.17.52 PM.png
+9. Ajouter le “computing ID” de votre partenaire.
 
-12\. Avec votre partenaire commencez la personnalisation de votre site.
 
-![Screen Shot 2022-12-02 at 12.23.46 PM.png](<https://canvas.its.virginia.edu/courses/264/files/680810/preview>)
 
-13\. Je vous encourage de changer le thème.
+Screen Shot 2022-12-02 at 12.18.32 PM.png
+10. Choisissez le rôle de l’administrateur pour votre camarade.
 
-![Screen Shot 2022-12-02 at 12.24.10 PM.png](<https://canvas.its.virginia.edu/courses/264/files/680811/preview>)
 
-14\. Je vous conseille de choisir le thème Minamaze parce qu'il est déjà structuré avec 4 éléments que vous voulez. Il vous suffit d'ajouter votre propre contenu: texte et images.
 
-Si vous rencontrez des difficultés dans ce processus, ou si vous avez des questions, n'hésitez pas à me contacter.
+Screen Shot 2022-12-02 at 12.20.20 PM.png
+11. Envoyez-lui une notification.
+
+
+
+Screen Shot 2022-12-02 at 12.23.17 PM.png
+12. Avec votre partenaire commencez la personnalisation de votre site.
+
+
+
+Screen Shot 2022-12-02 at 12.23.46 PM.png
+13. Je vous encourage de changer le thème.
+
+
+
+Screen Shot 2022-12-02 at 12.24.10 PM.png
+14. Je vous conseille de choisir le thème Minamaze parce qu’il est déjà structuré avec 4 éléments que vous voulez. Il vous suffit d’ajouter votre propre contenu: texte et images.
+
+Si vous rencontrez des difficultés dans ce processus, ou si vous avez des questions, n’hésitez pas à me contacter.
 
 Bon courage!
-
-
-

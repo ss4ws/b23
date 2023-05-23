@@ -3,3 +3,5 @@ title : "À propos de ce cours"
 ---
 
 # Bienvenue. {.unnumbered}
+
+This is still a work in progress. Thank you for your patience. 
