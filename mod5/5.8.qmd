@@ -1,0 +1,74 @@
+---
+title: "Trouvez les slogans"
+format: 
+  html:
+    page-layout: full
+---
+
+### Trouvez le slogan qui correspond à chaque marque.
+
+Ci-dessous il y a une liste de quelques marques connues. Rendez-vous sur le site https://www.slogan.pub/ et cherchez les slogans de six marques de votre choix. Pour certaines marques, il y a plusieurs slogans disponibles. Dans ce cas, choisissez celui que vous préférez.
+
+Faites une liste avec les marques et leurs slogans, puis répondez aux questions suivantes:
+
+- Quel type de consommateur est visé par chaque slogan? (adultes, enfants, adolescents, etc)
+
+- Quelles qualités de la marque sont misent en avant par chaque slogan?
+
+- Selon vous, quel est le slogan le plus attirant / accrocheur? Pourquoi?
+
+  
+::: {.grid} 
+
+::: {.g-col-3}
+
+## Marque
+
+Air France
+
+Citroën
+
+CIC
+
+Alain Aflelou
+
+Yves Rocher
+
+Lacoste
+
+Joker
+
+Lion
+
+Bang
+
+Amora
+
+Darty
+
+Décathlon
+
+Contrex
+
+Carte Noire
+
+Maille
+
+SNCF
+
+Bueno
+
+Babybel
+
+Twix
+
+La poste
+:::
+  
+::: {.g-col-8}
+
+## Slogan 
+
+:::
+  
+:::  

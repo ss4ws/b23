@@ -1,0 +1,21 @@
+## La phrase-projet
+
+La phrase-projet est, comme son nom l'indique, une phrase qui résume bien les points essentiels d'un projet entrepreneurial: le(s) métier(s)/secteur(s) professionnel(s), le produit/service, le client, la spécificité de l'entreprise.
+
+Par exemple, voici la phrase-projet d'OptiMiam:
+
+OptiMiam est une appli qui crée un "pont digital" entre les consommateurs et les commerçants du quartier, afin que les uns puissent avoir accès à des produits de qualité à un prix réduit, et que les autres vendent leurs produits périssables sans les gaspiller. 
+
+Dans cette phrase tout y est: 
+
+1. "Une appli" signifie que le secteur professionnel est l'informatique. Il faut donc employer des développeurs pour créer ce service.
+
+2. Les consommateurs: ce sont les clients, ceux qui payent. 
+
+3. La valeur unique de cette idée: les consommateurs mangent des produits frais moins cher, les commerçants se débarrassent de leurs surplus. 
+
+4. L'impact social: OptiMiam permet à une clientèle qui cherche des bons plans (étudiants, chômeurs, familles nombreuses, etc) de consommer moins cher, et elle permet aussi les commerçants d'éviter de gaspiller de la nourriture. 
+
+À partir de cette phrase on peut développer le pitch pour donner des clarifications nécessaires sur tel ou tel point.    
+
+ 

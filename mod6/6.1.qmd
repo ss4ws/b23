@@ -1,0 +1,44 @@
+---
+title: "Exploration des sites web"
+---
+## Découvrez le vocabulaire d'un site web. 
+
+Avec votre partenaire de groupe, choisissez un de ces trois sites web et visitez-le pour l'explorer.
+
+- [https://www.pharmao.fr/](<https://www.pharmao.fr/>) (Pharmacie en ligne)
+- [https://www.recyclivre.com/ ](<https://www.recyclivre.com/>) (Librairie d'occasion en ligne)
+- [https://www.pretachanger.fr/notre-histoire.php](<https://www.pretachanger.fr/notre-histoire.php>) (Friperie (*thrift store)* en ligne)
+
+<!-- -->
+
+
+
+### Questions de discussion: 
+
+- Qu'est-ce qu'il y a sur la page d'accueil?
+- À votre avis est-il facile de naviguer sur ce site? 
+- Quel est l'appel à l'action (call-to-action) de votre site, et comment vous l'avez découvert? 
+- Dans quelle partie du site se trouve la section "à propos de nous"? 
+- À votre avis quelle est la clientèle de ce site? Pourquoi? 
+- Est-il nécessaire pour cette entreprise d'avoir un site web? 
+- Après avoir regardé ce site, quelles sont les éléments indispensables à votre avis?
+
+<!-- -->
+
+
+
+### Vocabulaire utile: 
+
+- La page d'accueil: c'est la page principale du site. 
+- L'arborescence: c'est le squelette, la structure du site. 
+- Le contenu: c'est l'ensemble des éléments textuels, graphiques et audiovisuels. 
+- Menu de navigation: Se trouve souvent en haut de la page du site pour faciliter la navigation. 
+-  À propos: C'est une page où l'entreprise présente sa mission, et les membres de son équipe. 
+- La barre latérale: C'est une barre qui contient d'éléments supplémentaires de navigation 
+- Le call-to-action: C'est souvent sous la forme d'un bouton destiné à pousser le visiteur d'acheter, reserver, s'inscrire, etc
+- Les réseaux sociaux: Icônes vers d'autre sites ou la marque est présente. 
+- Le header: la zone située en haut de la page et contient souvent le logo et le slogan. 
+- Le footer: la zone située en bas de la page et contient souvent des informations supplémentaires. 
+
+<!-- -->
+

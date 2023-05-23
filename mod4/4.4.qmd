@@ -1,0 +1,32 @@
+## Brainstorming II 
+
+Comment trouver un idée de startup? Comme nous avons déjà vu, surtout avec le modèle Canevas, une entreprise doit identifier et répondre à un problème et cette réponse doit être bien reçu par un public spécifique. La solution à ce problème viendrait alors sous forme de service ou de produit que l'entreprise mettraient en vente à une certaine clientèle, préalablement aussi identifiée. 
+
+Mais, sauf exception d'une idée très originale et audacieuse qui "révolutionne" un secteur ou une industrie, on se doute qu'il y a déjà dans le marché des entreprises qui proposent déjà des solutions pour le même problème. Mais est-ce que ces solutions conviennent à toutes et à tous? Il peut y avoir une myriade de réponses à un problème. Comme nous sommes différent-e-s les unes des autres, il nous faut des solutions qui répondent au plus près à nos besoins. 
+
+Prenez l'amour par exemple. On cherche toutes et tous l'amour et l'amitié, à court ou à long terme. Et, dans ce domaine, il y a plusieurs solutions proposées par autant d'applications: tinder, okcupid, bumble, hinge… Il y a des applis hétéros, homos, pour groupes ethniques spécifiques, pour types de corps, préférences alimentaires… Bref, dans le domaine d'applis des rencontres, il y en a pour tous les goûts.     
+
+Comme le numérique s'est bien installé dans notre quotidien (depuis un moment déjà) les entreprises et les start-up proposent de plus en plus des solutions en forme de ponts digitaux. Dans cette page du journal en ligne Madyness vous pouvez explorez tous les secteurs professionnels qui sont dans une mutation numérique. Ainsi, pour citer quelques uns, vous avez: 
+
+- L’Adtech fait référence aux nouvelles technologies utilisées dans l’industrie de la publicité. 
+- L’Agritech regroupe toutes les startups et entreprises qui mettent au point des technologies agricoles. 
+- La Biotech regroupe toutes les startups et entreprises qui mettent au point des technologies de manipulation du vivant.
+- La Medtech regroupe toutes les startups et entreprises qui mettent au point des technologies médicales, hors manipulation du vivant (considérée comme la Biotech).
+- La Deeptech regroupe toutes les startups et entreprises qui mettent au point des technologies de recherche pointue (IA, blockchain…) qui ne s’appliquent pas à un domaine particulier.
+- L’E-commece regroupe toutes les startups et entreprises de vente en ligne.
+- La Edtech regroupe toutes les startups et entreprises qui mettent au point des technologies éducatives. 
+- Les secteurs de la foodtech et de la winetech regroupent toutes les startups et entreprises ayant trait à l’alimentation (hors agritech) et les technologies ou innovations liées aux vins et spiritueux. 
+- La Martech regroupe toutes les startups et entreprises qui mettent au point des technologies marketing, qui boostent l’activité de l’entreprise.
+- Le secteur du Retail regroupe les startups et technologies qui améliorent l’expérience de vente. 
+- Le secteur rh / management regroupe toutes les startups et entreprises qui mettent au point des technologies de recrutement et de gestion des équipes.
+- Le secteur de la mobilité regroupe toutes les startups et entreprises qui mettent au point des technologies de transport de personnes (y compris la SpaceTech).
+
+Et votre entreprise dans quel secteur appartiendra? 
+
+
+
+### Activité
+
+Deuxième session de brainstorming. Pour cette deuxième session de brainstorming, surtout si vous avez identifié une idée prometteuse, utilisez le document ci-dessous pour la développer. 
+
+![brainstorming-idee.pdf](brainstorming-idee.pdf){width=500px, height=400px}

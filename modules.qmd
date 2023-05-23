@@ -1,0 +1,7 @@
+---
+title: "Modules"
+---
+
+- [Module 1 – Le monde de l'entreprise](mod1/intro.qmd) 
+
+- Module 2 – Projets et profils entrepreneuriaux

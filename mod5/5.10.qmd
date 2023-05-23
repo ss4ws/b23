@@ -1,0 +1,101 @@
+---
+title: "Classez les slogans"
+format: 
+  html:
+    page-layout: full
+---
+  
+::: {.grid}
+
+::: {.g-col-2}
+
+## Marque
+
+Air France
+
+Citroën
+
+CIC
+
+Alain Aflelou
+
+Yves Rocher
+
+Lacoste
+
+Joker
+
+Lion
+
+Bang
+
+Amora
+
+Darty
+
+Décathlon
+
+Contrex
+
+Carte Noire
+
+Maille
+
+SNCF
+
+Bueno
+
+Babybel
+
+Twix
+
+La poste
+:::
+  
+::: {.g-col-6}
+
+## Slogan 
+
+Faire du ciel le plus bel endroit de la terre
+
+Créative technologie
+
+Parce que le monde bouge
+
+Il est fou Aflelou, il est fou
+
+Se réinventer chaque jour
+
+Deviens ce que tu es
+
+Le fruit qui se boit
+
+Réveillez le lion qui est en vous
+
+Dites adieu à la saleté
+
+Par amour du goût
+
+Le contrat de confiance
+
+À fond la forme
+
+Mon partenaire minceur
+
+Un café nommé désir
+
+Il n'y a que Maille qui m'aille
+
+Le voyage est dans le train
+
+Un plaisir pour les petites faims
+
+Un fromage sans façon que l'on mange de cent façons
+
+Deux doigts coupe faim
+
+Ce que l'avenir vous promet, La Poste vous l'apporte
+
+:::
+  
+:::  

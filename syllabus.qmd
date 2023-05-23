@@ -1,0 +1,225 @@
+---
+title: 'Français des affaires'
+author: "An awesome professor"
+date: ""
+---
+<details>
+<summary>Informations pratiques</summary>
+- email: 
+- office: 
+- office hours: 
+- class room: 
+- class hours:
+</details>
+
+# Description  {.unnumbered}
+
+Imaginez l'entreprise dans laquelle vous aimeriez travailler. Et si cette entreprise était la vôtre? Dans ce cours, vous allez passer de l'imagination à l'action et vous allez travailler méthodiquement pour réaliser, étape par étape, la création de votre entreprise. Dans ce parcours vous allez vous inspirer de jeunes entrepreneurs du monde Francophone et de leurs projets innovants et surtout à impact social. Vous allez aussi former vos propres équipes de partenaires (parmi vos camarades), pour simuler les conditions réelles de création d'une entreprise. À la fin de la réalisation de vos projets vous aurez acquis des compétences professionnelles, culturelles, et pratiques nécessaires pour réussir dans les affaires et dans la vie.  
+
+Prérequis: 
+
+
+# Objectifs pédagogiques 
+
++ S'initier au monde des affaires.
++ Découvrir votre propre profil entrepreneurial et construire son équipe. 
++ Prendre la parole en public et bien construire son discours.
++ Se familiariser avec le modèle Canevas pour la création d'une entreprise.
++ Se sensibiliser à de nombreux enjeux économiques, politiques et sociaux qui sont au cœur des start-ups.
++ Travailler ensemble dans un esprit d'équipe pour la conception et la production de votre propre start-up.
++ Conceptualiser et réaliser le site web de vôtre start-up avec WordPress, un des leaders du marché des sites professionnels.  
+
+# Ressources 
+
+ Grâce à la bourse [Affordability & Equity Grant](https://www.library.virginia.edu/services/faculty/equity/) de la Bibliothèque de UVA, toutes les ressources pour ce cours sont gratuites pour vous. Tout au long du semestre je vais mettre à votre disposition les ressources dont vous avez besoin sur notre site Canvas.    
+
+# Calendrier
+
+Sous reserve de modification
+
+# Module 1 – Le monde de l'entreprise
+
+## Séquences
+
+1.  Mardi, 23/08 – Intro + modèle agile + OER
+    
+2.  Jeudi, 25/08 – Qu'est-ce qu'une entreprise? 
+    
+3.  Mardi, 30/08 – Start-up nation 
+    
+4.  Jeudi, 01/09 – Comment faire une présentation orale?
+    
+5.  **Mardi, 06/09 – Présentations orales des étudiants. Chaque étudiant présente un article d'actualité de la presse spécialisée dans l'économie et le monde des affaires. 5 minutes par présentation.**
+    
+
+# Module 2 – Projets et profils entrepreneuriaux
+
+## Séquences
+
+6.  Jeudi, 08/09 – Découverte des 4 jeunes entreprises 
+    
+7.  Mardi, 13/09 – Qu'en disent leurs fondateurs?
+    
+8.  Jeudi, 15/09 – 2.3 Présentation du Canevas d'opportunité et son application aux entreprises étudiées.
+    
+9.  **Mardi, 20/09 – Tâche écrite 1 (800 mots): Analyse d'une des 4 entreprises présentées dans ce module avec le modèle Canevas. En petits groupes chaque étudiant présente brièvement le Canevas d'opportunité de l'entreprise qu'il a analysée, puis devant la classe.**
+    
+10. Jeudi, 22/09 – Première rencontre avec Christian Ignouba, [président du projet Africans United Communities of Charlottesville](https://auccville.org).
+    
+
+# Module 3 – Construire son dossier de candidature (CV & LM)
+
+11. Mardi, 27/09 – 3.1 (Découvrir son propre profil entrepreneurial et faire son bilan de compétences.) Activité de speed-networking et formation des groupes. 
+
+    
+12. Jeudi, 29/09 – 3.2.Comment faire son CV et sa lettre de motivation? 
+<!-- 
+Faire avant la class deux activités: 
+1. Présenter son parcours professionnel, Fiches FOS 
+2. Et une activité avec les CV 
+-->
+    
+13. **Jeudi, 06/10 – Tâche écrite: Préparation de votre CV et de votre lettre de motivation pour les partager avec votre partenaire de groupe.**
+    
+14. **Mardi, 11/10 – Simulation d'entretien d'embauche ½ de la classe & autoévaluation**
+    
+15. **Jeudi, 13/10 – Simulation d'entretien d'embauche ½ de la classe & autoévaluation**
+    
+
+# Module 4 – Une idée d'entreprise
+
+## Séquences
+
+16. Mardi, 18/10 – Découverte d'une entreprise par son pitch 1 – Séance de brainstorming pour vos projets
+    
+17. Jeudi, 19/10 – Découverte d'une entreprise par son pitch 2 – Séance de brainstorming pour vos projets
+    
+18. Mardi, 25/10 – 2e rencontre avec Christian Ignoumba pour nous parler de son propre projet d'entreprise.
+    
+19. **Jeudi, 27/10 – Présentation des vos pitches et réactions des camarades**
+    
+20. **Mardi, 01/11 – Tâche écrite 3 (800 mots): Après la présentation orale de votre idée d'entreprise, vous la recadrez selon les réactions de vos camarades et vous l'écrivez en suivant toujours le modèle Canevas.**
+    
+
+# Module 5 – Création d'une identité d'entreprise et d'un plan marketing
+
+## Séquences
+
+21. Jeudi, 03/11 – Marketing et publicité
+    
+22. Jeudi, 10/11 – Nom logo et slogan d'une entreprise
+    
+23. Mardi, 15/11 – Travail écrit (800 mots): Dévoiler dans un texte concis et persuasif le nom, le logo, et le slogan de votre projet d'entreprise. Pour quelles raisons avez-vous fait ces choix?
+    
+
+# Module 6 – Création du site internet de l'entreprise
+
+## Séquences
+
+24. Jeudi, 17/11 – S'inspirer des sites web d'autres entreprises de la concurrence, et définir le cahier des charges (spécifications) de votre site.
+    
+25. Mardi, 22/11 – Atelier de construction d'un site WordPress
+    
+26. Mardi, 29/11 – Atelier de construction d'un site WordPress de votre projet d'entreprise (Collecter le contenu que vous avez déjà créé: profil entrepreneur, le projet de l'entreprise, et son identité)
+
+27. Jeudi, 01/12 – Atelier de construction d'un site WordPress de votre projet d'entreprise (mise en page de votre contenu)
+
+28. Mardi, 06/12 – Dévoilement et partage des projets, mini-présentations 🎉
+
+
+# Répartition de la note
+
+## Participation 20%:
+
+La participation active en classe est un élément essentiel du cours. Vous allez faire le suivi de votre participation vous mêmes. Au milieu et la fin du semestre, je vais vous demander de faire votre propre bilan. Vous allez répondre à des questions à propos de votre:
+
+* assiduité
+* participation aux discussions et activités réalisées en classe
+* préparation du travail fait en dehors de la classe (devoirs, travail écrit, travail de groupe)
+* progrès et vos réflexions sur le cours
+
+## Lexique 10% 
+
+Un des vos devoirs récurrents sera de compiler votre propre lexique avec les termes et les notions courantes du domaine de l'économie et des affaires et de le rendre disponible sur notre site Canevas. Avec toutes vos contributions, nous disposerons à la fin d'un lexique plus complet des termes clés du monde des affaires. Pour ce faire je vous propose d'utiliser les ressources suivantes: 
+
+- [Le dico de l'éco](https://www.economie.gouv.fr/facileco/dico-eco) 
+- [La finance pour tous – dictionnaire](https://www.lafinancepourtous.com/outils/dictionnaire/lettre/a/)
+- [Définitions – INSEE](https://www.insee.fr/fr/metadonnees/definitions)
+
+## Présentations orales 20% 
+
+Pour découvrir le monde des affaires vous ferez un travail d'exploration (chez vous) et vous partagerez vos découvertes en mini-présentations orales (en classe). Vous passerez aussi un entretien d'embauche en ligne sur Zoom avec moi. Mon rôle sera celui du recruteur, alors que vous jouerez celui du chercheur d'emploi. Vous m'enverrez votre dossier de candidature (CV et lettre de motivation), et vous préparerez une liste de questions avant la date l'entretien. Enfin, en groupe, vous présenterez votre projet de start-up. 
+
+## Expression écrite 30%
+
+Pour répondre aux exigences du monde professionnel, vos écrits doivent être précis, concis et persuasifs. Dans ce cours vous allez effectuer quatre travaux écrits y compris votre dossier de candidature. Deux de vos écrits seront des travaux individuels et deux de vos écrits des travaux de groupe.
+
+
+## Projet final 20%
+
+Votre projet final qui sera la création du site internet (WordPress) de votre start-up et sera la synthèse de tout le travail que vous aurez fait pendant le semestre. 
+
+# Absences et retard
+
+* Être professionnel commence par être ponctuel. Veuillez donc arriver au cours à l'heure. 
+    
+* Être professionnel commence par respecter ses collègues et le travail en groupe ainsi que les dates limites. Veuillez donc rendre vos devoirs à temps. **Si vous rencontrez des difficultés, ou si vous avez des empêchements, veuillez m'en parler pour trouver des arrangements ensemble.**
+    
+Please also note that regular attendance in class is required, as many of the in-class are collaborative. These activities cannot be made up outside of class.
+
+If you are unable to make it to class, please email me in advance of class to let me know that you will be absent---absences have an important impact on how I plan class activities. If you cannot attend class when an assignment or a presentation is due, submit it in advance, or contact me to schedule a different date. 
+
+I do not distinguish between unexcused and excused absences. You are allowed three absences this semester---these absences will have no effect on your grade, and you can take them for whatever reason you need to. After three absences, I will ask you to evaluate your engagement with the class so that we can discuss your readiness to move forward with the semester. In addition, for any absences beyond the three allowed absences, I will deduct one point from your cumulative participation grade for the semester.
+
+Of course, you cannot come to class if you test positive for Covid-19. In this circumstance, please inform me as soon as possible of your absence, and we will work together to create a plan so that you can keep up with the class.
+
+If an emergency requires an extended period of absence from your courses, you should contact your Association Dean, for advise on whether or not to drop courses, take incompletes, etc.
+
+
+# Grading Scale:
+
+- 98-100 | A+ 
+- 94-97  | A  
+- 90-93  | A- 
+- 88-89  | B+ 
+- 84-87  | B  
+- 80-83  | B-
+- 78-79  | C+ 
+- 74-77  | C  
+- 70-73  | C- 
+- 68-69  | D+ 
+- 64-67  | D 
+- 60-63  | D- 
+- 00-59  | F 
+
+
+# Course policies
+
+## Safety, Health, and Well-Being
+
+* _The University of Virginia is dedicated to providing a safe, violence-free, and equitable learning environment for all students_. If you or someone you know has been harassed or assaulted, you will find important information about appropriate university and community resources and how to report incidents on the UVA [EOCR](http://eocr.virginia.edu/) website.
+    
+* [UVA Student Health](https://www.studenthealth.virginia.edu/) offers safe, supportive, confidential support to address any physical, mental, and/or emotional concerns that you may have due to an unwanted sexual encounter or for any other reason.
+    
+* If you are feeling overwhelmed, stressed, or isolated, there are many individuals here to help. The Student Health and Wellness Center offers [Counseling and Psychological Services (CAPS)](https://studenthealth.virginia.edu/caps) for its students; call 434-243-5150 to speak with an on-call counselor and/or schedule an appointment. If you prefer to speak anonymously, you can call Madison House's [HELP Line](http://www.helplineuva.com/) at any hour of any day: 434-295-TALK. Alternatively, you can call or text the [Disaster Distress Helpline](https://www.samhsa.gov/find-help/disaster-distress-helpline) (1-800-985-5990, or text TalkWithUs to 66746) to connect with a trained crisis counselor; this is toll free, multilingual, and confidential, available to all residents in the US and its territories.
+    
+
+Finances can also be a cause of stress. Please note that all students enrolled in Fall 2020 courses, and who have successfully completed a FAFSA for the 2020-2021 academic year, can request funding for expenses related to the disruption of fall campus operations due to the pandemic. For information on CARES Act Student Emergency Funding, Bridge Scholarships, and Emergency Loans, please visit: [Student Financial Services Operational Updates](https://sfs.virginia.edu/sfs-operational-updates). You might also be eligible for an [Honor Loan](https://odos.virginia.edu/honor-loan-application).
+
+## Accessibility
+
+UVA is committed to creating a learning environment that meets the needs of its diverse student body. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns with me. If you have a disability, or think you may have a disability, you may also want to meet with the Student Disability Access Center (SDAC), to request an official accommodation. You can find more information about SDAC, including how to apply online, through their website at [sdac.studenthealth.virginia.edu](http://sdac.studenthealth.virginia.edu/). If you have already been approved for accommodations through SDAC, please make sure to send me your accommodation letter and meet with me so we can develop an implementation plan together.
+
+## Honor Code
+
+_Guidelines for assignments under the Honor Code at UVA:_
+
+* **This should be obvious, but do not submit work that you previously did for another class.**
+    
+* **For online tests: Online tests and quizzes are closed-book and must be completed in the allotted time by the due date with no help from any person, website, book, or other source. Help from any source constitutes an honor violation.**
+    
+* For formal written tasks: While writing your compositions or composing your oral assignments, you **should** consult the textbook and reference materials (dictionaries, etc.) noted in the "Required and Suggested Supplemental Texts" section of the syllabus. You may also consult with your instructor for help on your assignment. However, **you may not** receive help from anyone other than your instructor. Having anyone (friend, family member, fellow student, tutor) help write or correct an assignment is an honor violation
+    
+* _If you have any questions about the appropriate use of online references or other sources of information, please check with your instructor._ **Writing your papers in English and using an online translator to translate them to French is counterproductive constitutes an honor violation.**
+    
+* For more information, see the [French Department site](http://french.as.virginia.edu/elementary-and-intermediate-courses-fren-1010-fren-2320) website and the [UVA Honor](http://www.virginia.edu/honor/).
