@@ -10,5 +10,6 @@ Pour [date], trouvez l'article que vous voulez présentez. Essayez de trouver de
 - [RFI : L’actualité économique mondiale en direct](<https://www.rfi.fr/fr/%C3%A9conomie/>).
 - [Maddyness : Le média pour comprendre l’économie de demain](<https://www.maddyness.com/>).
 
+![](SupermarchéGraphique.jpg)
 
-
+![](BubbleGraphique.jpg)

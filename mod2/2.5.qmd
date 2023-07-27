@@ -2,6 +2,6 @@
 title: "2.5 - Présentation du Canevas d'opportunité et son application aux entreprises étudiées " 
 ---
 
-![](opportunity_canvas_fr.pdf){height=100%}
+<iframe width="100%" height="600px" src="opportunity_canvas_fr.pdf">
 
 [Download the PDF here!](opportunity_canvas_fr.pdf)
