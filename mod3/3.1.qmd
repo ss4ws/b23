@@ -1,6 +1,6 @@
-
-## Profil créateur et dossier de candidature
-
+---
+title: "3.1 Profil créateur et dossier de candidature"
+---
 
 Dans ce troisième module du cours, on se tourne du côté des ressources humaines (RH). 
 

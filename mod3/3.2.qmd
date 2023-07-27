@@ -1,4 +1,6 @@
-## Bilan de compétences
+---
+title: "3.2 Bilan de compétences"
+---
 
 Définition légale :
 

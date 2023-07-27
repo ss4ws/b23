@@ -1,10 +1,20 @@
 ---
 title: "1.1 - Intro" 
+format: 
+  html: 
+    page-layout: article
+  docx: default
+  pdf: default
+
+toc: true
+#reference-location: margin
+citation-location: margin
+fig-cap-location: margin
 ---
 
-# Plan du cours: {.unnumbered}
+## Plan du cours: {.unnumbered}
 
-- Étiquette de nom, extra longue (Activité pour briser la glace)
+- Étiquette de nom, extra longue (Activité pour briser la glace)^[footnote]
 
 - Présentation du cours
 
