@@ -1,0 +1,6 @@
+[1,"Installing 'rstudioapi' for RStudio Tutorials...\n"]
+[2,"trying URL 'https://cran.rstudio.com/bin/macosx/big-sur-arm64/contrib/4.3/rstudioapi_0.15.0.tgz'\n"]
+[2,"Content type 'application/x-gzip' length 300803 bytes (293 KB)\n==================================================\ndownloaded 293 KB\n\n"]
+[1,"The downloaded binary packages are in\n"]
+[1,"\t/var/folders/gn/sk6nj00903zdhl1__ky9d8480000gp/T//RtmpiFI1s0/downloaded_packages\n"]
+[2,"\n\n✔ Package 'rstudioapi' successfully installed.\n"]
