@@ -1,0 +1,79 @@
+---
+title: "Parler en public -- Discours modèle"
+# author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: false
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+#    theme: dark
+  html: 
+    self-contained: false
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual  
+---
+
+## Présentation d'un discours modèle
+
+### Introduction
+
+1.  **Présentation du sujet :**
+
+Bonjour à toutes et à tous, aujourd'hui nous allons parler de l'article [*La désindustrialisation à la française*](https://www.radiofrance.fr/franceculture/podcasts/la-bulle-economique/la-desindustrialisation-a-la-francaise-8496335) paru sur le site de France Culture le Samedi 20 août 2020. Cette article explore la désindustrialisation en France, un sujet économique et social majeur. Parce que si les effets de la désindustrialisation sont d'abord ressentis par les entreprises et leurs salariés, ils touchent également la prospérité des régions entières.
+
+2.  **Accroche :**
+
+Saviez-vous que la France, autrefois une puissance industrielle majeure, (pendant les Trentes Glorieuses) fait face à un déclin progressif de son secteur industriel? Cela soulève des questions importantes sur les raisons de ce phénomène et son impact sur l'économie du pays.
+
+3.  **Objectifs de la présentation :**
+
+Dans cette mini-présentation de l'article, je vais brièvement aborder les raisons qui sont à l'origine du déclin de l'industrie Française ainsi que les conséquences sur le marché du travail et l'économie. Enfin, selon l'article, un faible espoir renaît dernièrement avec le monde politique qui s'intéresse à nouveau à l'industrie. Mais cet intérêt produira-t-il des stratégies efficaces pour inverser cette tendance?
+
+### Développement
+
+1.  **Points clés de l'article :**
+
+L'article met l'accent sur plusieurs facteurs clés qui contribuent à la désindustrialisation en France, notamment la mondialisation, l'augmentation de l'économie des services, et les politiques économiques.
+
+2.  **Analyse et discussion :**
+
+Ces facteurs ont influencé la structure économique du pays. Par exemple, la mondialisation a entraîné la France à une concurrence inégale avec des pays où la main d'œuvre est moins chère. Comme conséquence le nombre des salariés qui travaillent dans l'industrie a chuté dramatiquement les 50 dernières années: De 5 millions 700 000 personnes employées dans l'industrie en 1974, on est passé à un peu plus de 3 millions en 2019.
+
+Il faut signaler que ce phénomène n'est pas unique à la France mais qu'il s'agit d'une tendance mondiale. Même des pays comme la Chine et l'Allemagne ont vu leur industrie perdre du terrain[^06-discours-modele-1] mais ils ont su aussi limiter les dégâts[^06-discours-modele-2].
+
+[^06-discours-modele-1]: diminuer
+
+[^06-discours-modele-2]: réduire l'ampleur ou l'impact négatif d'une situation
+
+3.  **Explication d'un graphique:**
+
+![](https://www.radiofrance.fr/s3/cruiser-production/2020/07/19131df2-a075-4ebc-9795-6a91b894039d/860_banque_mondiale_pib_industrie.jpg) Part de l'industrie dans le Produit Intérieur Brut[^06-discours-modele-3] comparé entre la Chine, l'Allemagne, les Etats Unis et la France.
+
+[^06-discours-modele-3]: PIB (GDP) mesure de l'activité économique d'un pays.
+
+Regardons ce graphique tiré de l'article, qui montre la part de l'industrie dans le Produit Intérieur Brut (PIB) de différents pays. Comme on peut le voir la France tient la dernière position dans ce classement avec une trajectoire en baisse constante. Loin de son heure de gloire pendant les Trente Glorieuses (années 45-75) l'industrie Française actuellement ne fait que le 13% du PIB et elle risque bientôt de toucher le fond.
+
+**4. Implications pratiques :**
+
+Cette évolution a des conséquences directes sur le marché de l'emploi en France, notamment sur les régions industrielles où le chômage est à la hausse. Est-ce que l'innovation technologique pourra aider ces régions dévastées par le chômage à retrouver le chemin de la croissance?
+
+### Conclusion et interaction
+
+1.  Résumé des points essentiels :
+
+Pour résumer, la désindustrialisation en France est un sujet à multiples facettes avec des répercussions considérables sur l'emploi et la croissance économique.
+
+2.  Perspectives futures et discussion :
+
+Bien que le défi soit de taille[^06-discours-modele-4], un plan de relance se met déjà en place mais suffira-t-il pour revitaliser le secteur industriel?
+
+[^06-discours-modele-4]: le défi est considérable
+
+Voilà, je finis sur cette question qui pourra lancer notre discussion.

@@ -1,0 +1,79 @@
+---
+title: "Projet final"
+# author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: false
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+#    theme: dark
+  html: 
+    self-contained: false
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual  
+---
+
+## Objectifs
+
+-   Définir le cahier des charges du site web
+
+-   Créer le site
+
+-   Travailler en group
+
+-   Réfléchir sur le processus
+
+## Étapes du projet
+
+-   **Compléter [le cahier des charges](https://canvas.its.virginia.edu/courses/104170/files/8116288)**
+
+<!-- -->
+
+-   **Réalisation du site:** Pour la réalisation du site je vous propose des outils comme WordPress ou Canva, ou tout autre outil qui vous permet de choisir et puis de personnaliser une maquette (template). Dans cette étape assurez-vous que le site et conforme aux spécificités définies dans le cahier des charges qu’il est bien soigné, professionnel, et bien adapté à la stratégie commerciale de l’entreprise. En ce qui concerne les texte dont vous aurez besoin pour votre site (mission, valeurs, etc) vous les trouverez dans [le pitch que vous avez déjà écrit](https://canvas.its.virginia.edu/courses/104170/assignments/476391). Adaptez des extraits de votre pitch dans les différentes sections de votre site.   
+
+-   **Réflexion**: Une fois le site réalisé, chaque membre de l’équipe écrira une réflexion personnelle de 200 mots :
+
+    -   Votre expérience personnelle du processus de travail en équipe.
+
+    -   Le rôle que chaque étudiant a joué dans la création du site.
+
+    -   Les défis rencontrés et les solutions apportées.
+
+    -   Ce que vous avez appris sur la création d'une entreprise et son site web ainsi que sur la gestion de projet.
+
+## À rendre
+
+-   **Cahier des charges complété:** un par groupe
+
+-   **Mock-up du site créé:** un par groupe
+
+-   **Réflexion personnelle:** document individuel
+
+ 
+
+## Checklist pour le projet final
+
+Votre projet final est de concevoir une maquette de site web pour votre entreprise, en intégrant des éléments des certains documents que vous avez déjà créés.
+
+1.  **Le pitch** de votre idée d’entreprise où vous avez défini les valeurs, les objectifs, ainsi que votre clientèle.
+
+2.  **L’identité visuelle** de votre entreprise.
+
+3.  **Le cahier des charges** dans lequel vous avez déterminé les sections du site, leur contenu, leur arborescence (la structure hiérarchique), ainsi que la charte éditoriale et la charte graphique en fonction du secteur professionnel et de votre clientèle.
+
+En fin de compte, pour un site web réussi, rassurez-vous qu’il...
+
+-   contient toutes les informations nécessaires
+
+-   met en valeur les bénéfices de votre solution
+
+-   guide progressivement et logiquement le visiteur vers un appel à l’action (call to action): abonnement, inscription, téléchargement d’une appli, etc.
+
+-   est intuitive et facile à navigeur

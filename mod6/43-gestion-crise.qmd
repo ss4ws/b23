@@ -1,0 +1,66 @@
+---
+title: "Gestion d'une crise: travail écrit"
+#author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: false
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+  html: 
+    self-contained: false
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual
+---
+
+## Contexte
+
+Vous êtes employé(e) dans une entreprise de taille moyenne spécialisée dans le développement et la vente de logiciels éducatifs. Votre équipe a manqué la date limite d’une mise à jour d’un logiciel. La frustration de ce retard s'est glissée au sein de votre équipe ce qui a engendré des tensions à propos de la répartition des tâches parmi les membres de l’équipe. Votre chef de département vous a confié la tâche de rédiger un email à toute l'équipe pour clarifier la situation, apaiser les esprits, remonter le moral de l’équipe et remettre le projet sur les rails (on track).
+
+## Objectif
+
+Rédiger un email interne pour gérer cette situation de crise de façon efficace et professionnelle. L'email devrait:
+
+-   Aborder la situation de manière claire sans pointer du doigt des personnes en particulier.
+
+-   Encourager la communication et la collaboration entre les membres de l'équipe.
+
+-   Proposer des solutions concrètes pour éviter que de tels retards se reproduisent à l'avenir.
+
+-   Réaffirmer les objectifs du projet ainsi que les valeurs du group et la contribution essentielle de chaque membre de l’équipe.
+
+## Instructions pour la rédaction de l'email
+
+### Structure et format de l'email
+
+-   **Objet de l'email**: Choisissez un objet court mais explicite qui annonce clairement le but de la communication.
+
+-   **Introduction**: Bref aperçu de la situation.
+
+-   **Corps du texte**:
+
+    -   Exprimez l'importance de la communication et du travail d'équipe.
+
+    -   Identifiez des solutions pratiques pour améliorer la coordination au sein de l'équipe.
+
+    -   Mettez en avant le rôle crucial de chaque membre dans la réussite du projet.
+
+-   **Conclusion**: Synthétisez les points principaux et encouragez l'optimisme et l'engagement envers le projet.
+
+-   **Formule de clôture**: Terminez votre email par une note chaleureuse, en encourageant le dialogue et en restant à disposition pour plus d'échanges. Évitez une formule de politesse trop formelle de type: “Veuillez agréer…” .
+
+-   **Signature**: N’oubliez pas d’ajouter vos coordonnées à la fin de l’email.
+
+### Informations pratiques
+
+-   Votre courrier doit être d’une longueur de 300-400 mots.
+
+-   Adoptez un ton chaleureux, empathique et rassurant tout en restant professionnel.
+
+-   Faites des phrases courtes et des paragraphes bien structurés pour faciliter la lecture.

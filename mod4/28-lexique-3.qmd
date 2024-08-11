@@ -1,0 +1,148 @@
+---
+title: "Lexique 3"
+# author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: false
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+#    theme: dark
+  html: 
+    self-contained: false
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual  
+---
+
+chronophage
+
+:   Adjectif d'origine grecque: "chrono" temps, "phage" manger. Quelque chose qui nécessite beaucoup de temps pour être accompli, qui donne l'impression d'avaler le temps.
+
+moyens de bord
+
+:   Ressources, souvent limitées, disponibles dans un contexte immédiat. Cela implique l'utilisation de ce que l'on a sous la main pour résoudre un problème ou pour mener à bien une tâche. L'expression est souvent utilisée pour parler de situations où l'on doit se débrouiller en faisant preuve de créativité avec les ressources limitées que l'on possède.
+
+mettre à l'épreuve
+
+:   Tester, évaluer, examiner, confronter aux difficultés L'expression "mettre à l'épreuve" signifie tester la résistance, la fiabilité, ou la qualité de quelque chose ou de quelqu'un dans des situations difficiles ou exigeantes. Cela peut impliquer de soumettre une personne à des défis pour évaluer ses compétences, son endurance ou son caractère, ou bien tester un produit ou un concept pour vérifier sa performance sous contrainte. L'idée est d'observer comment l'objet ou la personne réagit face à des difficultés, afin de juger de sa valeur ou de son efficacité.
+
+tout à fait
+
+:   Absolument, complètement, entièrement
+
+périssable
+
+:   quelque chose qui ne dure pas. Le terme s'applique souvent aux produits frais, comme les fruits, les légumes, la viande, et les produits laitiers, mais peut aussi concerner d'autres produits nécessitant une conservation spécifique. Les biens périssables requièrent des conditions de stockage adéquates pour prolonger leur durée de vie.
+
+commerce de proximité
+
+:   Petits magasins ou établissements commerciaux situés près des zones résidentielles, offrant des produits et des services essentiels au quotidien: boulangeries, charcuteries, fromageries, pâtisseries, épiceries du coin, poste pharmacie... Ces commerces sont accessibles à pied pour les habitants locaux et visent à répondre rapidement et facilement à leurs besoins immédiats, favorisant ainsi une relation de proximité et de confiance entre les commerçants et la clientèle.
+
+grande surface
+
+:   Une grande surface se trouve aux antipodes d'un commerce de proximité. Les grandes surfaces font souvent partie des chaînes de magasins qui proposent une vaste gamme de produits de consommation, souvent à des prix compétitifs, grâce à l'achat en gros. Ces établissements peuvent inclure des hypermarchés, des supermarchés, et des centres commerciaux, offrant des articles alimentaires, vestimentaires, électroniques, appareils et produits ménagers, etc. Les grandes surfaces sont conçues pour être des lieux de shopping tout-en-un, facilitant l'accès à une multitude de produits sous un même toit.
+
+interpeller
+
+:   attirer l'attention, provoquer une réaction de quelqu'un par une question, une remarque ou une demande, souvent de manière soudaine ou avec un certain degré de sérieux. Dans le contexte juridique ou policier, cela peut aussi désigner l'action de demander à une personne de s'arrêter pour vérification ou pour poser des questions liées à une infraction présumée. faire une remise
+
+un reçu
+
+:   un ticket de caisse
+
+taux d'ouverture
+
+:   Le "taux d'ouverture" est une métrique utilisée principalement dans le marketing par email pour mesurer le pourcentage de destinataires qui ont ouvert un email envoyé dans le cadre d'une campagne de communication. Le taux d'ouverture permet d'évaluer l'intérêt et l'engagement des destinataires pour le contenu proposé et d'ajuster les stratégies de communication en conséquence.
+
+le démarchage
+
+:   Sollicitation commerciale, vente directe, approche directe
+
+(un) défi
+
+:   épreuve, mission difficile, obstacle à surmonter
+
+(une) filière
+
+:   le secteur d'activité
+
+prêt-à-porter
+
+:   Vêtements fabriqués en série, en tailles standardisées, destinés à être portés sans modifications ou ajustements significatifs. Contrairement à la haute couture, qui propose des pièces uniques adaptées aux mesures spécifiques des client.e.s
+
+faire suite à
+
+:   en réponse à, en conséquence de
+
+fibres
+
+:   fil, composant textile
+
+traçabilité
+
+:   le parcours d'un produit de sa matière première à sa fabrication et sa distribution
+
+irréprochable
+
+:   exemplaire, sans défaut, impeccable
+
+offrir un nouveau souffle
+
+:   Revitaliser, régénérer, renouveler
+
+tendance
+
+:   Les "tendances" désignent les directions ou les courants prédominants dans des domaines variés comme la mode, la technologie, l'économie, la culture, et les comportements sociaux, reflétant les intérêts, les préférences, et les valeurs émergentes d'une société à un moment donné.
+
+éleveur des moutons
+
+:   Un fermier, une personne qui s'occupe de la gestion de la reproduction, de l'alimentation, et du bien-être des animaux comme les moutons, les vaches, les chevaux, etc. Son travail est essentiel pour la production alimentaire et l'agriculture.
+
+se procurer
+
+:   obtenir, acquérir, trouver
+
+laine brute
+
+:   laine naturelle non traitée
+
+filature
+
+:   fabrication de fils textiles
+
+tricotage
+
+:   Le "tricotage" désigne l'acte de former un tissu en entrelaçant des fils à l'aide d'aiguilles à tricoter ou de machines. Cette technique permet de créer des boucles, appelées mailles, qui sont ensuite passées les unes dans les autres.
+
+une société
+
+:   une entreprise, une compagnie, une boîte
+
+un acheminement
+
+:   transport, livraison
+
+un cahier des charges
+
+:   dossier des spécifications techniques d'un projet
+
+rigoureux
+
+:   Méticuleux, précis, soigneux
+
+un gage
+
+:   garantie, preuve d'engagement
+
+```{=html}
+<!-- 
+## Le commerce de proximité : une nouvelle tendance
+
+De nos jours, de plus en plus de gens cherchent à *se procurer* des produits locaux et de qualité. C'est une *tendance* qui prend de l'ampleur. Pour les adeptes du ce modèle économique régénérateur, la qualité et la provenance des produits est un critère essentiel. C'est pour cela qu'ils cherchent des produits avec une *traçabilité* irréprochable, cultivés ou fabriqués selon un *cahier des charges* *rigoureux*. Cette demande offre *un nouveau souffle* aux *commerces de proximité*. Acheter des produits locaux veut dire un *acheminement* plus direct entre producteur et consommateur, ce qui réduit considérablement l'empreinte carbone et permet aux produits *périssables* de rester frais plus longtemps. En plus, dans un magasin de proximité, on peut facilement *interpeller* les commerçants pour avoir plus d'informations sur la provenance et la qualité des produits. Est-ce que pour autant on pourrait éviter les  grandes surfaces? Peut-être pas complètement, mais on peut diminuer les aller-retours *chronophages* en voiture! -->
+```

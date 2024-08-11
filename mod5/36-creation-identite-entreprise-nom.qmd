@@ -1,0 +1,74 @@
+---
+title: "Création de l'identité d'une entreprise: le nom"
+#author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: false
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+  html: 
+    self-contained: false
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual
+---
+
+La création de l'identité d'une entreprise est une étape cruciale pour établir une marque forte et reconnaissable. Cela implique le choix d'un nom accrocheur, mémorable, et facilement prononçable qui reflète les valeurs et la mission de l'entreprise.
+
+::: {.callout-note appearance="simple" icon="false"}
+## Les noms des entreprises étudiées
+
+Flaneurz, Meet my mama, Opaline, Phenix, Onzic, La Vie Laine, Sayna
+
+-   Est-ce que les noms de ces entreprises sont accrocheurs, mémorables, et facilement prononçables? Pourquoi ou pourquoi pas?
+
+-   Est-ce qu'ils reflètent les valeurs et la mission de l'entreprise? Justifiez votre réponse.
+:::
+
+## À vous
+
+À vous de chercher un nom accrocheur, mémorable, et facilement prononçable pour votre entreprise. Cet exercice stimulera votre créativité et votre réflexion sur les mots c'est-à-dire leur étymologie[^1], leur signification (parfois-même leur polysémie[^2]) mais aussi leur sonorité.
+
+[^1]: Analyse des origines des mots
+
+[^2]: Phénomène linguistique par lequel un mot possède plusieurs significations différentes.
+
+## Instructions
+
+### Étape 1: **Brainstorming** (20 minutes)
+
+Dans cette étape votre but est de générer une grande quantité des noms possibles, sans vous censurer. Pour affûter votre connaissance des mots, utilisez seulement un dictionnaire pour cette étape[^3]. Vous pouvez également vous aider des procédés suivants.
+
+[^3]: Essayez le [Dictionnaire Vivant de la Langue Française (DVLF)](https://dvlf.uchicago.edu/)
+
+-   Champ lexical[^4]: faites des listes des mots qui appartiennent dans le même champ lexical.
+
+-   Synonymes: faites des listes des synonymes.
+
+-   Mots valises: fusionnez deux mots en un seul.
+
+-   Acronymes: créez un acronyme à partir des initiales de plusieurs mots.
+
+-   Expressions autour d’un thème, une valeur, une fonctionnalité.
+
+-   Nom des personnages mythiques dont les attributs pourraient évoquer une valeur de la marque. Par exemple Hercule évoque la force.
+
+-   Néologismes: noms qui n’existent pas.
+
+[^4]: Vocabulaire lié à un sujet. Par exemple: mer, océan, bateau, vague, bleu, etc
+
+### Étape 2: Tri et vérification
+
+De tous les noms que vous avez généré dans l’étape précédente, faites le tri, et choisissez les 3 noms les plus prometteurs. Pour vérifiez l’originalité ainsi que la disponibilité du nom de votre entreprise utilisez effectuez des recherches sur [[l’Institut national de la propriété industrielle (INPI).]{.underline}](https://data.inpi.fr/)
+
+### Étape 3: Tester
+
+Avant d'arriver à une décision finale, testez votre sélection des 3 noms auprès de vos camarades.
+
+(Voir fiche de vote)

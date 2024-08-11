@@ -1,0 +1,45 @@
+---
+title: "Ordre du jour"
+#author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: false
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+  html: 
+    self-contained: false
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual
+---
+
+::: {.callout-note icon="false"}
+### Note sur le vocabulaire
+
+> Pour Noël, j'ai reçu un magnifique `agenda` de poche.\
+> Notre directrice a un `agenda` très chargé ces temps-ci.
+
+Quel est le sens du mot agenda dans ces deux exemples?
+:::
+
+## Ordre du jour
+
+Caroline et Émilie préparent la réunion de leur projet pour lundi. Caroline envoie un email à Émilie pour lui rappeler de rédiger l'ordre du jour de la réunion. Lisez attentivement l'email de Caroline ensuite combler les lacunes[^40-ordre-du-jour-1] dans l'ordre du jour d'Émilie (voir fiche ordre du jour).
+
+[^40-ordre-du-jour-1]: informations manquantes
+
+> Bonjour Émilie,
+>
+> Je t'écris concernant notre présentation devant le COMEX lundi prochain le 23 Septembre. Je voulais juste te rappeler de rédiger l'ordre du jour de notre réunion. On se retrouve comme d'habitude dans la one roof. Il faudrait y inscrire les points suivants. D'abord, j'accueillerai les membres du comité exécutif et j'introduirai les différents points de notre présentation. On présentera ensuite la mise à jour de l'app avec les captures d'écran que je t'ai envoyées. Il faudra aussi rappeler les défis que nos développeurs ont rencontré puisque pour cette mise à jour, ils n'ont pas seulement débugué l'app, mais ils ont ajouté des nouvelles fonctionnalités d'où le retard d'exécution par rapport aux dates prévues. Après ta présentation, on aura le temps pour répondre aux questions de membres du comité exécutif, puis on ouvrira la discussion avec eux, en table ronde pour valider les points que tu as faits et pour voir s'il y a des nouvelles modifications à porter à nos développeurs. Enfin, on mettra au clair avec eux les prochaines étapes du projet.
+>
+> Si tu as besoin d'aide ou si tu veux qu'on en discute davantage, n'hésite pas à m'appeler sur mon portable. Sinon, tu peux aussi m'envoyer un brouillon par email, et je pourrais y jeter un œil avant notre réunion lundi.
+>
+> À très vite,
+>
+> Caroline

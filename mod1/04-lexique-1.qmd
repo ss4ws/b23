@@ -1,0 +1,129 @@
+---
+title: "Lexique 1"
+# author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: false
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+#    theme: dark
+  html: 
+    self-contained: false
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual  
+---
+
+axes majeurs
+
+:   lignes directrices principales
+
+plan de relance
+
+:   plan de renaissance économique
+
+désindustrialisé
+
+:   ayant perdu son secteur industriel
+
+Réductions d'horaires
+
+:   diminution des heures de travail
+
+Produit Intérieur Brut
+
+:   PIB (GDP) mesure de l'activité économique d'un pays
+
+la piste ascendante
+
+:   La voie montante
+
+le tertiaire 
+
+:   le secteur de l'économie qui n'est ni agricole ni industriel. Il y a 3 secteurs d'économie: Primaire, Secondaire, Tertiaire. `Le secteur primaire` regroupe l'ensemble des activités dont la finalité consiste en une exploitation des ressources naturelles : agriculture, pêche, forêts, mines, gisements. Parfois les industries extractives sont classées dans le secteur secondaire. `Le secteur secondaire` regroupe l'ensemble des activités consistant en une transformation plus ou moins élaborée des matières premières comme les industries manufacturières, mais également la construction. `Le secteur tertiaire` se définit par complémentarité avec les activités agricoles et industrielles (secteurs primaire et secondaire). Il se compose du tertiaire principalement marchand (commerce, transports, activités financières, services rendus aux entreprises, services rendus aux particuliers, hébergement-restauration, immobilier, information-communication) du tertiaire principalement non-marchand (administration publique, enseignement, santé humaine, action sociale). [Source](https://www.vie-publique.fr/fiches/269995-les-grands-secteurs-de-production-primaire-secondaire-et-tertiaire)
+
+l'industrie a beaucoup externalisé
+
+:   L'industrie a confié beaucoup de ses activités à d'autres entreprises qu'on appelle sous-traitantes.
+
+monnaie
+
+:   Unité monétaire: dollar, euro, etc
+
+peu ou prou
+
+:   Plus ou moins
+
+les mêmes standards sociaux  
+
+:   droits et avantages sociaux obtenus par les travailleurs
+
+la main d'œuvre
+
+:   La rémunération horaire des employés
+
+rogner
+
+:   couper, réduire
+
+la concurrence
+
+:   Compétitivité sur le marché
+
+bémol
+
+:   limitation
+
+Les 35 heures
+
+:   Une réforme mise en place en 2000 qui fait la Réduction du Temps de Travail (RTT) hebdomadaire d'un travailleur à temps plein en 35 heures.
+
+par le biais
+
+:   par l'intermédiaire, via
+
+cotisations sociales 
+
+:   prélèvements obligatoires sur les salaires pour financer les systèmes de protection sociale: santé, retraites, etc
+
+coûts fixes
+
+:   Dépenses permanentes
+
+impôts
+
+:   taxes
+
+les fleurons industriels
+
+:   Les entreprises phares de l'industrie, les meilleurs entreprises
+
+la douche froide
+
+:   Choc désagréable
+
+CAC 40
+
+:   Liste des 40 plus grandes entreprises françaises cotées en bourse.
+
+le patronat
+
+:   l'ensemble des chefs d'entreprises
+
+subvention
+
+:   soutien financier de l'État
+
+néolibéralisme
+
+:   Doctrine économique et politique prônant la liberté des marchés, la réduction de l'intervention de l'État et la privatisation.
+
+les enjeux
+
+:   les conséquences importantes

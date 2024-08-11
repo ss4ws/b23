@@ -9,85 +9,74 @@ book:
   repo-url: https://github.com/ss4ws/b23
   downloads: [pdf, epub]
   title: "Business French" 
-  # author: "Spyros"
+  author: "Spyridon Simotas"
   # date: "2/1/2023"
   sidebar: 
     collapse-level: 1
   page-navigation: true
   chapters:
     - index.qmd
-    - syllabus.qmd
-    - part: "Module 1"
+#    - syllabus.qmd
+    - part: "Module 1: Le monde de l’entreprise"
       chapters:
-        - mod1/1.1-intro.qmd
-        - mod1/1.2.qmd
-        - mod1/1.3.qmd
-        - mod1/1.3.1.qmd
-        - mod1/1.4.qmd
-        - mod1/1.5.qmd
-        - mod1/1.6.qmd
-        - mod1/1.7.qmd
-    
-    - part: "Module 2"
-      chapters:
-      - mod2/2.1-objectifs.qmd
-      - mod2/2.2.qmd
-      - mod2/2.3.qmd
-      - mod2/2.4.qmd
-      - mod2/2.5.qmd
-      - mod2/2.6.qmd      
-
-
-    - part: "Module 3"
-      chapters:
-        - mod3/3.0-intro.qmd
-        - mod3/3.1.qmd
-        - mod3/3.2.qmd 
-        - mod3/3.3.qmd
-        - mod3/3.4.qmd
-        - mod3/3.5.qmd
-        - mod3/3.6.qmd
-        - mod3/3.7.qmd
-        - mod3/3.8.qmd
-        - mod3/3.9.qmd
-        - mod3/3.10.qmd
-        - mod3/3.11.qmd
-
-    - part: "Module 4"
-      chapters:
-      - mod4/4.1.qmd
-      - mod4/4.2.qmd
-      - mod4/4.3.qmd
-      - mod4/4.4.qmd
-      - mod4/4.5.qmd
-      - mod4/4.6.qmd
-      - mod4/4.7.qmd
-      - mod4/4.8.qmd
-      - mod4/4.9.qmd
-      - mod4/4.10.qmd
-      - mod4/4.11.qmd
-
-    - part: "Module 5"
-      chapters:
-      - mod5/5.1-intro.qmd
-      - mod5/5.2.qmd
-      - mod5/5.3.qmd
-      - mod5/5.4.qmd
-      - mod5/5.5.qmd
-      - mod5/5.6.qmd
-      - mod5/5.7.qmd
-      - mod5/5.8.qmd
-      - mod5/5.9.qmd
-      - mod5/5.10.qmd
-      - mod5/5.11.qmd
-      - mod5/5.12.qmd
-
-    - part: "Module 6"
-      chapters:
-      - mod6/6.1.qmd
-      - mod6/6.2.qmd
-      - mod6/6.3.qmd
-
+       - mod1/01-entreprise-c-quoi.qmd
+       - mod1/02-entreprise-c-quoi-class.qmd
+       - mod1/03-desindustrialisation-francaise.qmd
+       - mod1/04-lexique-1.qmd
+       - mod1/05-parler-en-public.qmd
+       - mod1/06-discours-modele.qmd
+#       - mod1/07-quiz-lexique-1.qmd
+       - mod1/08-commenter-graphique.qmd
+       - mod1/09-presentation-orale.qmd
+    - part: "Module 2: Profils et projets entrepreneuriaux"
+      chapters: 
+        - mod2/10-la-start-up-autonomie.qmd
+        - mod2/11-sayna.qmd
+        - mod2/12-compte-rendu.qmd
+        - mod2/13-compte-rendu-activites-classe.qmd
+        - mod2/14-lexique-2.qmd
+        - mod2/15-canevas-opportunite.qmd
+        - mod2/16-compte-rendu-assignment.qmd
+    - part: "Module 3: Construire son dossier de candidature (CV & LM)"
+      chapters: 
+        - mod3/17-cv-incompetence.qmd
+        - mod3/18-lettre-motivation.qmd
+        - mod3/19-cv-composition.qmd
+        - mod3/20-entretien-embauche.qmd
+        - mod3/21-activites-cv-lm-class.qmd
+        - mod3/22-equipes-efficaces.qmd
+    - part: "Module 4: Une idée d’entreprise"
+      chapters: 
+        - mod4/23-speednetworking-activity.qmd
+        - mod4/24-optimiam.qmd
+        - mod4/25-pitch-vie-laine.qmd
+        - mod4/26-vie-laine-h5p.qmd
+        - mod4/27-business-model-canvas.qmd
+        - mod4/28-lexique-3.qmd
+        - mod4/29-brainstorming.qmd
+        - mod4/30-le-pitch.qmd
+        - mod4/31-conseils-onzic-brainstorming.qmd
+        - mod4/32-pitch-d-une-startup.qmd
+    - part: "Module 5: Création d’une identité d’entreprise et d’un plan marketing"
+      chapters: 
+        - mod5/33-marketing.qmd
+        - mod5/34-nom-d-une-marque.qmd
+        - mod5/35-nom-logo.qmd
+        - mod5/36-creation-identite-entreprise-nom.qmd
+        - mod5/37-creation-identite-entreprise-slogan.qmd
+        - mod5/38-id-vis.qmd
+    - part: "Module 6: La vie d’entreprise"
+      chapters: 
+        - mod6/39-vie-entreprise.qmd
+        - mod6/40-ordre-du-jour.qmd
+        - mod6/41-correspondance.qmd
+        - mod6/42-boite-a-lettres.qmd
+        - mod6/43-gestion-crise.qmd
+    - part: "Module 7: Création du site web de l’entreprise"
+      chapters: 
+        - mod7/44-sites-web.qmd
+        - mod7/45-projet-final.qmd
+        
 comments: 
   hypothesis: true
 # project:

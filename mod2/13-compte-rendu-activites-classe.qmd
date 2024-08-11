@@ -1,0 +1,131 @@
+---
+title: "Le compte rendu -- Activités à faire en classe"
+#author: ""
+format: 
+  html: 
+    self-contained: false
+    page-layout: article
+    docx: default
+    pdf: default
+#  revealjs: 
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual
+---
+
+## Activités de groupe
+
+Choisissez une des deux activités:
+
+#### 1. Compte rendu de l'interview de Matina Razafimahefa (Fondatrice de Sayna)?
+
+Dans [son interview Matina Razafimahefa](https://canvas.its.virginia.edu/courses/104170/files/6487853?module_item_id=1053638&fd_cookie_set=1), fondatrice de Sayna, parle de son projet entrepreneurial. Faites le compte rendu de son interview en répondant aux questions suivantes:
+
+-   Qui parle? Où? À propos de quoi?
+-   Comment définit-elle l'objectif principal de son entreprise?
+-   Quand est-ce qu'on sait si l'objectif est atteint?
+-   Qui sont les clients de l'entreprise?
+-   Quelle est la spécificité du produit, ou du service? Qu'est-ce qui le différencie de la compétition?
+-   Quels sont les objectifs de l'entreprise pour l'avenir?
+
+#### 2. Compte rendu de l'interview de Sofia De Meyer, porte-parole de l'entreprise régénérative:
+
+-   Qui parle? Où? À propos de quoi?
+-   Comment définit-elle le problème avec l'économie mondialisée?
+-   Comment définit-elle le concept d'une entreprise régénérative?
+-   Quels sont les avantages d'une telle entreprise?
+
+::: {.callout-note appearance="simple" icon="false"}
+## Transcription de l'interview de Sofia De Meyer
+
+**Voix off**
+
+Sofia De Meyer, prise une.
+
+**Laurent Haug,** *journaliste*
+
+Vous dites que le modèle d'économie mondialisée ne fonctionne plus. Pourquoi ?
+
+**Sofia De Meyer,** *co-fondatrice des jus Opaline et de la Fondation Opaline*
+
+L'économie mondialisée, déjà, elle nous déconnecte de la notion de la «communauté». C'est parce qu'à partir du moment où on est déconnecté de son fournisseur, de sa clientèle, eh bien, on retombe dans des réflexes d'optimisation financière. La deuxième raison, elle est au niveau environnemental. L'économie mondialisée veut dire qu'on va acheter la matière première dans un endroit, la faire aller dans un autre endroit pour qu'elle soit partiellement produite, dans un troisième endroit pour qu'on complète la production puis pour arriver au point de vente. Donc, il y a un impact environnemental absolument énorme. Et on voit aujourd'hui la crise écologique que l'on vit. Je crois que c'est une des raisons qu'il nous faut adresser.
+
+**Laurent Haug,** *journaliste*
+
+Beaucoup de gens font des entreprises durables. Vous, vous allez beaucoup plus loin : vous faites une entreprise régénérative. Qu'est-ce que ça veut dire ?
+
+**Sofia De Meyer,** *co-fondatrice des jus Opaline et de la Fondation Opaline*
+
+Alors, «régénérative», c'est aller au-delà du durable. C'est de se dire: ben, l'entrepreneuriat, il doit pas juste limiter son impact négatif, il doit travailler sur un impact positif.
+
+**Laurent Haug,** *journaliste*
+
+Cette approche fait, par exemple, que vous avez des liens tout particuliers avec vos employés.
+
+**Sofia De Meyer,** *co-fondatrice des jus Opaline et de la Fondation Opaline*
+
+Eh bien, dans cette idée de l'économie régénérative, on va créer un lieu de vie qui soit inspirant pour tous. Concrètement, ça veut dire que chaque personne est valorisée par rapport à son engagement, et puis, à ce qu'elle va amener à l'entreprise. Également au niveau salarial, on a adopté chez Opaline quelque chose d'assez révolutionnaire où tout le monde est payé le même salaire. Ça a amené des discussions assez intéressantes sur quelle est la notion de ce salaire: qu'est-ce que mon travail vaut finalement? Et puis: qu'est-ce que je suis d'accord d'accepter?
+
+**Laurent Haug,** *journaliste*
+
+Comment se traduit votre approche dans vos relations avec vos clients?
+
+**Sofia De Meyer,** *co-fondatrice des jus Opaline et de la Fondation Opaline*
+
+Il y a ce lien de confiance qu'on essaie de créer. Donc, la transparence. On est beaucoup sur le terrain, à aller à la rencontre de nos clients. On fait des animations, des dégustations, mais aussi des ateliers. Voilà, on crée des liens.
+
+**Laurent Haug,** *journaliste*
+
+Il y a un mot dont on parle beaucoup en ce moment, c'est «B Corp». C'est une certification. Est-ce que vous pouvez nous expliquer ce que c'est que ce label ?
+
+**Sofia De Meyer,** *co-fondatrice des jus Opaline et de la Fondation Opaline*
+
+C'est une certification pour les entreprises qui s'engagent pour avoir un impact positif. Une entreprise va pouvoir être certifiée «B Corp» par rapport à différents éléments sans être parfaite sur tous les plans.
+
+**Laurent Haug,** *journaliste*
+
+Vous étiez dans le monde *corporate* dans une grande ville: avocate à Londres. Aujourd'hui, vous êtes à la montagne, entrepreneuse. Qu'est-ce qui a été le plus difficile dans la transition d'un monde à l'autre.
+
+**Sofia De Meyer,** *co-fondatrice des jus Opaline et de la Fondation Opaline*
+
+Ça génère toutes sortes de retour de notre environnement, notre famille, nos amis qui ne comprennent pas comment une personne qui est avocate, qui a une sorte de sécurité d'emploi, puisse lâcher pour faire autre chose. On n'est pas encore dans cet état d'esprit. Du moins notre génération. On a un travail pour le garder. Or, aujourd'hui, la vie pour moi, c'est le changement. Qui dit entrepreneur dit échec. Pour moi, ça va ensemble. Je crois qu'on est tous animés de peur. Après, la question, c'est comment est-ce que je gère cette peur. Qu'est-ce qu'elle me dit? Jusqu'où je peux aller? Et puis, c'est de s'écouter et puis petit à petit de faire son chemin.
+
+**Voix off**
+
+Entrepreneur stories, clap de fin. 
+:::
+
+## Mots du vocabulaire
+
+optimisation financière
+
+:   Maximisation des bénéfices et/ou réduction des coûts
+
+durable
+
+:   écologique, respectueux de l'environnement, à faible impact environnemental
+
+être sur le terrain
+
+:   être directement impliqué.e, agir directement sur une situation
+
+créer des liens
+
+:   construire un réseau qui favorise le soutien, la confiance et l'entente.
+
+retour
+
+:   À part son sens premier, l'action de revenir à un point de départ ou une situation antérieure, un retour peut aussi faire référence à la réception d'informations ou des commentaires. Faire un retour = donner un feedback.
+
+lâcher
+
+:   Abandonner, libérer, se détacher
+
+échec
+
+:   Un échec est une non-réussite, une contre-performance, c'est-à-dire le fait de ne pas atteindre un objectif ou de ne pas satisfaire une exigence ou une attente. Le mot peut s'appliquer à des domaines variés comme les études, les projets professionnels, les entreprises, les compétitions sportives, ou les initiatives personnelles. Malgré sa connotation négative, l'échec peut être perçu comme une opportunité d'apprentissage et de développement. De nombreux entrepreneurs attribuent leur succès à la série d'échecs qui l'ont précédé. À ce sujet on cite souvent Thomas Edison: «Je n'ai pas échoué. J'ai simplement trouvé 10.000 solutions qui ne fonctionnent pas.»

@@ -1,0 +1,41 @@
+---
+title: "Découverte des sites web"
+# author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: false
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+#    theme: dark
+  html: 
+    self-contained: false
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual  
+---
+
+## L'importance d'un site web
+
+Pour effectuer la dernière étape de la création de votre entreprise, [il vous faut un site web](https://www.francenum.gouv.fr/guides-et-conseils/developpement-commercial/site-web/creer-un-site-internet-pour-developper) (ce document explique les raisons pour lesquelles un site web est un étape cruciale dans la vie d'une entreprise).
+
+Est-ce que vous pouvez imaginez certaines de ces raisons?
+
+## Le cahier des charges
+
+Mais est-il possible de créer un site web si on n'a pas de connaissances techniques? Qu'est-ce qu'il faut savoir avant de commencer? Comment planifier le processus de la création? [Le cahier des charges.](https://www.francenum.gouv.fr/guides-et-conseils/developpement-commercial/site-web/comment-batir-le-cahier-des-charges-dun-site)
+
+## Découverte des sites de la concurrence
+
+Avec votre groupe naviguer sur les sites web des entreprises similaires à la votre. Commencer par regarder les sites web de la concurrence, vous permettra de vous inspirez d'autres entreprises de votre secteur, mais savoir aussi comment vous distinguer d'elles, comment vous différencier.
+
+Avec votre partenaire rendez-vous sur deux site de votre concurrence? Faites une comparaison. Quelles sont les similarités? Quelles sont les différences?  
+
+## Esquisse d'une page d'accueil
+
+Avant d'aller plus loin, avec votre groupe, faites l'esquisse (le dessin, la première ébauche) **sur une feuille de papier** de la page d'accueil de votre entreprise. Comment l'imaginez-vous? Quels sont les éléments qu'elle doit contenir? Après avoir esquissé votre page sur une feuille de papier, partagez vos dessins au tableau.

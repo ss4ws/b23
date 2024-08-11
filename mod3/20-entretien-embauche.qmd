@@ -1,0 +1,65 @@
+---
+title: "Entretien d'embauche"
+#author: ""
+format: 
+  html: 
+    self-contained: false
+    page-layout: article
+    docx: default
+    pdf: default
+#  revealjs: 
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual
+---
+
+L'entretien d'embauche est la dernière étape d'une candidature réussie. Décrocher un entretien d'embauche signifie que votre candidature a passé toutes les étapes préliminaires de sélection et qu'elle s'est démarquée.
+
+Vous êtes donc convoqué.e.s à un entretien d'embauche.
+
+Un entretien d'embauche est une première rencontre personnelle avec votre éventuel futur employeur. Celui-ci a été impressionné par votre dossier et désire de vous connaître en tant que personne. Comme c'est souvent le cas (ça dépend, bien sûr, du secteur d'activité, ou du poste que vous convoitez), un entretien d'embauche n'est pas une vérification de vos compétences, mais une estimation de votre personnalité, de votre caractère.
+
+Comme pour le CV et la lettre de motivation, tout compte dans un entretien d'embauche. Les choix de votre tenue vestimentaire, votre expression verbale, mais aussi tout ce qui relève de la communication non-verbale, c'est-à-dire la posture du corps, les expressions du visage, la gestuelle. La communication non-verbale part du principe que le corps envoie aussi des messages à un interlocuteur lors d'un échange. Ces messages sont très importants et peuvent dévoiler des intentions refoulées.
+
+Les entretiens d'embauche ne sont pas figés en un format. Ils se déroulent parfois à plusieurs (c'est le cas d'un candidat qui se trouve face à plusieurs personnes lors de son entretien) ou même en plusieurs étapes (le candidat rencontre d'abord son manager, puis dans un deuxième temps une personne de la direction du département des ressources humaines).
+
+Chaque personne dans un entretien, ou chaque étape d'un entretien évalue différents aspects de la personnalité du ou de la candidat.e, pour conclure à la fin, si il ou elle est la personne idéale pour le poste.
+
+### Questions à préparer
+
+Pour la simulation de l'entretien d'embauche que nous ferons ensemble préparez des réponses à ces 5 questions.
+
+1.  **Pourriez-vous me parler un peu de vous?**
+
+Utilisez l'accroche de votre CV comme point de départ pour répondre à cette question! Préparez une réponse concise qui met en valeur vos compétences et expériences les plus pertinentes pour le poste. Évitez de donner des informations personnelles non pertinentes.
+
+**Exemple de réponse:** "Je suis diplômé.e en gestion d'entreprise et j'ai fait un stage dans le secteur du marketing digital. Chez mon dernier employeur, j'étais responsable de la stratégie de contenu, ce qui m'a permis de développer mes compétences en communication et en analyse de données. Je suis particulièrement motivé.e par les défis et l'innovation, ce qui m'a conduit à postuler pour ce poste."
+
+2.  **Pourriez-vous me citer une de vos qualités et un de vos défauts?**
+
+Choisissez une qualité professionnelle qui vous caractérise en expliquant comment vous l'utilisez dans un contexte professionnel. Lorsque vous parlez de vos défauts, montrez que vous êtes conscient de vos faiblesses et que vous travaillez activement à les améliorer.
+
+**Exemple de réponse:** "Je considère que ma plus grande qualité est ma capacité d'apprendre vite et de m'adapter aux changements. Je suis quelqu'un qui suit de près l'évolution des tendances dans le marketing digital et je sais ajuster mes stratégies pour créer du contenu original. Un domaine dans lequel je cherche à m'améliorer est la gestion du temps. J'ai tendance à me concentrer sur les détails, ce qui peut parfois me faire perdre de vue l'ensemble. Dernièrement, j'ai commencé à utiliser des outils de gestion du temps et j'ai constaté une amélioration."
+
+3.  **Préférez-vous travailler seul(e) ou en équipe?**
+
+Il n'y a pas de bonne ou de mauvaise réponse à cette question. Cela dépend du poste et de l'entreprise. Un recruteur attand probablement une flexibilité de la part du ou de la candidat.e dans ce contexte. Montrez que vous êtes capable de travailler dans les deux contextes.
+
+**Exemple de réponse:** "Je suis à l'aise aussi bien en travail d'équipe qu'en autonomie. Travailler en équipe me permet de bénéficier de différentes perspectives, ce qui enrichit le travail. Cependant, je sais aussi prendre des initiatives et avancer seul.e sur des projets, ce qui est crucial lorsqu'il est nécessaire de respecter des délais serrés."
+
+4.  **Imaginez le scénario suivant: vous travaillez sur un projet en équipe et un.e de vos collègues semble avoir perdu sa motivation, que faites-vous?**
+
+Remonter le moral d'un.e collègue démotivé.e n'est pas chose facile, mais en faisant preuve d'empathie et en soulignant l'importance de la communication, on pourrait tenter d'améliorer la situation. Vous pourriez suggérer d'avoir une conversation ouverte et honnête avec le ou la collègue pour comprendre ses préoccupations.
+
+**Exemple de réponse:** "Je prendrais le temps de discuter en privé avec le ou la collègue concerné.e pour comprendre les raisons de sa perte de motivation. J'essaierais de lui apporter mon soutien et de trouver ensemble des solutions pour surmonter les obstacles. Il est important pour moi de travailler dans une équipe où il y a du respect et du soutien mutuel."
+
+5.  **Pourquoi vous et pas quelqu'un d'autre? Quel intérêt aurions-nous à retenir votre candidature plutôt qu'une autre?**
+
+Cette question cache une autre: "avez-vous quelque chose à ajouter que nous n'avons pas encore abordé?" Il ne faut donc surtout pas répéter des informations données précédemment. Il faut aussi éviter les réponses arrogantes du type "parce que je suis le ou la meilleur.e." Il suffit de mettre en avant une des vos compétences uniques qui n'a pas encore été mentionnée. Soyez précis et donnez des exemples concrets pour soutenir vos propos.
+
+**Exemple de réponse:** "Je pense que ma capacité à m'adapter rapidement aux changements et à travailler efficacement sous pression sont des atouts qui correspondent aux défis auxquels votre entreprise fait face."

@@ -1,0 +1,302 @@
+---
+title: "Lettre de motivation"
+#author: ""
+format: 
+  html: 
+    self-contained: false
+    page-layout: article
+    docx: default
+    pdf: default
+#  revealjs: 
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual
+---
+
+Une lettre de motivation fait partie du dossier d'une candidature pour une offre d'emploi. La lettre de motivation accompagne le CV et met en avant l'intérêt du ou de la candidat.e ainsi que ses qualifications, sa formation et ses expériences professionnelles antérieures.
+
+La lettre de motivation peut être spontanée (c'est-à-dire sans répondre à une offre d'emploi précise), ou rédigée pour répondre à une offre d’emploi.
+
+C’est un document important parce qu'il permet au ou à la candidat.e d’esquisser son profil en quelques lignes tout en manifestant son intérêt et sa volonté pour le projet professionnel proposé.
+
+Une lettre de motivation doit être claire, concise et aller droit à l’essentiel. Pour ce faire, il ne faut pas excéder une page dactylographiée.
+
+La lettre doit assurer les recruteurs que la candidature est délibérée. Lui montrer qu'on a fait des recherches et qu'on connait bien certains aspects de l’entreprise convoitée, comme par exemple: sa taille, son secteur, ses valeurs, sa mission, ainsi que ses principaux concurrents. Aujourd'hui, c'est facile de trouver toutes ces informations sur internet.
+
+La lettre de motivation permet également au ou à la candidat.e de mettre en valeur son parcours comme par exemple sa formation ainsi que son expérience professionnelle antérieure, si c'est le cas. Tout autre talent ou compétence spécifique qui pourrait distinguer le ou la candidat.e aux yeux des recruteurs doit aussi être mentionné.
+
+Enfin, la lettre de motivation permet aussi au ou à la candidat.e d'imaginer la future collaboration avec l'entreprise et d'en lister quelques avantages potentiels. Sans exagérations, on peut parler des contributions positives qu'on est en mesure d'apporter et d'envisager aussi sa propre prospérité dans ce poste.
+
+Il va de soi qu'un dossier de candidature (CV et lettre de motivation) doit être impeccable du point de vu grammatical. **Les équipes de recrutement n'auront pas la patience de lire un dossier de candidature avec des erreurs d’orthographe, des fautes d’accord, de conjugaison, etc.** Ces fautes ne sont pas forcément une indication du niveau d’expertise avec la langue (il arrive à tout le monde de faire des fautes de frappe *typos*), mais un manque de rigueur. Elles témoignent, peut-être, d’un caractère mal-organisé, peu soigné, négligeant—traits peu désirables dans un milieu professionnel.
+
+Par conséquent, votre dossier de candidature doit être lu, relu et corrigé plusieurs fois par vous-même et une autre personne experte dans le domaine (camarade, prof, conseiller professionnel).
+
+::: {.callout-important appearance="simple"}
+## À propos de l'orthographe
+
+Arnaud Hoedt et Jérôme Piron, deux linguistes qui prônent la reforme de l'orthographe du français, ont publié le livre *La faute de l’orthographe*. Tout au long du livre, [devenu même spectacle pour la scène](https://www.youtube.com/watch?v=5YO7Vg1ByA8), les deux linguistes font référence à des effets discriminatoires de l'orthographe et l'impact de ces discriminations dans le marché du travail.
+
+> La question de l'orthographe touche aussi celle de l'accès à l'emploi. Dans ces cas-là, aujourd'hui on sait ce que coûte une faute. Et vous imaginez, si ce n'est pas votre langue maternelle. Ou si vous êtes dyslexique… On utilise aussi souvent l'orthographe pour disqualifier une pensée. Sur Internet, on lit régulièrement des commentaires du genre: Va d'abord soigner ton orthographe et après tu te permettras de donner ton avis. Donc on interdit à quelqu'un de s'exprimer à cause de son orthographe.
+
+> On est donc face a une forme de discrimination, que tout le monde trouve légitime, à droite comme à gauche, chez les conservateurs comme chez les progressistes. C'est quand même un sujet qui a mis d'accord Le Canard enchaîné et Le Figaro. Même ceux qui subissent cette discrimination la trouvent légitime. Et cela n'est possible que si cette orthographe est sacrée. Le *Bon Usage* devient la Bible. Tout ce qui s'y trouve est parole d'évangile. Si c'est dans *Bescherelle*, ainsi soit-il.
+
+--- Hoedt, Arnaud, Jérôme Piron, and Kevin Matagne. *La faute de l’orthographe*. La convivialité. Paris: Textuel, 2017.
+:::
+
+::: {.callout-tip appearance="simple" icon="false"}
+## Les conventions d'une lettre de motivation
+
+1.  **En-tête:**
+
+    -   **Nom et coordonnées du candidat:** En haut à gauche, indiquez votre nom complet, adresse postale, numéro de téléphone, et adresse e-mail.
+    -   **Coordonnées du destinataire:** Sur la droite, indiquez le nom, le titre, l'entreprise, et l'adresse postale du destinataire.
+    -   **Date et lieu:** Juste en dessous, mentionnez la ville et la date d'envoi de la lettre, alignées à droite.
+
+2.  **Objet:** Candidature au poste de \[nom du poste\]
+
+3.  **Pièce(s) jointe(s):** CV
+
+4.  Madame, Monsieur ou, mieux, le nom de la personne si vous le connaissez, suivi d'une virgule.
+
+5.  **Introduction:** Situation actuelle et intérêt pour le poste. Indiquer où vous avez trouvé l'annonce ou si quelqu'un vous a recommandé pour ce poste.
+
+6.  **Corps de la lettre:**
+
+    -   **Expérience et compétences:** Développez sur vos expériences professionnelles, formations, et compétences qui vous rendent idéal.e pour le poste. Utilisez des exemples précis.
+    -   **Motivation:** Expliquez pourquoi vous souhaitez rejoindre cette entreprise en particulier, en montrant que vous vous êtes renseigné.e sur elle.
+
+7.  **Conclusion:**
+
+    -   **Demande d'entretien:** Exprimez votre souhait de discuter de votre candidature de manière plus approfondie lors d'un entretien.
+    -   **Formule de politesse:** Terminez par une formule de politesse.
+
+8.  **Signature:** Laissez un espace pour votre signature manuscrite (si la lettre est imprimée) puis tapez votre nom complet.
+:::
+
+## Formules pour l'introduction de la lettre
+
+L'introduction doit être personnalisée pour chaque candidature, en mettant en avant la manière dont vous avez découvert l'offre et les raisons pour les quelles vous estimez que vos qualifications y correspondent. C'est aussi l'occasion de montrer votre connaissance de l'entreprise et d'exprimer clairement votre motivation.
+
+::: {.callout-tip appearance="simple" icon="false"}
+## Voici quelques formules d'introduction efficaces qui peuvent vous servir dans la rédaction d'une lettre de motivation
+
+1.  **Pour répondre à une annonce:**
+    -   Suite à votre annonce parue sur \[nom du site ou de la publication\], je me permets de vous soumettre ma candidature pour le poste de \[nom du poste\].
+    -   Ayant pris connaissance de l'offre d'emploi pour le poste de \[nom du poste\] publiée sur \[source\], je souhaite vous exprimer mon vif intérêt pour rejoindre votre équipe.
+2.  **Pour une candidature spontanée:**
+    -   Passionné par \[domaine\], je me permets de vous adresser ma candidature spontanée pour envisager une collaboration au sein de votre entreprise, convaincu que mon profil pourrait vous apporter.
+    -   Admiratif du travail réalisé par \[nom de l'entreprise\], je souhaite vous proposer ma candidature spontanée pour un poste de \[nom du poste\], convaincu de pouvoir contribuer à vos projets.
+3.  **Lorsque vous avez été recommandé:**
+    -   Sur recommandation de \[nom de la personne\], je me permets de vous adresser ma candidature pour le poste de \[nom du poste\]. \[Nom de la personne\] m'a assuré que mes compétences seraient en parfaite adéquation avec les besoins de votre équipe.
+    -   \[Nom de la personne\], qui occupe le poste de \[son poste\] au sein de votre société, m'a encouragé à vous envoyer ma candidature pour le poste de \[nom du poste\], convaincu que mon profil correspond à vos attentes.
+4.  **Pour montrer directement votre motivation:**
+    -   Fort d'une expérience de \[nombre d'années\] ans dans le domaine de \[domaine\], je suis particulièrement intéressé par la possibilité de mettre mes compétences au service de \[nom de l'entreprise\] en tant que \[nom du poste\].
+    -   Ayant suivi avec intérêt l'évolution de votre entreprise, je suis convaincu que rejoindre votre équipe en tant que \[nom du poste\] serait une formidable opportunité de contribuer à vos succès.
+:::
+
+## Formules pour le corps de la lettre
+
+Dans le corps d'une lettre de motivation, l'objectif est de vous faire démarquer comme candidat.e potentiel.le pour le poste, en mettant en avant vos compétences, expériences et motivations. Les formules suivantes doivent être adaptées en fonction de votre profil, de vos expériences, et de la spécificité du poste et de l'entreprise visée. Il est important de personnaliser votre lettre de motivation pour chaque candidature, en mettant en lumière les aspects de votre parcours les plus pertinents pour le poste.
+
+::: {.callout-tip appearance="simple" icon="false"}
+### Voici quelques formules utiles à intégrer dans le corps de la lettre
+
+### 1. **Présentation de vos compétences et expériences:**
+
+-   **Pour mettre en avant une expérience:**
+    -   Au cours de mon précédent emploi chez \[Nom de l'entreprise\], j'ai eu l'opportunité de \[action ou responsabilité\], ce qui m'a permis de développer \[compétence ou qualité\].
+    -   Mon expérience en tant que \[votre poste\] m'a enseigné l'importance de \[compétence ou qualité\], une compétence que je suis prêt à mettre au profit de votre équipe.
+-   **Pour souligner une compétence spécifique:**
+    -   Maîtrisant \[compétence\], je suis capable de \[action ou résultat que vous pouvez obtenir grâce à cette compétence\].
+    -   Je me distingue particulièrement dans \[domaine ou compétence\], une expertise que j'ai pu approfondir à travers \[expérience, formation ou projet\].
+
+### 2. **Expression de votre motivation pour le poste et l'entreprise:**
+
+-   **Pour montrer votre intérêt pour l'entreprise:**
+    -   Je suis particulièrement attiré par \[aspect de l'entreprise\], une valeur/stratégie que j'estime essentielle et que je souhaite contribuer à développer.
+    -   Votre engagement envers \[mission ou valeur de l'entreprise\] résonne particulièrement avec mes propres valeurs professionnelles.
+-   **Pour expliquer pourquoi vous postulez à ce poste:**
+    -   Convaincu que je peux apporter \[contribution spécifique\] à votre équipe, je suis très enthousiaste à l'idée de participer à \[projet ou objectif de l'entreprise\].
+    -   Rejoindre votre entreprise représente pour moi l'opportunité de \[ce que vous espérez accomplir\], en alignement avec mes aspirations professionnelles.
+
+### 3. **Mise en avant de vos qualités personnelles:**
+
+-   **Pour illustrer une qualité personnelle:**
+    -   Mon sens de \[qualité\], combiné à ma capacité à \[action ou compétence\], m'ont souvent été bénéfiques dans des situations telles que \[exemple\].
+    -   Je suis reconnu(e) pour mon \[qualité\] et ma capacité à \[action ou compétence\], des atouts que je suis prêt(e) à mettre au service de votre équipe.
+
+### 4. **Illustration par des exemples concrets:**
+
+-   **Pour fournir des preuves de vos réalisations:**
+    -   Sous ma responsabilité, le projet \[nom du projet\] a vu son \[résultat ou performance\] augmenter de \[pourcentage\], témoignant de mon aptitude à \[compétence ou qualité liée à cette réussite\].
+    -   J'ai réussi à \[réalisation spécifique\], ce qui a démontré ma capacité à \[compétence ou qualité en relation avec cette réalisation\].
+:::
+
+## Formules à utiliser par un(e) jeune diplômé(e) sans beaucoup d'expérience professionnelle
+
+Quand on débute dans le marché du travail et on n'a pas beaucoup d'expérience professionnelle, il est crucial de mettre en avant ses études, stages, projets universitaires, compétences transférables, qualités personnelles, et motivation. Chaque profil professionnel est unique et peut apporter de la valeur à l'entreprise. Un des traits très appréciés chez les jeunes diplômé.e.s est leur volonté d'apprendre (auprès des collègues plus expérimentés) et leur capacité de s'adapter aux exigences du poste (heures sup, déplacements fréquents, etc).
+
+::: {.callout-tip appearance="simple" icon="false"}
+### Les formules suivantes sont adaptées pour valoriser ces éléments dans une lettre de motivation
+
+### 1. **Mise en avant de la formation et des connaissances acquises:**
+
+-   Fraîchement diplômé(e) de \[nom de l'établissement\], où j'ai acquis une solide formation en \[domaine d'études\], je suis désireux(se) d'appliquer ces connaissances au sein de votre entreprise.
+-   Mon parcours académique m'a permis de développer une compréhension approfondie de \[sujet ou compétence\], notamment à travers \[exemple de projet ou de mémoire\].
+
+### 2. **Présentation des stages ou des expériences académiques:**
+
+-   Bien que récemment entré(e) sur le marché du travail, mon stage chez \[nom de l'entreprise\] m'a offert une première expérience significative en \[domaine\], où j'ai pu \[action réalisée ou compétence développée\].
+-   Au cours de mon stage à \[nom de l'entreprise\], j'ai eu l'opportunité de mettre en pratique mes connaissances en \[domaine\], en contribuant activement à \[projet ou tâche spécifique\].
+
+### 3. **Valorisation des projets universitaires ou personnels:**
+
+-   Mon projet de fin d'études, centré sur \[sujet du projet\], m'a permis de développer des compétences pratiques en \[compétences acquises\], ainsi qu'une capacité à travailler efficacement en équipe.
+-   J'ai initié un projet personnel qui consistait à \[description du projet\], une expérience qui m'a enseigné l'importance de \[compétence ou qualité développée\].
+
+### 4. **Mise en avant des compétences transférables et des qualités personnelles:**
+
+-   Ma capacité à \[compétence transférable, comme résoudre des problèmes ou communiquer efficacement\] a été régulièrement mise à l'épreuve au cours de mes études et de mes divers engagements associatifs.
+-   Reconnu(e) pour mon \[qualité, comme la persévérance ou la créativité\], je suis capable d'apporter une nouvelle perspective et de l'énergie à votre équipe.
+
+### 5. **Expression de la motivation et de l'enthousiasme pour le poste:**
+
+-   Extrêmement motivé(e) à l'idée de débuter ma carrière professionnelle au sein de votre entreprise, je suis convaincu(e) que ce poste représente l'opportunité idéale pour appliquer mes connaissances et continuer à apprendre.
+-   Passionné(e) par \[domaine lié au poste\], j'ai hâte de contribuer à \[objectif ou projet de l'entreprise\], en apportant mon énergie et ma volonté d'apprendre.
+:::
+
+## Formules pour la conclusion d'une lettre de motivation
+
+La conclusion d'une lettre de motivation est cruciale car elle résume votre intérêt pour le poste et incite le recruteur à vous contacter. Ces formules doivent être adaptées selon le ton général de la lettre et le poste visé. Il est important de rester professionnel tout en exprimant un désir sincère de faire partie de l'entreprise. La conclusion doit laisser une impression positive et inciter le recruteur à passer à l'action, c'est-à-dire à vous contacter pour un entretien.
+
+::: {.callout-tip appearance="simple" icon="false"}
+### Voici des formules efficaces pour conclure une lettre de motivation, en exprimant votre désir d'un entretien et en remerciant le destinataire
+
+### 1. **Expression de l'intérêt pour un entretien:**
+
+-   Je reste à votre entière disposition pour vous fournir toute information complémentaire ou pour nous rencontrer lors d'un entretien, afin de discuter plus en détail de ma candidature.
+-   Convaincu(e) de pouvoir apporter une contribution significative à votre équipe, je serais ravi(e) de vous exposer plus en détail mes motivations lors d'un entretien.
+
+### 2. **Affirmation de la volonté de contribuer au succès de l'entreprise:**
+
+-   Enthousiaste à l'idée de participer aux projets ambitieux de \[nom de l'entreprise\], je suis persuadé(e) que mon profil pourrait s'intégrer parfaitement à votre équipe. J'espère avoir l'occasion de contribuer à votre succès.
+-   Je suis impatient(e) de mettre mes compétences au service de \[nom de l'entreprise\] et de contribuer à la réalisation de vos objectifs.
+
+### 3. **Formule de politesse:**
+
+-   Je vous prie d'agréer, Madame/Monsieur, l'expression de mes salutations distinguées.
+-   Je vous prie de croire, Madame/Monsieur, en l’assurance de ma haute considération.
+
+### 4. **Remerciement pour l'attention portée à votre candidature:**
+
+-   Je vous remercie de l'attention que vous porterez à ma candidature et reste à votre disposition pour toute information complémentaire.
+-   Je vous remercie par avance pour l'intérêt que vous voudrez bien accorder à ma candidature et me tiens à votre disposition pour toute information supplémentaire.
+
+### 5. **Indication de disponibilité:**
+
+-   Disponible immédiatement, je suis à votre disposition pour convenir d'une date d'entretien selon votre convenance.
+-   Je me tiens à votre entière disposition pour un entretien à votre convenance, afin de vous démontrer toute ma motivation.
+:::
+
+## Formules de politesse
+
+Les formules de politesse ne sont pas exclusives à une lettre de motivation. Toute correspondance professionnelle ou administrative finit sur une formule de politesse. Terminer un courrier sur une note respectueuse laisse une dernière impression positive au destinataire et démontre aussi qu'on connait les conventions de communication du milieu professionnel.
+
+::: {.callout-tip appearance="simple" icon="false"}
+### Voici plusieurs options, allant du formel au plus personnalisé, pour finir votre lettre
+
+1.  **Très formel:**
+    -   Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+    -   Veuillez agréer, Madame, Monsieur, l'assurance de ma haute considération.
+    -   Veuillez accepter, Madame, Monsieur, l'expression de ma profonde gratitude.
+2.  **Formel:**
+    -   Je vous prie de croire, Madame, Monsieur, en l'assurance de ma considération distinguée.
+    -   Veuillez recevoir, Madame, Monsieur, mes salutations respectueuses.
+3.  **Lorsque vous avez déjà rencontré la personne:**
+    -   Dans l'attente d'une réponse que j'espère favorable, veuillez agréer, Madame, Monsieur \[nom de famille si connu\], mes salutations les plus cordiales.
+    -   En vous remerciant pour l'attention que vous porterez à ma candidature, je vous prie de recevoir, Madame, Monsieur, l'expression de ma considération distinguée.
+4.  **Pour montrer votre enthousiasme:**
+    -   Espérant avoir l'opportunité de collaborer avec votre équipe, je vous prie d'agréer, Madame, Monsieur, l'expression de mon enthousiasme le plus sincère.
+    -   Dans l'attente d'un retour de votre part, je vous prie d'accepter, Madame, Monsieur, l'expression de ma motivation profonde.
+
+### Conseils pour choisir la formule de politesse:
+
+-   **Adaptez votre formule de politesse** au ton de la lettre, à l'entreprise et au secteur d'activité. Un secteur créatif peut accepter des formules moins conventionnelles qu'un secteur traditionnel comme la finance ou le droit.
+-   **Personnalisez la formule** si vous connaissez le nom de la personne à qui vous vous adressez, cela montre une attention particulière.
+-   **Restez professionnel.le**: Même si vous optez pour une formule légèrement moins formelle, assurez-vous qu'elle reste respectueuse et professionnelle.
+:::
+
+## Deux exemples de lettre de motivation
+
+------------------------------------------------------------------------
+
+**Jean Dupont**\
+123, rue des Exemples\
+75001 Paris\
+Téléphone: 01 23 45 67 89\
+Email: jean.dupont\@example.com
+
+**À l'attention de Madame Sylvie Lefebvre**\
+Directrice des Ressources Humaines\
+Entreprise Innovante SA\
+456, avenue des Innovations\
+75002 Paris
+
+**Le 20 février 2024**
+
+*Objet: Candidature pour un poste de gestionnaire de projet*
+
+Madame Lefebvre,
+
+Je me permets de vous adresser ma candidature pour le poste de gestionnaire de projet au sein de votre entreprise, dont j'ai pris connaissance grâce à l'annonce publiée sur votre site internet. Titulaire d'un Master en Gestion de Projet obtenu à l'Université Paris-Dauphine, et fort d'une expérience de trois ans en tant qu'assistant de projet chez TechnoPlus, je suis convaincu de pouvoir contribuer efficacement à la réussite de vos projets d'innovation.
+
+Au cours de mes précédentes expériences, j'ai pu développer des compétences clés telles que la planification stratégique, la coordination d'équipe et la gestion de budget, qui sont essentielles pour mener à bien les projets ambitieux de votre entreprise. Je suis particulièrement admiratif de la manière dont Entreprise Innovante SA intègre les nouvelles technologies pour répondre aux enjeux contemporains, ce qui correspond parfaitement à ma passion et à mes compétences.
+
+Je suis également reconnu pour ma capacité à communiquer efficacement, tant à l'écrit qu'à l'oral, en français et en anglais, ce qui me permet de travailler harmonieusement avec des équipes multidisciplinaires et internationales. Ma capacité à résoudre les problèmes de manière créative et ma rigueur dans le suivi des projets sont des atouts que je suis impatient de mettre à votre service.
+
+Convaincu qu'une collaboration serait mutuellement bénéfique, je serais ravi de vous rencontrer lors d'un entretien pour discuter plus en détail de ma candidature et de la manière dont je peux contribuer au succès de votre entreprise.
+
+Je vous prie d'agréer, Madame, l'expression de mes salutations distinguées.
+
+Jean Dupont
+
+------------------------------------------------------------------------
+
+### Lettre de motivation 2:
+
+------------------------------------------------------------------------
+
+**Marie Leroy**\
+789, boulevard des Exemplaires\
+69001 Lyon\
+Téléphone: 04 76 54 32 10\
+Email: marie.leroy\@example.com
+
+**À l'attention de Monsieur Pierre Martin**\
+Responsable du département Marketing\
+CréaWeb SARL\
+123, rue du Digital\
+69002 Lyon
+
+**Le 20 février 2024**
+
+*Objet: Candidature pour un stage en marketing digital*
+
+Monsieur Martin,
+
+Actuellement en deuxième année de Master Marketing Digital à l'EM Lyon, je suis à la recherche d'un stage de fin d'études d'une durée de six mois. Votre entreprise, reconnue pour son expertise dans les solutions web innovantes, représente pour moi l'opportunité idéale de mettre en pratique mes connaissances théoriques acquises durant mon cursus universitaire.
+
+Au cours de ma formation, j'ai pu me familiariser avec les différents outils et stratégies de marketing digital, notamment le SEO, le marketing de contenu et les réseaux sociaux. J'ai également eu l'occasion de travailler sur des projets concrets lors de mes stages précédents, où j'ai développé une capacité d'analyse et une créativité qui me permettent de proposer des solutions marketing efficaces et innovantes.
+
+Je suis particulièrement intéressée par la manière dont CréaWeb SARL utilise les dernières technologies pour aider ses clients à optimiser leur présence en ligne. Je suis convaincue que mon profil correspond aux compétences que vous recherchez pour ce stage, et je suis très enthousiaste à l'idée de pouvoir contribuer à vos projets.
+
+Disponible dès le mois de septembre, je suis prête à m'investir pleinement dans les missions qui me seront confiées. Je reste à votre disposition pour un entretien, durant lequel je serais heureuse de vous exposer plus en détail mes motivations et mon parcours.
+
+Je vous prie de croire, Monsieur, en l'expression de mes salutations distinguées.
+
+Marie Leroy

@@ -1,0 +1,179 @@
+---
+title: "Qu'est-ce qu'une entreprise? (Lire en autonomie)"
+# author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: false
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+#    theme: dark
+  html: 
+    self-contained: false
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual  
+---
+
+## Activité de découverte
+
+Regardez [la vidéo](https://www.youtube.com/watch?v=ndtHS0rWoqU) et faites [le quiz](https://canvas.its.virginia.edu/courses/104170/quizzes/109362).
+
+## L'entreprise... c'est quoi?
+
+(resource adaptée de: [faciléco](https://www.economie.gouv.fr/facileco/dossier-lentreprise-cest-quoi))
+
+Les entreprises sont au cœur de l'actualité et du débat public. On entend parler de leurs innovations, de leur croissance, et même de leur déclin. Dans tous les cas, elles rythment la vie économique et sociale et animent notre quotidien avec les produits et service qu'elles proposent. Il est donc essentiel de mieux les connaître. Pourtant nous avons souvent du mal à en prendre la mesure, voire à définir ce que c'est qu'une entreprise.
+
+D'après l'INSEE, "l'entreprise est la plus petite combinaison d'unités légales qui constitue une unité organisationnelle de production de biens et de services jouissant d'une certaine autonomie de décision, notamment pour l'affectation de ses ressources[^01-entreprise-c-quoi-1] courantes." ([source](https://www.insee.fr/fr/metadonnees/definition/c1496))
+
+[^01-entreprise-c-quoi-1]: la gestion optimale des ressources (économiques, humaines, etc)
+
+On note que cette définition met l'accent sur les mots clés suivants: - `unité légale` - `autonomie de décision pour l'affectation de ses ressources`.
+
+Une entreprise est une `unité légale`: elle a un nom et une adresse, de façon à ce qu'elle puisse être représentée devant la loi (personne morale). Pour pouvoir donc exercer son activité, une entreprise doit être reconnue par la loi, et elle doit respecter elle-même ses responsabilités et ses obligations face à la loi en fonction de son statut juridique.
+
+La personne morale
+
+:   En droit, une **personne morale** est une entité dotée de la personnalité juridique, ce qui lui permet d'être directement titulaire de droits et d'obligations en lieu et place des personnes physiques ou morales qui la composent ou qui l'ont créée (par exemple : entreprises, associations…).
+
+La personne morale et la personne physique sont deux des principales entités pouvant avoir des droits et obligations.
+
+(source: Wikipédia)
+
+::: callout
+### Matière à réflexion
+
+Pouvez-vous imaginer des exemples de responsabilités et des obligations d'une entreprise?
+
+<!-- (Exemples: une entreprise doit payer ses employées, elle doit payer ses taxes, elle doit faire en sorte que son exploitation des ressources premières ne mettent pas en risque l'environnement...)  -->
+:::
+
+Une entreprise a une `autonomie de décision pour l'affectation de ses ressources`. Encore une fois, dans la mesure où un certain nombre de règles et de lois sont respectées, une entreprise est libre de prendre ses propres décisions en ce qui concerne les questions de sa gestion interne, de la façon dont ses produits sont fabriqués, stockés, ou distribués dans le marché, mais aussi de la façon dont ses bénéfices sont distribués.
+
+::: callout
+### Matière à réflexion
+
+Pouvez-vous donner quelques exemples qui correspondent à l'autonomie de décision d'une entreprise?
+
+<!-- (Exemples: Une entreprise fait ses propres campagnes de recrutement pour embaucher ses salariés ainsi que pour la promotion d'un salarié. Promotion d'un produit, campagne de marketing et pub.)  -->
+:::
+
+Pour récapituler, il y a entreprise dès que des personnes mobilisent leur talents et leur énergie, rassemblent des moyens matériels et financiers pour créer un produit ou un service et l'offrir à des clients.
+
+En tant que consommateurs, on compte beaucoup sur ces organisations qui nous nourrissent, nous vêtissent, nous transportent, nous divertissent, nous maintiennent en bonne santé, nous fournissent les moyens de communication, les équipements et l'énergie dont nous avons besoin.
+
+En tant qu'employés ou entrepreneurs, nous trouvons dans l'entreprise l'un de nos principaux champs d'expression. Nous y investissons une grande part de notre temps, de notre énergie et de notre créativité. Nous y développons nos compétences et y affirmons notre personnalité.
+
+## Classement des entreprises
+
+(ressource adaptée de: [la finance pour tous](https://www.lafinancepourtous.com/decryptages/entreprise/gestion-et-comptabilite/comptes-de-l-entreprise/elements-cles-de-l-identification-des-entreprises/))
+
+Les entreprises sont tout autour de nous et pourtant nous les connaissons peu. Alors que les différences entre les entreprises sont phénoménales (taille, âge, nombre de salariés, secteur, métiers, etc), on les regroupe toutes sous un même nom. Ci-dessous nous verrons les critères qui nous aident à classer les entreprises.
+
+On classe les entreprises par `secteur`, par `taille` et `chiffre d'affaires`, ou même par `statut juridique`.
+
+### Secteur
+
+Secteur Public : Les entités du secteur public sont détenues et gérées par l'État ou d'autres autorités gouvernementales. Cela inclut les ministères, les services publics (comme les hôpitaux, les écoles, et les services de police), ainsi que certaines entreprises d'État. Le financement provient généralement des impôts et des budgets gouvernementaux, et l'objectif principal est souvent de fournir des services à la société plutôt que de générer des profits.
+
+Secteur Privé : Les entreprises et organisations du secteur privé sont détenues par des individus, des groupes ou des actionnaires privés. Cela inclut des entreprises de toutes tailles, des multinationales aux petites entreprises familiales. Le financement provient des propriétaires, des investisseurs ou des revenus générés par les activités de l'entreprise, et l'objectif principal est généralement de générer des profits pour les propriétaires ou les actionnaires.
+
+### Taille
+
+La taille d'une entreprise est généralement définie en fonction de deux critères principaux : son effectif et son chiffre d'affaires. **L'effectif d'une entreprise se réfère au nombre de personnes qu'elle emploie**, incluant à la fois les employés à temps plein et à temps partiel. Ce critère permet de mesurer la capacité de l'entreprise en termes de ressources humaines. D'autre part, **le chiffre d'affaires, qui représente la somme totale des ventes de biens et de services sur une période donnée**, est un indicateur de la taille économique de l'entreprise. Il reflète son activité commerciale et sa capacité à générer des revenus. Ensemble, ces deux mesures aident à classer les entreprises en différentes catégories (petites, moyennes ou grandes entreprises, etc), ce qui est crucial pour l'analyse économique, l'élaboration des politiques publiques, et pour les stratégies de développement commercial des entreprises elles-mêmes. Cette classification selon la taille est importante car elle détermine souvent les réglementations, les obligations fiscales, et les types de soutien financier auxquels une entreprise peut prétendre.
+
+**Micro-entreprise**
+
+-   Effectif : Ne dépasse généralement pas 10 salariés.
+
+-   Chiffre d'affaires : Inférieur à 900 000 €.
+
+**Petite entreprise**
+
+-   Effectif : Ne dépasse pas 50 salariés.
+
+-   Chiffre d'affaires : Inférieur à 12 millions d'euros.
+
+**Moyenne entreprise**
+
+-   Effectif : Ne dépasse pas 250 salariés.
+
+-   Chiffre d'affaires : Inférieur à 40 millions d'euros.
+
+**Entreprise de Taille Intermédiaire (ETI)**
+
+-   Effectif : Entre 250 et 5.000 salariés.
+
+-   Chiffre d'affaires : Entre 50 et 1 500 millions d'euros.
+
+**Grande entreprise ou Groupe**\
+Les grandes entreprises sont celles qui atteignent et dépassent les seuils mentionnés ci-dessus.
+
+### Statut juridique
+
+Le statut juridique d'une entreprise définit sa structure légale, ses obligations, ainsi que les droits et responsabilités de ses dirigeants. Les principaux statuts juridiques en France sont la Société à Responsabilité Limitée (SARL), la Société par Actions Simplifiée (SAS), l'Entreprise Individuelle (EI), l'Entreprise Individuelle à Responsabilité Limitée (EIRL), et la Société Anonyme (SA).
+
+Comme on peut l'imaginer, une start-up et une grande entreprise, n'auront pas forcément le même statut juridique puisque celui-ci est souvent influencé par la taille de l'entreprise, son modèle économique, et ses besoins en financement. Les start-ups optent fréquemment pour le statut de SAS en raison de sa souplesse et de sa capacité à faciliter les levées de fonds. En revanche, les grandes entreprises privilégient souvent la SA ou la SARL, qui offrent une structure plus adaptée à leur taille importante et à leurs opérations complexes. Rien n'empêche que les start-ups choisissent ces statuts en fonction de leurs objectifs spécifiques et de leur stratégie de croissance.
+
+Les principaux statuts juridiques sont:
+
+1.  **Entreprise Individuelle (EI) :**
+
+    C'est le statut le plus simple pour démarrer une activité seul. L'entrepreneur individuel gère son entreprise sans avoir à créer une société distincte de sa personne. Il est seul responsable des dettes de son entreprise sur son patrimoine personnel.
+
+    -   Exemple : Un artisan travaillant seul, comme un plombier ou un coiffeur.
+
+2.  **Entreprise Individuelle à Responsabilité Limitée (EIRL) :**
+
+    Similaire à l'EI, mais permet de séparer le patrimoine personnel de l'entrepreneur de celui de son entreprise. Ce staut protège les biens personnels en cas de dettes professionnelles.
+
+    -   Exemple : Un consultant en informatique qui souhaite protéger sa maison et son épargne personnelle.
+
+3.  **Société à Responsabilité Limitée (SARL) :**
+
+    Société formée par au moins deux associés (ou un seul dans le cas d'une EURL). Si l'entreprise fait face à des dettes ou à des pertes, les associés ne sont tenus de les rembourser que jusqu'à la hauteur du montant qu'ils ont investi dans l'entreprise lors de sa création ou lors d'augmentations de capital.
+
+    -   Adaptée aux petites et moyennes entreprises.
+
+    -   Exemple : Un restaurant familial géré par plusieurs membres de la famille.
+
+4.  **Société par Actions Simplifiée (SAS) :**
+
+    Structure flexible et adaptée à des projets évolutifs. Permet d'avoir un ou plusieurs associés, et la responsabilité est limitée aux apports. Le président de la SAS est assimilé salarié.[^01-entreprise-c-quoi-2]
+
+    -   Exemple : Une start-up technologique avec plusieurs investisseurs.
+
+5.  **Société Anonyme (SA) :**
+
+    Adaptée aux grandes entreprises, nécessite un capital social important. Elle st dirigée par un conseil d'administration ou un directoire. Les actionnaires sont responsables jusqu'à concurrence de leurs apports.
+
+    -   Exemple : Une grande entreprise cotée en bourse.
+
+6.  **Société en Nom Collectif (SNC) :**
+
+    Tous les associés ont le statut de commerçants et sont indéfiniment responsables des dettes sur leur patrimoine personnel. Ce statut convient pour les petites structures avec des associés qui se font mutuellement confiance.
+
+    -   Exemple : Un cabinet d'avocats ou un cabinet comptable.
+
+[^01-entreprise-c-quoi-2]: Il bénéficie d'une protection sociale presque identique à celle d'un salarié classique.
+
+Le choix du statut dépend de plusieurs facteurs, tels que l'ambition de l'activité, les perspectives d'évolution, le niveau de risque, et l'optimisation fiscale. Les entreprises individuelles offrent simplicité et moins de formalisme. Pour ce statut, il n'y a pas de notion de salaire, ni de dividende, ni de rétribution du dirigeant : la rémunération est confondue avec le bénéfice réel qui est aussi imposable. Mais en cas de risque, l'entrepreneur est seul devant ses responsabilités.
+
+Les statuts sociétaux, tels que SARL, SAS, et SA, offrent plus de formalisme et de flexibilité en matière de gestion des bénéfices et des contributions sociales et fiscales. Une telle société tient régulièrement des assemblées générales dans lesquelles sont discutées les grands plans stratégiques de l'entreprise.
+
+::: callout-note
+### Termes difficiles à comprendre?
+
+Commencez à établir vos listes des termes spécifiques aux affaires à l'aide des ressources suivantes:
+
+-   [Vocabulaire francophone des affaires](https://canvas.its.virginia.edu/courses/104170/files?preview=3384037)
+-   [Le dico de l'éco](https://www.economie.gouv.fr/facileco/dico-eco)
+-   [La finance pour tous – dictionnaire](https://www.lafinancepourtous.com/outils/dictionnaire/lettre/a/)
+-   [Définitions – INSEE](https://www.insee.fr/fr/metadonnees/definitions)
+:::

@@ -1,0 +1,247 @@
+---
+title: "Qu'est-ce qu'une entreprise? (Activités à faire en classe)"
+# author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: false
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+#    theme: dark
+  html: 
+    self-contained: false
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual  
+---
+
+## Diagramme
+
+![](entreprise-diagramme.png)
+
+Une entreprise est une organisation qui produit des biens ou des services pour répondre à des besoins des clients et réaliser un profit. Elle se trouve ainsi au milieu d'un écosystème dans lequel elle doit trouver son équilibre et prospérer.
+
+Il y a d'un côté ses objectifs stratégiques qui définissent ses activités et lui permet de gérer ses ressources et de l'autre côté ses partenaires ses concurrents et ses clients qui l'aident à se développer et à trouver sa place dans le marché.
+
+::: callout
+En groupes: continuez à élaborer le diagramme afin de le complétez, avec les éléments ci-dessous. (Faites votre diagramme à la main et comparez-le avec celui d'un autre groupe.)
+
+```         
+Financières
+- Le capital
+- Les emprunts
+- Les subventions
+```
+
+```         
+- Créer de la valeur ajoutée
+- Développer son activité
+- Innover et se différencier
+- Respecter les normes sociales et environnementales
+```
+
+```         
+Matérielles
+- Les machines
+- Les équipements
+- Les locaux
+```
+
+```         
+- Offrent des produits ou des services similaires 
+- Influencent le comportement des clients et les prix du marché
+```
+
+```         
+Production
+- Transformer de la matière première 
+- Contrôler la qualité
+- Gérer les stocks
+```
+
+```         
+Commercialisation
+- Analyser le marché
+- Définir le prix
+- Promouvoir le produit
+- Distribuer le produit
+```
+
+```         
+Gestion
+- Planifier les tâches
+- Organiser les ressources
+- Diriger les équipes
+- Contrôler les résultats
+```
+
+```         
+Immatérielles
+- La marque
+- Le savoir-faire
+- Les brevets
+```
+
+```         
+- Fournisseurs: Livrent les matières premières et les services nécessaires à la production.
+- Banques: Prêtent de l'argent et gèrent les comptes de l'entreprise.
+- État: Réglemente et contrôle l'activité de l'entreprise. Prélève des impôts et des taxes. Offre des aides et des incitations.
+```
+
+```         
+- Particuliers: Achètent les produits ou les services pour leur usage personnel
+- Professionnels: Achètent les produits ou les services pour les revendre ou les intégrer dans leur propre production.
+```
+
+```         
+Humaines
+- Les employés
+- Les dirigeants
+- Les actionnaires
+```
+:::
+
+## Vocabulaire utile
+
+::: callout
+Avec un partenaire associez les termes de la liste avec les définitions ci-dessous.
+
+**Liste des termes**
+
+-   boîte:\
+-   verser des salaires:\
+-   payer des impôts:\
+-   chiffre d'affaires:\
+-   contribuable:\
+-   découvrir quelque chose à fond:\
+-   production:\
+-   valeur ajoutée:
+
+**Définitions**
+
+-   la richesse nouvelle produite par l'entreprise lors du processus de production qui pourra être répartie sous forme de revenus
+-   lieu de travail, entreprise\
+-   verser une somme obligatoire et sans contrepartie aux administrations publiques et aux institutions afin de contribuer au financement de ressources (biens ou services) d'utilité générale.
+-   personne assujettie au paiement de l'impôt; personne qui doit contribuer aux dépenses publiques
+-   action de créer ou de transformer des biens, ou d'assurer des services
+-   rémunérer ses employé.e.s\
+-   apprendre toute l'affaire de quelque chose, ses tenants et ses aboutissements[^02-entreprise-c-quoi-class-1]
+-   correspond à la somme des ventes de marchandises, de produits fabriqués, des prestations de services et des produits des activités annexes.
+:::
+
+[^02-entreprise-c-quoi-class-1]: the ins and outs
+
+## Le classement des entreprises
+
+Quels sont les deux critères les plus courants de classement des entreprises?
+
+::: callout
+Regardez [le graphique de cette page](https://www.insee.fr/fr/statistiques/5424748#tableau-figure3_radio1) sur le nombre des entreprises classées par taille. Interpréter le graphique en groupe avant de partager votre interpétation avec la classe.
+:::
+
+## L'organisation d'une entreprise
+
+![le fonctionnement d'une entreprise](fonctionnement-entreprise.png)
+
+Dans la [la vidéo](https://www.youtube.com/watch?v=ndtHS0rWoqU) Martin décrit l'ensemble des activités de son entreprise avec 7 fonctions en commençant par la fabrication.
+
+::: callout
+En groupes, expliquez brièvement le rôle de chaque fonction, avant de partager avec la classe.
+
+-   Y a-t-il des fonctions qui manquent dans ce schéma?
+
+-   Trouver la fonction dans laquelle travaillent les métiers suivants: un/e avocat/e, un/e graphiste, un/e agent commercial, un/e directeur/e RH, un/e ingénieur/e chimiste, chargé/e de communication, responsable de la promotion des ventes, webmaster, illustrateur/rice, chef/fe d'atelier, comptable, un/e cadre (*executive*).
+
+-   À votre avis dans quelle fonction travaille Martin lui-même?
+
+-   À votre avis, comment on prend des décisions chez Martin Plastic?
+
+    -   [ ] Tous les employés de toutes les fonctions prennent les décision ensemble
+    -   [ ] C'est Martin seul qui prend les décisions
+    -   [ ] Les décisions sont prises à des niveaux différents. (ex. Décisions stratégiques, décisions tactiques, décisions opérationnelles.)
+
+Pouvez-vous imaginer un organigramme plus complet de l'entreprise Martin Plastic?
+:::
+
+------------------------------------------------------------------------
+
+## Fiche d'identité
+
+En tant que consommateurs, des entreprises on connaît souvent leurs logos (leur identité visuelle) et bien sûr leurs produits. Mais il est rare de connaître la fiche complète de leur identité. La fiche d'identité d'entreprise rassemble des informations concernant le fonctionnement d'une l'entreprise, son activité ainsi que son nom légal et ses coordonnées.
+
+![Les logos de quelques entreprises Françaises connues](logos.jpeg){fig-alt="Les logos de quelques entreprises Françaises connues"}
+
+Malgré la grande diversité du monde des entreprises, quelques éléments communs constituent la trame d'une fiche d'identité de société. La plupart de ces informations sont disponibles gratuitement sur Internet (voir par exemple le site [verif.com](https://www.verif.com/)). Aux informations de cette liste, on peut également ajouter l'identité visuelle d'une entreprise, notamment son logo.
+
+On y trouvera la plupart du temps :
+
+-   *le nom de la société*
+-   *sa forme juridique*
+-   *son numéro SIRET ou SIREN et code NAF*
+-   *la date de sa création*
+-   *l'adresse de son siège social*
+-   *ses coordonnées : numéro de téléphone, email et site Internet*
+-   *son secteur d'activité*
+-   *son implantation et son rayonnement en France*
+-   *le nombre de salariés*
+-   *son chiffre d'affaires annuel*
+-   *les projets en cours ou à venir*
+
+**Voici un exemple de fiche d'identité de l'entreprise JCDecaux:**
+
+-   Nom de la société : JCDECAUX France
+-   Forme juridique : SAS
+-   Numéro SIRET : 622 044 501 00139
+-   Code NAF : 7312Z / Régie publicitaire de médias
+-   Date de sa création : 01/07/1984
+-   Adresse de son siège social : Avenue Sainte Apolline – 78370 Plaisir et Ventes / Marketing au 17 rue Soyez – 92200 Neuilly-sur-Seine
+-   Coordonnées : https://www.jcdecaux.fr et 01 30 79 79 79
+-   Secteur d'activité : Publicité et études de marché
+-   Implantation et rayonnement : leader en France et présent dans 80 pays
+-   Nombre de salariés : 3 800 en France
+-   Chiffre d'affaires annuel : 3 890,2 M€ en 2019
+
+::: callout
+Avec un partenaire complétez les fiches d'identité d'une des entreprises dont le logo se trouve à l'image précédente. Trouvez les informations qui manquent sur le site [verif.com](https://www.verif.com/).
+
+-   *le nom de la société*
+-   *sa forme juridique*
+-   *son numéro SIRET ou SIREN et code NAF*
+-   *la date de sa création*
+-   *l'adresse de son siège social*
+-   *ses coordonnées : numéro de téléphone, email et site Internet*
+-   *son secteur d'activité*
+-   *son implantation et son rayonnement en France*
+-   *le nombre de salariés*
+-   *son chiffre d'affaires annuel*
+-   *les projets en cours ou à venir*
+:::
+
+## Discussion
+
+::: callout
+Lisez les deux définitions de l'entreprise et discutez des mots clés que vous y voyez et de leurs points communs.
+
+1e définition
+
+:   L'entreprise est la plus petite combinaison d'unités légales qui constitue une unité organisationnelle de production de biens et de services jouissant d'une certaine autonomie de décision, notamment pour l'affectation de ses ressources courantes.
+
+2e définition
+
+:   Réunion de personnes et de capitaux pour accomplir un projet de réalisation de prestations[^02-entreprise-c-quoi-class-2] ou de production de produits destinés à être vendus à des clients sur un marché concurrentiel, dans un secteur d'activité donné. Les entreprises peuvent prendre diverses formes de la société anonyme à l'entreprise individuelle. Pour avoir une activité durable, une entreprise a besoin de générer des profits et d'investir. L'entreprise verse des salaires à ses employés, des dividendes à ses actionnaires, des impôts à l'État et aux collectivités territoriales. C'est un acteur économique essentiel qui participe à la création et la redistribution de richesses.
+:::
+
+[^02-entreprise-c-quoi-class-2]: Tâche qu'on exécute en vertu d'un contrat.
+
+::: callout
+Lisez l'extrait suivant et répondez à la question.
+
+> il y a entreprise dès que des personnes mobilisent leur talent et leur énergie, rassemblent des moyens matériels et de l'argent pour apporter un produit ou un service à des clients.
+
+La description ci-dessous ressemble au processus créatif en général. Les artistes aussi "mobilisent leur talent et leur énergie, rassemblent des moyens matériels et de l'argent \[…\] pour produire leurs œuvres qui sont ensuite exposées/partagées/vendues. Qu'est-ce qui distingue selon vous la création artistique et la création des biens et des services?
+:::

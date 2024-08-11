@@ -1,0 +1,43 @@
+---
+title: "Le nom et le logo d’une marque"
+# author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: false
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+#    theme: dark
+  html: 
+    self-contained: false
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual  
+---
+
+L’image et le mythe d’une marque reposent sur son nom et son logo. Ceux-ci fonctionnent comme **point de repère** pour le consommateur.
+
+Il existe plusieurs types des noms pour une marque.
+
+1.  **Les nom transparents:** Bank of America, (le nom donne tout de suite une idée sur ce que l’activité de l’entreprise)
+
+2.  **Noms du fondateur:** Citroën, Ford, Disney… (cette approche est de moins en moins utilisée parce que les compagnies, surtout les startups, changent des propriétaires)
+
+3.  **Noms communs:** flaneurz, sayna, free (les mots “flâneur” (français) et “sayna” (malgache) existent dans le dictionnaire et ils se sont appropriés par les marques)
+
+4.  **Noms composés:** Optimiam, Wikipédia, Onedrive (se sont des mots valises)
+
+5.  **Noms préfixés ou suffixés:** iphone, shopify, Netflix (se sont des noms communs avec un préfixe ou un suffixe)
+
+6.  **Les acronymes:** IBM, BNP, AEG (Ce sont des noms à éviter parce qu’il est très difficile pour des startups d’associer leur valeurs avec un acronyme)
+
+7.  **Des noms inventés:** Häagen-Dazs (ça sonne danois mais en vérité ça ne veut rien dire)
+
+8.  **Des noms-phrases:** La vache qui rit (type de nom rare)
+
+Quand vous êtes à la recherche d’un nom, mettez-vous à la place du consommateur mais regardez aussi la concurrence des acteurs qui sont déjà dans le marché. Un nom de marque doit être **mémorable, lisible, prononçable**.

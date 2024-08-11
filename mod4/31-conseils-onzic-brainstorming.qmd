@@ -1,0 +1,121 @@
+---
+title: "Conseils avant le brainstorming"
+author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: false
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+#    theme: dark
+  html: 
+    self-contained: false
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual  
+---
+
+## Comment générer des idées pour une entreprise? Écoutez les conseils des Abou Touré et Dembo Dramé, fondateurs de Onzic.
+
+Regardez [cette vidéo](video https://www.youtube.com/watch?v=TXL9T6kR3SM&list=PLKDXJtJALFV1Xb5y2SGNYgwvutaIjfI5C&index=2) 
+
+Questions:
+
+-   Qu'est-ce que Isham fait au début de la vidéo? Pourquoi il colle des postit partout? Qu'est-ce qu'ils contiennent?
+-   L'aspiration d'Isham est de "monter une boîte." Qu'est-ce que ça veut dire?
+-   Dans un moment humoristique, on voit Isham se déguiser en Superman, en Jedi, en artiste et en Napoléon. Quelle est la signification derrière ce segment de la vidéo?
+-   Quelle est l'idée de l'appli Onzic? Résumez-la en une phrase projet.
+-   Quelles ont été les étapes de développement d'Onzic?
+-   Quelles sont les conseils des fondateurs d'Onzic pour les jeunes entrepreneurs qui cherchent des idées?
+-   Dans quel secteur s'active la startup onzic? (liste des secteurs sur Madyness)
+-   Avec les mots du vocabulaire ci-dessus décrivez étapes logiques de la création d'une entreprise dans l'ordre chronologique.
+    -   conception et mise en épreuve d'un prototype
+
+    -   développement: l'industrialisation, l'expansion voire l'internationalisation 
+
+    -   gestation[^1] d'une idée
+
+    -   amorçage[^2]: premier partage avec le public pour recevoir des retours et continuer à améliorer et ajuster l'offre
+
+[^1]: génération
+
+[^2]: phase initiale, mise en route
+
+## Conseils avant de commencer le brainstorming
+
+-   Inspirez-vous des problèmes de votre quotidien
+-   Soyez audacieux.ses avec vos idées
+-   Notez toutes les idées sur la fiche-brainstorming
+
+## Séance de brainstorming
+
+### Instructions
+
+Dans cette activité, vous allez travailler en groupe pour générer des idées pour une startup. Si vous voulez, vous pouvez utiliser Copilot comme partenaire de groupe pour la séance de brainstorming. Suivez les étapes ci-dessous:
+
+### Étape 1 : Définir vos valeurs et objectifs
+s
+Avec votre partenaire, discutez de vos valeurs et objectifs pour votre startup. Quelles sont les choses les plus importantes pour vous ? Quel type d'impact voulez-vous avoir ? Quel problème voulez-vous résoudre?
+
+Ensuite, partagez ces valeurs et objectifs avec Copilot:
+
+::: {.callout-tip appearance="simple" icon="false"}
+## Exemple de prompt
+
+`Copilot, nous voulons créer une startup qui [insérez vos valeurs/objectifs ici]. Peux-tu nous aider à générer des idées de startups qui correspondent à ces valeurs et objectifs?`
+:::
+
+### Étape 2 : Brainstorming d'idées
+
+Avec Copilot comme partenaire de brainstorming, générez autant d'idées que possible pour votre startup. N'hésitez pas à penser de manière créative et à sortir des sentiers battus.
+
+::: {.callout-tip appearance="simple" icon="false"}
+## Exemples des prompts
+
+-   `Copilot, quelles sont quelques idées de startups innovantes qui pourraient [insérez le problème que vous voulez résoudre]?`
+
+-   `Copilot, as-tu des suggestions pour des startups qui pourraient avoir un impact positif sur [insérez le domaine ou la communauté que vous ciblez]?`
+
+-   `Copilot, peux-tu proposer des idées de business models uniques et durables pour une startup dans [insérez votre industrie]?`
+:::
+
+Notez toutes les idées générées lors de votre session de brainstorming avec Copilot.
+
+### Étape 3 : Sélectionner les meilleures idées
+
+Passez en revue toutes les idées de votre brainstorming et sélectionnez les 2-3 qui vous semblent les plus prometteuses. Considérez des facteurs comme l'originalité, la faisabilité, l'impact potentiel, etc.
+
+### Étape 4 : Obtenir des conseils d'expert
+
+Maintenant, demandez à Copilot de jouer le rôle d'un consultant en entreprise pour vous donner des conseils sur les idées que vous avez sélectionnées.
+
+::: {.callout-tip appearance="simple" icon="false"}
+## Exemples de prompts
+
+-   `Copilot, en tant que consultant en entreprise, quels sont les principaux points forts et points faibles de [insérez votre idée de startup] ? Quelles recommandations aurais-tu pour améliorer cette idée?`
+
+-   `Copilot, si tu étais un investisseur, quelles seraient tes principales questions ou préoccupations concernant [insérez votre idée de startup]? Comment pourrions-nous y répondre de manière convaincante?`
+
+-   `Copilot, de ton point de vue d'expert, quelles seraient les prochaines étapes clés pour faire de [insérez votre idée de startup] une réalité?`
+:::
+
+Notez les conseils et les perspectives offerts par votre consultant Copilot.
+
+### Étape 5 : Faire une réflexion
+
+Enfin, réfléchissez sur cette expérience de brainstorming et de consultation avec Copilot.
+
+-   Est-ce que cette séance de brainstorming était fructueuse pour votre groupe? Qu'est-ce que Copilot a apporté au processus de génération d'idées?
+
+-   Les conseils Copilot en tant que consultant vous ont-ils fait voir votre idée de startup sous un nouvel angle?
+
+-   Comment cette expérience a-t-elle influencé votre façon de penser à la création d'une startup?
+
+Soyez prêts à partager vos réflexions avec la classe.
+
+Bon brainstorming!🧠⛈️

@@ -1,0 +1,185 @@
+---
+title: "Activité de réseautage rapide (speed-networking)"
+author: "Adaptée de Sublett, L. W., Johnston, A. M., Walther, C. A. P., Seahorn, C., Moreno, G. L., & Brownlee, L. (2022). Speed-Interviewing for Classroom  Group Formation: How a Clever Twist on the Classic “Speed-Dating” Tradition Enhances Small Group Coursework. Teaching of Psychology, 0(0). https://doi.org/10.1177/00986283221134034"
+format: 
+#  revealjs: 
+#    self-contained: false
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+#    theme: dark
+  html: 
+    self-contained: false
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual  
+---
+
+## Qu’est-ce que c’est une activité de réseautage rapide?
+
+Comme son nom l’indique le speed-networking (“réseautage rapide” en français surtout au Québec) est basé sur la pratique du speed-dating. Les séances de speed-dating consistent à des rencontres rapides entre célibataires en vue d’une liaison sentimentale. Ces rencontres ne durent pas plus que quelques minutes et fonctionnent sur la base de l’élimination. Dans un temps limité on rencontre un grand nombre de personnes pour ne garder le contact que de celles avec qui il y a eu une étincelle (*spark*) et une envie mutuelle de se revoir. Si c’est le cas, des rendez-vous ultérieurs avec cette personne peuvent être arrangés.
+
+Le monde des affaires s’est aussi mis à cette pratique afin de permettre aux recruteurs de dénicher des talents et à tous les participants d’élargir leur réseau de connaissances professionnelles. Même si une rencontre de quelques minutes ne débouche pas immédiatement à la signature d’un contrat de travail, ou à un engagement de longue durée, les candidats, surtout des jeunes cadres sans emploi, profitent aussi de ces séances. Une séance de speed-networking leur donne la possibilité d’articuler leur projet professionnel et de mettre en valeur leurs points forts, et même d’admettre leurs faiblesses. Vous avez déjà pratiqué ces deux derniers points dans dans l’accroche de votre CV et dans l’entretien d’embauche.
+
+## Quel est l’objectif de cette activité?
+
+Les raisons principales pour cette activité de réseautage rapide sont:
+
+1.  **Apprendre à mieux se connaître:** Cette activité permet d’interagir avec tous les camarades de la classe, pour découvrir des intérêts communs, des expériences partagées ou des compétences complémentaires qui faciliteront le travail en groupe.
+
+2.  **Identifier des partenaires potentiels pour les projets de groupe:** À travers ces brèves conversations, vous pouvez évaluer la compatibilité en prenant en compte les facteurs comme la motivation, les valeurs personnelles et les qualités individuelles. L’objectif ultime est de former des groupes qui travailleront harmonieusement ensemble et qui auront une expérience enrichissante.
+
+3.  **Formation des groupes:** À la fin de cette activité on aura les formé les groupes.
+
+    -   FREN 3035-002: 15 étudiants
+
+        -   5 groupes de 3
+
+    -   FREN 3031-001: 16 étudiants
+
+        -   Option 1: 4 groupes de 4
+
+        -   Option 2: 4 groupes de 3 et 1 groupe de 4
+
+## Organisation de la séance
+
+-   Donner la liste des questions ([voir fiche](https://canvas.its.virginia.edu/courses/104170/files/7251725?wrap=1)) suivante aux étudiants et leur donner la possibilité de les modifier, d'en ajouter, ou d'en soustraire. 
+
+-   Une fois que les questions sont définies, on passe à l'activité. Chaque étudiant a un tête-à-tête avec un autre étudiant pour 3 minutes. À l'issue de cette séance, tous les étudiants remplissent la fiche en notant leur préférence des camarades avec qui ils veulent travailler et les camarades avec qui ils ne veulent pas travailler.
+
+## Questions à préparer (\~15 minutes)
+
+Lisez attentivement la liste des questions suivantes. Ajoutez, éliminez, ou faites des modifications (si nécessaire) aux questions. Assuune réponse brève que vous donneriez à chaque question.
+
+1.  D'habitude quels sont les trois adjectifs que tes amis/famille/proches utilisent le plus souvent pour décrire ta personnalité?
+
+2.  Qu'est-ce que tu aimes le plus quand tu travailles en groupe?
+
+3.  Qu'est-ce que tu aimes le moins quand tu travailles en groupe?
+
+4.  Quelle qualités cherches-tu à un partenaire de groupe? (une à trois qualités)
+
+5.  Comment est-ce que tu gardes le morale et ta motivation quand un travail est long et difficile?
+
+6.  Quel talent, ou quelle compétence, aimerais-tu apprendre ou maîtriser?
+
+7.  Quel talent, ou quelle compétence, tu maîtrises déjà?
+
+8.  Quels sont tes aspirations professionnelles? Comment est-ce que tu imagines ta carrière professionnelle?
+
+9.  Y a-t-il un personnage historique ou célèbre qui t’as inspiré à suivre cette carrière professionnelle?
+
+10. Est-ce que tu travailles actuellement, ou as-tu déjà travaillé dans le passé? Qu'est-ce que cette expérience t'apporte, ou t'as apporté?
+
+## Déroulement de la séance
+
+![Diagramme pour montrer le déroulement de la séance du réseautage rapide](Screenshot 2024-03-12 at 7.28.02 AM.png)
+
+## Après l’activité notez vos préférences (\~5 minutes)
+
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   | ### Nom du/de la camarade (Prénom, NOM) |   | ### Travailler ensemble ? (Oui/Non/Peut-être) |   | ### Notes |   |
+|   |                                         |   |                                               |   |           |   |
+|   |                                         |   |                                               |   | ###       |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+|   |                                         |   |                                               |   |           |   |
++---+-----------------------------------------+---+-----------------------------------------------+---+-----------+---+
+
+## Questions
+
+Indiquez vos quatre premiers choix de camarades de classe avec qui vous aimeriez collaborer pour le projet de groupe.
+
+1.  D’après vos interactions lors de l’activité, avec quel camarade de classe préféreriez-vous travailler ? Pourquoi ?
+
+2.  Quel camarade de classe serait votre deuxième choix pour collaborer ? Pourquoi ?
+
+3.  Quel camarade de classe serait votre troisième choix pour collaborer ? Pourquoi ?
+
+4.  Quel camarade de classe serait votre quatrième choix pour collaborer ? Pourquoi ?
+
+Indiquez jusqu'à quatre personnes avec qui vous préféreriez ne pas collaborer pour le projet de groupe. Veuillez expliquer vos raisons de manière respectueuse envers vos camarades de classe.
+
+1.  Avec quel camarade de classe aimeriez-vous le moins collaborer ? Pourquoi ?
+
+2.  Quel camarade de classe serait votre avant-dernier choix pour collaborer ? Pourquoi ?
+
+3.  Quel camarade de classe serait votre troisième choix en partant de la fin pour collaborer ? Pourquoi ?
+
+4.  Quel camarade de classe serait votre quatrième choix en partant de la fin pour collaborer ? Pourquoi ?

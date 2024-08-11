@@ -1,0 +1,109 @@
+---
+title: "Pitch d'une startup: Travail écrit"
+author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: false
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+#    theme: dark
+  html: 
+    self-contained: false
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual  
+---
+
+## Objectif
+
+L'objectif de ce projet est de travailler en groupe pour créer et présenter un pitch pour une start-up. Vous utiliserez le Business Model Canvas comme cadre pour développer le pitch de votre idée à l'écrit et la méthode de motivation de Monroe pour [présentez votre idée à l'oral](https://canvas.its.virginia.edu/courses/104170/assignments/476393). 
+
+## Étapes à suivre
+
+### Étape 1 : Brainstorming
+
+-   Pour vous aider à générer des idées, vous aurez du temps à faire du brainstorming en classe, mais si ce temps n’est pas suffisant, vous vous retrouverez en dehors de la classe pour continuer ce travail.
+
+-   Il est important de **documenter vos sessions de brainstorming**, y compris les idées générées et les discussions (voir [fiche brainstorming](https://canvas.its.virginia.edu/courses/104170/files/7319454))
+
+-   Pour cette étape, vous êtes autorisés à utiliser Copilot comme partenaire de groupe. Si vous choisissez de l’utiliser traitez-le comme un membre supplémentaire de votre équipe. C’est-à-dire quelqu’un qui est au courant de vos valeurs et de vos objectifs et qui contribue, autant que vous-mêmes, mais pas quelqu’un qui fait le travail à votre place.
+
+### Étape 2 : Rédaction du pitch
+
+En fonction de vos sessions de brainstorming, sélectionnez l'idée la plus prometteuse et développez votre pitch autour de cette idée. Rédigez un pitch de 800 mots en utilisant le Business Model Canvas comme structure. Voici les questions à vous posez:
+
+-   **Quel est le problème?**
+
+Comme nous l’avons déjà constaté avec toutes les entreprises étudiées, les idées des projets entrepreneuriaux naissent à partir des problèmes que les entrepreneurs ont observé dans leur quotidien. À ces problèmes, les entrepreneurs proposent des interventions/solutions alignées avec leurs valeurs personnelles. 
+
+-   **Quelle est la solution?**
+
+Aux problèmes observés, les entrepreneurs proposent des solutions concrètes. Celles-ci sont ensuite développées en services ou produits et proposées à leurs clients. 
+
+-   **Qu’est-ce que votre idée change?**
+
+En quoi votre idée est différente des solutions qui existent déjà dans le marché? Qui est votre concurrence?
+
+-   **Qui elle concerne?**
+
+Qui sont les clients potentiels qui seraient intéressés par la solution proposée? Il est important d’identifier un segment du marché, afin de pouvoir cibler le marketing.
+
+-   **Comment peut-on réaliser cette idée?**
+
+Dans cette étape, il faut imaginer les phases de la production. Quelles ressources sont-elles indispensables? Les savoir-faire de quels métiers sont-ils nécessaires? Quels partenariats stratégiques sont-ils essentiels? Quel est le secteur d’activité de l’entreprise?
+
+### Étape 3 : Réflexion sur le processus
+
+Rédigez une réflexion de 200 mots sur votre processus du brainstorming au pitch final.
+
+-   Quelles étaient les idées initiales que vous aviez pour ce projet?
+
+-   Quelles ont été les contributions de chaque membre de l'équipe?
+
+-   Selon quels critères avez-vous éliminé les idées rejetées?
+
+-   Si vous vous êtes servis de Copilot pour la phase du brainstorming, comment son apport a-t-il influencé vos décisions et votre processus créatif?
+
+### Étape 4 : Présentation du pitch
+
+Présentez le pitch de votre idée dans une vidéo de 5 minutes. Pour une présentation captivante servez-vous de la méthode de motivation de Monroe.
+
+## À rendre
+
+Un document contenant :
+
+-   La documentation de vos sessions de brainstorming (fiche-brainstorming complète: 1 document par groupe)
+
+-   Votre pitch de 800 mots basé sur le Business Model Canvas (partie collaborative: 1 pitch par groupe)
+
+-   Votre réflexion de 200 mots sur le processus (partie individuelle: 1 réflexion par membre du groupe)
+
+Une vidéo (\~5 min) de votre pitch (1 vidéo par groupe, [voir description de la tâche](https://canvas.its.virginia.edu/courses/104170/assignments/476393))
+
+## Boîte à outils
+
+Veuillez trouver ci-dessous des ressources linguistiques pour vous aidez. Ces ressources offres des outils linguistiques utiles à tous vos cours de français.
+
+-   Bon usage de certains verbes qui posent problème: [Construction et emploi des verbes](https://ecampusontario.pressbooks.pub/consortiumclonetest/chapter/construction-et-emploi-des-verbes/)
+
+-   Bon usage de certaines prépositions qui posent problème: [Prépositions et conjonctions](https://ecampusontario.pressbooks.pub/consortiumclonetest/chapter/prepositions-et-conjonctions/)
+
+-   [Organisateurs textuels et transitions logiques](https://ecampusontario.pressbooks.pub/consortiumclonetest/chapter/organisateurs-textuels/)
+
+-   [Marqueurs de cause](https://ecampusontario.pressbooks.pub/consortiumclonetest/chapter/marqueurs-de-cause/)
+
+-   [Marqueurs de conséquence](https://ecampusontario.pressbooks.pub/consortiumclonetest/chapter/marqueurs-de-consequence/)
+
+-   [Marqueurs de but et d’intention](https://ecampusontario.pressbooks.pub/consortiumclonetest/chapter/marqueurs-de-but-et-dintention/)
+
+-   [Marqueurs de condition et d’hypothèse](https://ecampusontario.pressbooks.pub/consortiumclonetest/chapter/marqueurs-de-condition-et-dhypothese/)
+
+-   [Marqueurs d’opposition et de restriction](https://ecampusontario.pressbooks.pub/consortiumclonetest/chapter/marqueurs-de-concession-dopposition-et-de-restriction/)
+
+-   [C’est vs il est](https://ecampusontario.pressbooks.pub/consortiumclonetest/chapter/chapitre-10/#2.2)

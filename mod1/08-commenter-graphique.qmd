@@ -1,0 +1,127 @@
+---
+title: "Parler des données chiffrées (À faire en classe)"
+author: "Spyridon Simotas (Adapté d'une fiche de Delphine Ripaud)"
+format: 
+#  revealjs: 
+#    self-contained: false
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+#    theme: dark
+  html: 
+    self-contained: false
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual  
+---
+
+::: callout
+### Objectifs
+
+-   Commenter et comparer des données chiffrées ou des graphiques
+-   Se servir d'un lexique approprié sur des variations de quantité
+:::
+
+## MISE EN ROUTE
+
+-   Quelle est la situation du marché automobile européen (selon [la vidéo](https://apprendre.tv5monde.com/fr/exercice/1868?id_serie=14919&nom_serie=automobile_un_marche_en_pleine_evolution&niveau=b1_intermediaire&exercice=1), voir la transcription ci-dessous) ?
+
+-   Quelles informations peut-on donner pour présenter un marché?
+
+-   Quels mots peut-on utiliser pour commenter des données chiffrées?
+
+::: callout
+### Transcription de [la vidéo](https://apprendre.tv5monde.com/fr/exercice/1868?id_serie=14919&nom_serie=automobile_un_marche_en_pleine_evolution&niveau=b1_intermediaire&exercice=1)
+
+Le Journal de l'économie du 18 février 2020 - TV5MONDE
+
+**Demet Korkmaz, journaliste :** Le Journal de l'économie sur TV5MONDE. Bienvenue à tous ! C'est un phénomène européen: le marché de l'automobile `est en repli`. Les changements réglementaires expliquent en grande partie cette `chute`. Depuis le début de l'année, l'Union européenne oblige effectivement les constructeurs à limiter leurs émissions de CO2, sous peine de lourdes amendes. D'autres, par les incertitudes liées au Brexit, ont également pesé. Si bien qu'en janvier, `les ventes ont reculé de 7,5 %`. Sur les principaux marchés européens, la France souffre particulièrement de ce contexte et enregistre le plus `fort repli`: `moins 13,4 %`, c'est deux fois plus que l'Allemagne, `en recul de 7,3 %`. L'Italie résiste mieux: 5,9 %, c'est en-dessous de la moyenne européenne. Vendredi dernier, la directrice de Renault avait annoncé n'avoir aucun tabou vis-à-vis d'éventuelles fermetures d'usines en France. Le groupe a enregistré une perte nette de plus de 140 millions d'euros. L'annonce suscite quelques inquiétudes. Bruno Lemaire, en déplacement à Bruxelles, a tenté de rassurer les salariés des sites français.
+
+**Bruno Lemaire, ministre français de l'Économie :** Renault est une très belle entreprise française, c'est un des géants de l'industrie automobile mondiale. Il fait face, comme tous les constructeurs automobiles mondiaux, à des défis absolument considérables avec le véhicule électrique et le véhicule connecté. Et nous serons très vigilants, je le redis, sur la préservation de l'emploi et des sites industriels en France.
+:::
+
+## BOITE À OUTILS
+
+-   Pour commenter des données chiffrées, que peut-on dire ?
+-   Complétez votre boîte à outils (page suivante).
+
+## EN SITUATION!
+
+Vous travaillez pour *Boksys*, fabricant de batteries pour le secteur automobile.
+
+Votre responsable financier vous demande de rédiger un bref rapport sur l'évolution du marché des voitures électriques à partir des graphiques dont vous disposez.
+
+1.  Observez les graphiques disponibles ci-dessous:
+
+![Les trois graphiques à commenter](Screenshot 2024-01-29 at 3.30.47 PM copy.png){fig-alt="trois graphiques"}
+
+2.  Complétez la rédaction du rapport. Sélectionnez les informations qui correspondent aux graphiques en cochant les bonnes réponses.
+
+::: callout
+### Analyse du marché de la voiture électrique
+
+Depuis 2005, le marché international de la voiture électrique
+
+-   [ ] stagne.
+-   [ ] est en progression constante.
+-   [ ] affiche un léger repli.
+
+D'ailleurs, entre 2016 et 2019, les ventes de véhicules électriques ont presque
+
+-   [ ] doublé.
+-   [ ] triplé.
+-   [ ] quadruplé.
+
+Ainsi, en 2019, les ventes
+
+-   [ ] s'élèvent à
+-   [ ] dépassent
+-   [ ] approchent
+
+8 millions de véhicules.
+
+L'analyse des chiffres en Europe montre que, avec près de la moitié des personnes sondées, l'Espagne est le pays qui comptabilise
+
+-   [ ] autant
+-   [ ] le plus
+-   [ ] le moins
+
+d'acheteurs potentiels de voitures électriques.
+
+En comparaison, l'Allemagne comptabilise à peu près
+
+-   [ ] autant
+-   [ ] deux fois plus
+-   [ ] deux fois moins
+
+d'acheteurs potentiels.
+
+Concernant les ventes des principaux constructeurs de véhicules électriques pour le premier semestre 2020, c'est le japonais Nissan qui enregistre
+
+-   [ ] le même nombre
+-   [ ] le plus grand
+-   [ ] le plus petit
+
+de ventes.
+
+Enfin, si l'on compare les trois grands constructeurs européens, on note que Volkswagen enregistre des ventes
+
+-   [ ] égales\
+-   [ ] supérieures
+-   [ ] inférieures
+
+à celles de Renault,
+
+mais
+
+-   [ ] égales
+-   [ ] supérieures
+-   [ ] inférieures
+
+à celles de BMW.
+:::

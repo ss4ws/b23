@@ -1,0 +1,35 @@
+---
+title: "Business Model Canvas: Intéractif"
+author: "Spyridon Simotas"
+format: 
+  html: 
+    self-contained: false
+    page-layout: article
+    docx: default
+    pdf: default
+#  revealjs: 
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+embed-resources: true
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual
+---
+
+
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="BMC interactif" src="https://view.genial.ly/5dac65dfdebcf80f62553000" width="1200px" height="675px" allowfullscreen="allowfullscreen"></iframe>NooNous u</div></div>
+
+Source: [BPI France](<https://bpifrance-creation.fr/moment-de-vie/business-model-canvas-outil-incontournable-createur>)
+
+---
+
+Nous avons déjà vu le Business model Cavnas qui est un instrument de conceptualisation complète d'un projet entrepreneurial. Dans le cadre de ce cours, nous nous concentrons sur la première partie du tableau, notamment les numéros 1, 2, 3, 4, 6, 7, 8, sans s'occuper de la partie coûts et revenus 5, 9.
+
+En cliquant sur l'illustration interactive ci-dessus, vous verrez plus en détail ce qu'il faut faire pour chaque partie lorsque vous êtes au stade de conceptualisation de votre projet.
+
+Par exemple, d'abord il faut identifier un segment de clientèle (No 1). Ensuite, il faut proposer un produit ou un service qui porte la solution à un problème au segment de clientèle que vous avez identifié. Cette solution doit aussi être différente de quelque manière des solutions proposées par la concurrence (No 2). Ensuite, il faut penser à faire connaître l'existence de cette nouvelle solution à vos clients (No 3) et à commencer à créer des liens avec les clients (No 4). Par la suite il faut identifier toutes les ressources dont l'entreprise aura besoin pour produire la solution proposée (No 6). Une fois que vous avez l'idée, vous savez qu'il y a des clients qui seraient intéressés, et vous avez les ressources nécessaires, vous passez à la fabrication (No 7). C'est le processus à suivre pour passer de l'idée abstraite à la solution concrète. Enfin, comme une entreprise, surtout une startup, ne peut pas fonctionner sans partenaires, il faut créer des alliances solides. Celles-ci peuvent être entre l'entreprise et ses fournisseurs (ceux qui fournissent les matières premières), les sous-traitants (entreprises externes qui garantissent une partie ou la totalité de la production), les experts et les prescripteurs (pensez aux "power users" et aux influenceurs).
+
+

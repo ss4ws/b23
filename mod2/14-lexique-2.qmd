@@ -1,0 +1,141 @@
+---
+title: "Lexique 2"
+# author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: false
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+#    theme: dark
+  html: 
+    self-contained: false
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual  
+---
+
+edtech
+
+:   contraction de "éducation" et "technologie", désigne les innovations technologiques appliquées au domaine de l'éducation pour améliorer l'apprentissage.
+
+former
+
+:   éduquer, instruire
+
+conduire à faire quelque chose
+
+:   inciter ou amener quelqu'un à agir d'une certaine manière
+
+lancer
+
+:   démarrer activité, introduire un produit sur un marché, commencer un projet
+
+lever des fonds
+
+:   obtenir des financements pour développer un projet ou une entreprise
+
+associé.e
+
+:   Partenaire, collaborateur.trice
+
+à l'origine
+
+:   au début, d'abord, au commencement, à la base
+
+prendre en charge
+
+:   s'occuper de, assumer la responsabilité, gérer, se charger de
+
+frais d'une formation
+
+:   le coût associé à l'éducation ou à l'apprentissage professionnel
+
+pari (masc.)
+
+:   Une action consistant à risquer quelque chose (comme de l'argent ou un enjeu personnel) sur le résultat incertain d'un événement.
+
+valider des compétences
+
+:   Reconnaître officiellement les capacités ou les savoir-faire d'une personne, souvent par le biais d'un examen, d'un diplôme ou d'une certification.
+
+tenir à ce que
+
+:   insister pour que, être attaché à l'idée que, vouloir absolument que
+
+tracasserie
+
+:   complication mineur souvent inutile qui peut être agaçante ou perturbante
+
+chiffre d'affaires
+
+:   Le total des ventes de biens ou de services réalisées par une entreprise sur une période donnée.
+
+en dépit de
+
+:   malgré, malgré le fait que
+
+intégrer une formation
+
+:   rejoindre un cours, entrer dans un programme, commencer une formation, s'inscrire dans un cours
+
+contrefait (contrefaçon)
+
+:   objet imité illégalement, copié sans autorisation, faux (dans le sens d'un objet qui n'est pas authentique), réplique illégale
+
+essor
+
+:   croissance rapide, développement accéléré, expansion, montée
+
+présentiel
+
+:   en face à face, sur place, en personne
+
+distanciel
+
+:   à distance, via une plateforme numérique, vidéoconférence
+
+ventiler
+
+:   répartir, distribuer, diviser
+
+prêt étudiant
+
+:   Aide financière pour une personne qui fait ses études. Ce prêt est destiné à couvrir les frais de scolarité, les dépenses de vie courante, les livres et le matériel nécessaire pendant la durée des études. Il doit être remboursé, avec des intérêts, après la fin des études.
+
+optimisation financière
+
+:   maximisation des bénéfices et/ou réduction des coûts
+
+durable
+
+:   écologique, respectueux de l'environnement, à faible impact environnemental
+
+être sur le terrain
+
+:   être directement impliqué.e, agir directement sur une situation
+
+créer des liens
+
+:   construire un réseau qui favorise le soutien, la confiance et l'entente
+
+retour
+
+:   à part son sens premier c'est-à-dire l'action de revenir à un point de départ ou une situation antérieure, un retour peut aussi faire référence à la réception d'informations ou des commentaires. "Faire un retour" est synonyme de "donner un *feedback*".
+
+lâcher
+
+:   abandonner, libérer, se détacher
+
+échec
+
+:   Un échec est une non-réussite, une contre-performance, c'est-à-dire le fait de ne pas atteindre un objectif ou de ne pas satisfaire une exigence ou une attente. Le mot peut s'appliquer à des domaines variés comme les études, les projets professionnels, les entreprises, les compétitions sportives, ou les initiatives personnelles. Malgré sa connotation négative, l'échec peut être perçu comme une opportunité d'apprentissage et de développement. De nombreux entrepreneurs attribuent leur succès à la série d'échecs qui l'ont précédé. À ce sujet, on cite souvent Thomas Edison: «Je n'ai pas échoué. J'ai simplement trouvé 10.000 solutions qui ne fonctionnent pas.»
+
+économie circulaire
+
+:   C'est un modèle économique visant à produire des biens et services de manière durable, en limitant la consommation et le gaspillage des ressources naturelles ainsi que la production de déchets. Elle repose sur le principe de réutilisation, de réparation, de rénovation et de recyclage des matériaux et produits existants le plus longtemps possible. L'objectif est de créer un système économique qui soit régénératif par conception, pour bénéficier à l'environnement tout en étant économiquement viable.

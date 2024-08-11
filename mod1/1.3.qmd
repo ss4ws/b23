@@ -1,37 +1,5 @@
 ---
 title: "1.3 L'entreprise, c'est quoi?"
 ---
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/ndtHS0rWoqU" width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
-Regardez la vidéo ci-dessus et répondez aux questions.
-
-1\. L'entreprise de Martin s'appelle... 
-
-2\. Selon Martin est-ce que ce nom est original? 
-
-3\. Où est-ce qu'on entend parler des entreprises? 
-
-4\. Qu'est-ce qu'une entreprise? 
-
-5\. Les entreprises viennent à des tailles et des types différents. 
-
-6\. Rien qu'en France, on compte: 
-
-7\. L'objectif d'une entreprise est… 
-
-8\. D'après la vidéo, une entreprise vise à… 
-
-9\. Qui paie des impôts? 
-
-10\. À quoi servent les impôts? 
-
-11\. Le service juridique est indispensable… 
-
-12\. Pour qu'un produit soit réussi… 
-
-13\. Pourquoi Martin fait l'analogie entre une entreprise et une équipe de football?
-
-14\. C'est quoi une "boîte?"
-
-15\. À votre avis, qui est Martin? 
-
+<iframe src="https://virginia.h5p.com/content/1291718633949252548/embed" aria-label="L'entreprise, c'est quoi?" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://virginia.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>

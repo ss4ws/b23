@@ -1,0 +1,65 @@
+---
+title: "Compte-rendu assignment"
+#author: ""
+format: 
+  html: 
+    self-contained: false
+    page-layout: article
+    docx: default
+    pdf: default
+#  revealjs: 
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual
+---
+
+## Objectifs
+
+-   Rédiger un compte rendu sur une des entreprises suivantes: Meet My Mama, Opaline, Sayna, Phenix, ou Flaneurz
+
+-   Appliquer le business modèle Canvas pour faire le compte rendu de l'entreprise choisie
+
+-   Adapter son expression écrite dans une situation professionnelle
+
+## Instructions
+
+**Choix de l'entreprise:** Sélectionnez une des entreprises proposées pour votre compte rendu. (Dans [cette discussion](https://canvas.its.virginia.edu/courses/104170/discussion_topics/363444?module_item_id=1059038) vous avez déjà fait votre choix, mais si vous avez envie d’écrire sur une autre entreprise, n’hésitez pas à le faire.)
+
+**Recherche:** Effectuez des recherches sur l'entreprise sélectionnée. Concentrez-vous sur son modèle d'affaires, son marché cible, sa proposition de valeur, ses canaux de distribution, ses ressources clés, ses partenaires clés, sa structure de coûts, et ses sources de revenus. (Dans [cette discussion](https://canvas.its.virginia.edu/courses/104170/discussion_topics/363444?module_item_id=1059038), vous avez déjà effectué quelques recherches, mais si vous n’avez pas encore toutes les informations indispensables, continuez votre recherche).
+
+### **Structure du compte rendu**
+
+**Introduction**: Présentez brièvement l'entreprise et justifiez votre choix.
+
+**Analyse de l’entreprise avec le business modèle Canvas:** Analysez les différents aspects de l'entreprise choisie en fonction du [business modèle Canvas (BMC)](https://canvas.its.virginia.edu/courses/104170/files/6708135).
+
+-   Quelle valeur l’entreprise offre-t-elle à ses clients?
+
+-   Qui sont les clients ? Quels sont leurs besoins?
+
+-   Comment l’entreprise communique-t-elle et livre-t-elle cette valeur?
+
+-   Quel type de relation l’entreprise établit-elle avec ses clients?
+
+-   Comment l’entreprise génère-t-elle des revenus?
+
+-   Quelles ressources sont essentielles pour offrir la proposition de valeur?
+
+-   Quelles activités sont cruciales pour délivrer la proposition de valeur?
+
+-   Qui sont les partenaires stratégiques et fournisseurs?
+
+-   Quels sont les coûts majeurs dans le modèle d’affaires?
+
+**Conclusion**: Synthèse de votre analyse et perspectives d'avenir pour l'entreprise.
+
+**Réflexion personnelle:** Après la fin de votre compte rendu, ajoutez une petite réflexion personnelle sur ce que vous avez appris en réalisant ce travail. Comment la connaissance du business modèle Canvas affecte votre relation personnelle avec des entreprises de votre quotidien? Cherchez-vous “la proposition de valeur” dans les produits et services que vous consommez?
+
+**Sources:** Toutes vos sources d'information doivent être dûment citées à la fin de votre document word. Utilisez le format de citation de votre choix, mais soyez cohérents. (If you are not familiar with citation styles, such as MLA or Chicago, start with [this guide](https://guides.lib.virginia.edu/c.php?g=1152471&p=9313518) provided by the UVA library).
+
+**Longueur:** Le compte rendu doit être 800 mot minimum, et la réflexion 200 mots.

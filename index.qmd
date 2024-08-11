@@ -1,7 +1,91 @@
 ---
-title : "À propos de ce cours" 
+title : "About this project" 
 ---
 
-# Bienvenue. {.unnumbered}
+## Introduction to Business French OER
 
-This is still a work in progress. Thank you for your patience. 
+Welcome to the Business French OER project. This course is designed for French language learners at the B1/B2 proficiency level who wish to explore the world of business and entrepreneurship in a francophone context.
+
+Conceived as a global simulation, this course encourages students to envision their own company and to workshop their entrepreneurial idea in various steps leading to their final project: the reveal of their company’s website. Throughout the course, students will draw inspiration from creative and socially responsible projects of young francophone entrepreneurs and will develop key competencies that will help them become responsible citizens and leaders in a diverse and globally interconnected world.
+
+Since the beginning of this project, I have only had the opportunity to teach it twice. So, while this second iteration (V.2) builds and improves on the previous one with additional materials and resources, it remains, in many regards, a work in progress. As I will keep teaching this class, I will keep updating it. All of the updates will be posted here.
+
+At the University of Virginia where I teach this course has been approved for the General Business Minor.
+
+## Learning Objectives
+
+In this course students will:
+
+-   Learn about the business vocabulary, the economic press, and current events in the francophone entrepreneurial world.
+
+-   Develop an awareness of the various economic, political, and social issues that shape the entrepreneurial landscape.
+
+-   Acquire the necessary linguistic skills (oral and written) to effectively navigate different professional situations.
+
+-   Discover their individual professional profile and develop teamwork skills.
+
+-   Collaborate in teams to design and implement a final project.
+
+-   Explore innovative projects by entrepreneurs from the francophone world, with an emphasis on projects that have a positive social and/or environmental impact.
+
+-   Implement the popular Business Model Canvas in creating their own company.
+
+## Course Structure
+
+The Business French OER is organized into several modules, each focusing on a specific aspect of the business world and entrepreneurship. The modules include:
+
+-   Module 1: Le monde de l’entreprise
+
+-   Module 2: Profils et projets entrepreneuriaux
+
+-   Module 3: Construire son dossier de candidature (CV & LM)
+
+-   Module 4: Une idée d’entreprise
+
+-   Module 5: Création d’une identité d’entreprise et d’un plan marketing
+
+-   Module 6: La vie d’entreprise
+
+-   Module 7: Création du site web de l’entreprise
+
+Each module consists of a variety of resources, such as readings, videos, audio recordings, and interactive activities, designed to engage students and support their learning. The materials are carefully selected to provide authentic, up-to-date content that reflects the reality of the francophone business world.
+
+## Assessment and Evaluation
+
+Throughout the course, students have the opportunity to demonstrate their learning and apply their newly acquired skills through various formative and summative assessments. These include:
+
+-   Vocabulary quizzes
+
+-   Written assignments
+
+-   Oral presentations
+
+-   Participation in class discussions
+
+-   Group final project
+
+Instructors can adapt the assessment methods to suit their specific teaching context and student needs.
+
+## Adapting the OER to Your Context
+
+One of the key benefits of this Business French course is its flexibility. As an open educational resource, it can be easily adapted, modified, and expanded to fit the unique needs of your students and teaching environment. You may choose to use the entire course as-is, or you can select specific modules, resources, or activities to integrate into your existing curriculum.
+
+If you choose to use this OER for your course, don't hesitate to contact me. Your feedback will help me improve and update this project for the benefit of the wider French teaching community.
+
+## Getting Started
+
+You can explore this project online or download the PDF of the entire course. If you want to download individual pages/files please visit [the Github page of the project](https://github.com/ss4ws/b23/tree/docs).
+
+## Acknowledgment
+
+This project has received generous support from the [Affordability & Equity Grants at the UVA library](https://library.virginia.edu/services/faculty/equity) funded by the Jefferson Trust. Alexis Osipovs assistance with the creation of the website was instrumental.
+
+## Licence
+
+![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png){width="78" height="27"}
+
+This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. CC BY-NC-SA includes the following elements:
+
+![](https://mirrors.creativecommons.org/presskit/icons/by.xlarge.png){width="27"} BY: credit must be given to the creator.\
+![](https://mirrors.creativecommons.org/presskit/icons/nc.xlarge.png){width="27"} NC: Only noncommercial uses of the work are permitted.\
+![](https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png){width="27"} SA: Adaptations must be shared under the same terms.

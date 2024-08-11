@@ -1,0 +1,109 @@
+---
+title: "Sayna, la startup malgache qui séduit les fonds I&P Accélération Technologies et Miarakap"
+author: "Marie-France Réveillard (adaptation d'un article paru dans La Tribune Afrique)"
+format: 
+  html: 
+    self-contained: false
+    page-layout: article
+    docx: default
+    pdf: default
+#  revealjs: 
+#    chalkboard: false
+#    smaller: true
+#    scrollable: true
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual
+---
+
+En 2018, à l'âge de 19 ans, Matina Razafimahefa se lance dans l'Edtech[^1] et crée Sayna. Avec l'annonce le 24 juin, de soutiens du programme I&P Accélération Technologies et de Miarakap, la plateforme d'Edtech et de crowdsourcing malgache ambitionne désormais de s'étendre à l'ouest du continent et de former[^2] quelques 8 000 développeurs d'ici à 2024.
+
+[^1]: Contraction de "éducation" et "technologie", désigne les innovations technologiques appliquées au domaine de l'éducation pour améliorer l'apprentissage.
+
+[^2]: éduquer, instruire
+
+![Matina Razafimahefa, co-fondatrice et directrice générale de Sayna. (Crédits : DR)](matina-razafimahefa.jpg)
+
+**La Tribune Afrique - Qu'est-ce qui vous a conduit à**[^3] **vous lancer**[^4] **dans l'Edtech?**
+
+[^3]: Conduire à faire quelque chose: inciter ou amener quelqu'un à agir d'une certaine manière
+
+[^4]: Démarrer activité, introduire un produit sur un marché, commencer un projet
+
+**Matina Razafimahefa -** Je suis née en Côte d'Ivoire, mais j'ai grandi à Madagascar. À l'âge de 11 ans, je suis arrivée en France où j'ai suivi une formation sport-études en tennis à Nantes. Personnellement, je viens d'un milieu favorisé \[père médecin et mère ingénieure polytechnicienne, ndlr\], mais l'éducation n'est pas accessible à tous d'où je viens et j'ai réalisé ces différences dès le plus jeune âge. Parallèlement, la crise de 2008-2009 s'est répercutée[^5] sur les activités de mes parents. Ma mère avait créé une école d'informatique qui n'a pas résisté. À 16 ans, j'ai voulu relancer ce projet, mais elle m'a demandé de finir mes études d'abord. J'ai donc suivi des cours de Sciences politiques à la Sorbonne. En 2018, pendant ma 2e année, j'ai créé Sayna grâce à une campagne de crowdfunding qui m'a permis de lever[^6] 5.000 euros. Aujourd'hui, ma mère est mon associée[^7]!
+
+[^5]: avoir un effet ou une conséquence sur quelque chose
+
+[^6]: Rassembler comme dans "lever des fonds" (obtenir des financements pour développer une entreprise)
+
+[^7]: Partenaire, collaborateur
+
+**Comment a évolué le *business model* de votre entreprise?**
+
+À l'origine[^8], le futur employeur prenait en charge[^9] les frais de la formation[^10]. Malheureusement, les entreprises sont encore trop peu nombreuses en Afrique pour supporter le coût des dizaines de milliers de développeurs dont le marché mondial a besoin. Nous avons donc changé de modèle en faisant le pari[^11] de formations ultra-compétitives en termes de prix, à 9,90 euros par mois. Nous ambitionnons de former 8.000 personnes d'ici 2024.
+
+[^8]: Au début, d'abord, au commencement, à la base
+
+[^9]: S'occuper de, assumer la responsabilité, gérer, se charger de
+
+[^10]: le coût associé à l'éducation ou à l'apprentissage professionnel
+
+[^11]: Une action consistant à risquer quelque chose (comme de l'argent ou un enjeu personnel) sur le résultat incertain d'un événement.
+
+Aujourd'hui, Sayna est une école constituée de deux plateformes en ligne: la première est consacrée à l'apprentissage et la seconde au télétravail. Dès lors que les étudiants ont validé des compétences[^12], ils peuvent commencer à travailler sur des micro-tâches, et être rémunérés. Nous avons supprimé la barrière du CV, car nous tenons à ce que[^13] le travail obtenu dépende des compétences \[...\] Les entreprises-clientes en France ne sont jamais en contact direct avec nos développeurs. Nous faisons du *project management* en interne afin de leur éviter toute tracasserie[^14]. Le client final a un unique interlocuteur qui s'assure que les micro-tâches sont bien délivrées par les développeurs. Au lieu d'avoir 3 ou 4 développeurs sur un seul projet, nous en avons 40 ou 50 qui travaillent simultanément. Tout le monde est gagnant!
+
+[^12]: Reconnaître officiellement les capacités ou les savoir-faire d'une personne, souvent par le biais d'un examen, d'un diplôme ou d'une certification.
+
+[^13]: Insister pour que, être attaché à l'idée que, vouloir absolument que
+
+[^14]: Des ennuis mineurs ou des complications souvent inutiles qui peuvent être agaçants ou perturbants.
+
+**En chiffres, que représente l'entreprise et sur quels périmètres opère Sayna?**
+
+Nous avons formé près de 200 étudiants et nous avons à ce jour 400 préinscriptions sur la plateforme de formation. Les modules sont ouverts à tous les publics. Nous travaillons avec une soixantaine d'entreprises - groupes, PME et startups - en France, au Canada, à l'île de la Réunion, en Australie ou à Madagascar. Nous sommes physiquement présents à Antananarivo et nous allons nous déployer dans les 7 régions de l'île en septembre. En janvier 2022, nous serons aussi en Côte d'Ivoire, au Ghana et au Sénégal \[...\]. En 2018, Sayna commençait avec 15.000 euros de revenu et aujourd'hui, son chiffre d'affaires[^15] enregistre une progression annuelle exponentielle, en dépit de[^16] la Covid-19 et l'environnement économique malgache complexe.
+
+[^15]: Le total des ventes de biens ou de services réalisées par une entreprise sur une période donnée.
+
+[^16]: Malgré, malgré le fait que
+
+**Quels sont des exemples de recrutements réussis après un passage par Sayna?**
+
+Sur les 200 étudiants formés, entre 80% et 90% ont trouvé un emploi. C'est le cas d'Herisoa qui a intégré la formation[^17] en août 2020. Avant cela, elle vivait de petits boulots, vendant des sacs contrefaits[^18] sur les réseaux sociaux. Elle n'y connaissait rien à l'informatique et a passé des heures sur son écran. Aujourd'hui, elle travaille chez Pulse \[une société du groupe Axian, ndlr\] et s'occupe de la partie Knowledge et Content. Nous avons aussi l'exemple de Fetra, un jeune homme venu de la campagne, qui n'avait pas les moyens de financer la formation. Il jouait de la guitare le week-end pour économiser de l'argent et se rendait une fois par semaine chez un ami pour utiliser son ordinateur. Un jour, il est venu nous voir et s'est inscrit. Depuis, il a trouvé du travail et les recruteurs le «chassent» sur Internet.
+
+[^17]: Rejoindre le cours, entrer dans le programme, commencer la formation
+
+[^18]: Imité illégalement, copié sans autorisation, faux (dans le sens d'un objet qui n'est pas authentique), réplique illégale
+
+**Quels sont vos principaux clients à ce jour?**
+
+Nous travaillons avec le groupe Axian, Société Générale, Orange Madagascar, la Banque mondiale ou encore avec Access Bank avec qui nos anciens étudiants les plus talentueux ont pu développer le premier *chatbot* bancaire. Nous travaillons aussi avec des startups ou des PME comme Vesta Security ou des sociétés IT comme Ingedata.
+
+**La pandémie de Covid-19 a transformé les usages, accéléré la dématérialisation et favorisé l'essor**[^19] **de l'Edtech. Quels ont été les impacts de la Covid-19 sur vos activités?**
+
+[^19]: Croissance rapide, développement accéléré, expansion, montée
+
+C'est précisément la pandémie qui nous a conduits à prendre un virage 100% numérique. Avant l'arrivée du coronavirus, nous proposions des cours en présentiel[^20] dans nos locaux, avec des accès gratuits et illimités à notre connexion Internet. La Covid-19 a tout changé, car nos portes sont restées closes et cela nous a poussés à dématérialiser entièrement nos offres de formation, en proposant cette plateforme de micro-tâches en ligne.
+
+[^20]: En face à face, sur place, en personne
+
+**Le 21 juin, un communiqué annonçait que Sayna avait reçu un financement d'I&P. Comment seront ventilés**[^21] **ces fonds?**
+
+[^21]: Répartir, distribuer, diviser
+
+Grâce au programme I&P Accélération Technologies \[2,5 millions d'euros pour financer et accompagner une quinzaine de startups digitales en Afrique subsaharienne, ndlr\] et à l'appui de Miarakap, Sayna a bénéficié d'une avance remboursable de 100.000 euros — qui pourrait être étendue — qui va nous permettre de finaliser la plateforme de micro-tasking et de déployer des parcours de formation en partenariat avec Holberton \[Silicon Valley, ndlr\]. Nous préparons actuellement un *seed-round* pour finaliser nos deux plateformes et lancer une véritable machine commerciale.
+
+**Quelles sont les dernières actualités de l'entreprise?**
+
+Nous venons tout juste de lancer le premier prêt étudiant[^22] malgache. Un lancement officiel viendra d'ici septembre avec notre partenaire ACEP Madagascar qui est une agence de micro finance innovante et dynamique! Les lauréats se verront accorder des prêts de 50 euros à 600 euros pour financer leur formation.
+
+[^22]: Aide financière pour une personne qui fait ses études. Ce prêt est destiné à couvrir les frais de scolarité, les dépenses de vie courante, les livres et le matériel nécessaire pendant la durée des études. Il doit être remboursé, avec des intérêts, après la fin des études.
+
+**Quelles sont vos ambitions à court et moyen termes?**
+
+À court terme, j'aimerais atteindre une centaine de collaborateurs et faire travailler plus de 3.500 personnes sur notre plateforme de micro-tâches. J'espère aussi réaliser une levée Série A d'environ 3 millions d'euros en 2022 qui nous permettrait de financer notre expansion, en particulier en Afrique de l'Ouest. À long terme, j'aimerais créer un startup studio à Madagascar pour investir dans des entreprises. Je souhaite continuer à accompagner les jeunes entrepreneurs africains et enfin, j'aimerais écrire un livre...
+
+### Questions
+
+Après avoir lu l'article [répondez aux questions](https://canvas.its.virginia.edu/courses/104170/assignments/461074).
