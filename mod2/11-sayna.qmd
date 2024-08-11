@@ -3,7 +3,7 @@ title: "Sayna, la startup malgache qui séduit les fonds I&P Accélération Tech
 author: "Marie-France Réveillard (adaptation d'un article paru dans La Tribune Afrique)"
 format: 
   html: 
-    self-contained: false
+    
     page-layout: article
     docx: default
     pdf: default

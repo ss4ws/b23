@@ -3,7 +3,7 @@ title: "CV et LM --- Activités à faire en classe"
 #author: ""
 format: 
   html: 
-    self-contained: false
+    
     page-layout: article
     docx: default
     pdf: default

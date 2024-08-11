@@ -3,7 +3,7 @@ title: "Le business modèle Canvas"
 #author: ""
 format: 
   html: 
-    self-contained: false
+    
     page-layout: article
     docx: default
     pdf: default

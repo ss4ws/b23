@@ -3,13 +3,13 @@ title: "Activité de réseautage rapide (speed-networking)"
 author: "Adaptée de Sublett, L. W., Johnston, A. M., Walther, C. A. P., Seahorn, C., Moreno, G. L., & Brownlee, L. (2022). Speed-Interviewing for Classroom  Group Formation: How a Clever Twist on the Classic “Speed-Dating” Tradition Enhances Small Group Coursework. Teaching of Psychology, 0(0). https://doi.org/10.1177/00986283221134034"
 format: 
 #  revealjs: 
-#    self-contained: false
+#    
 #    chalkboard: true
 #    smaller: true
 #    scrollable: true
 #    theme: dark
   html: 
-    self-contained: false
+    
     page-layout: article
     docx: default
     pdf: default
