@@ -1,0 +1,90 @@
+{
+    "sources": [
+        {
+            "author": [
+                {
+                    "family": "Dufresne",
+                    "given": "David"
+                }
+            ],
+            "id": "dufresnePaysQuiSe2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        30
+                    ]
+                ]
+            },
+            "note": "Translated title: The Monopoly of Violence IMDb ID: tt12313458 event-location: France",
+            "title": "Un pays qui se tient sage",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Quintane",
+                    "given": "Nathalie"
+                }
+            ],
+            "id": "quintaneOeilMoins2018",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "note": "OCLC: on1034575780",
+            "publisher": "P.O.L",
+            "publisher-place": "Paris",
+            "title": "Un œil en moins",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Louis",
+                    "given": "Édouard"
+                }
+            ],
+            "id": "louisQuiTueMon2019",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "language": "fr-FR",
+            "note": "OCLC: 1111263713",
+            "publisher": "Points",
+            "publisher-place": "Paris",
+            "title": "Qui a tué mon père",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Brizé",
+                    "given": "Stéphane"
+                }
+            ],
+            "id": "brizeGuerre2018",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        5,
+                        16
+                    ]
+                ]
+            },
+            "note": "Translated title: At War IMDb ID: tt7555774 event-location: France",
+            "title": "En guerre",
+            "type": "article-journal"
+        }
+    ],
+    "project_biblios": []
+}
