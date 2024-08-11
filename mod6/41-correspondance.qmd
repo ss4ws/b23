@@ -3,12 +3,12 @@ title: "Correpondance professionnelle"
 #author: "Spyridon Simotas"
 format: 
 #  revealjs: 
-#    self-contained: true
+#    self-contained: false
 #    chalkboard: true
 #    smaller: true
 #    scrollable: true
   html: 
-    self-contained: true
+    self-contained: false
     page-layout: article
     docx: default
     pdf: default

@@ -3,13 +3,13 @@ title: "La désindustrialisation à la française (Lire en autonomie)"
 author: "Adapté de [cet article](https://www.radiofrance.fr/franceculture/podcasts/la-bulle-economique/la-desindustrialisation-a-la-francaise-8496335) sur France Culture"
 format: 
 #  revealjs: 
-#    self-contained: true
+#    self-contained: false
 #    chalkboard: true
 #    smaller: true
 #    scrollable: true
 #    theme: dark
   html: 
-    self-contained: true
+    self-contained: false
     page-layout: article
     docx: default
     pdf: default

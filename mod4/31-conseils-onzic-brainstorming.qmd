@@ -3,13 +3,13 @@ title: "Conseils avant le brainstorming"
 author: "Spyridon Simotas"
 format: 
 #  revealjs: 
-#    self-contained: true
+#    self-contained: false
 #    chalkboard: true
 #    smaller: true
 #    scrollable: true
 #    theme: dark
   html: 
-    self-contained: true
+    self-contained: false
     page-layout: article
     docx: default
     pdf: default
@@ -22,7 +22,7 @@ editor: visual
 
 ## Comment générer des idées pour une entreprise? Écoutez les conseils des Abou Touré et Dembo Dramé, fondateurs de Onzic.
 
-{{< video https://www.youtube.com/watch?v=TXL9T6kR3SM&list=PLKDXJtJALFV1Xb5y2SGNYgwvutaIjfI5C&index=2 >}}
+Regardez [cette vidéo](video https://www.youtube.com/watch?v=TXL9T6kR3SM&list=PLKDXJtJALFV1Xb5y2SGNYgwvutaIjfI5C&index=2) 
 
 Questions:
 

@@ -3,13 +3,13 @@ title: "Découverte des sites web"
 # author: "Spyridon Simotas"
 format: 
 #  revealjs: 
-#    self-contained: true
+#    self-contained: false
 #    chalkboard: true
 #    smaller: true
 #    scrollable: true
 #    theme: dark
   html: 
-    self-contained: true
+    self-contained: false
     page-layout: article
     docx: default
     pdf: default

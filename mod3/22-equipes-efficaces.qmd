@@ -3,13 +3,13 @@ title: "Équipes efficaces"
 author: "Spyridon Simotas"
 format: 
 #  revealjs: 
-#    self-contained: true
+#    self-contained: false
 #    chalkboard: true
 #    smaller: true
 #    scrollable: true
 #    theme: dark
   html: 
-    self-contained: true
+    self-contained: false
     page-layout: article
     docx: default
     pdf: default
@@ -33,16 +33,6 @@ Travailler ensemble signifie qu'on fixe des objectifs ensemble, et si on les att
 Ni la réussite, ni l'échec ne sont une affaire individuelle. Si l'équipe réussit tous les membres réussissent. Si l'équipe échoue tous les membres échouent.
 
 Dans ce cas, la question que chaque membre de l'équipe doit se poser ne doit pas être "qu'est-ce que je peux faire pour réussir?" mais "qu'est-ce que je peux faire pour contribuer?"
-
-<!-- # "It won't fail because of me" -->
-
-<!-- ![La devise: It won't fail because of me.](/Users/ss4ws/Library/CloudStorage/OneDrive-UniversityofVirginia/zettlr/teaching/courses/fren-3035/it-wont-fail.jpeg "La devise: It won't fail because of me.") -->
-
-<!-- Connaissez-vous l'artiste américain Tom Sachs? Tom Sachs travaille dans des grands projets et, par conséquent, il a besoin de beaucoup d'employé(e)s dans son studio à partager des micro-tâches. Un des projets du studio the "Space Program" consistait à reconstruire avec des moyens de bord le prestigieux programme Apollo de NASA. Le program a été conçu en 1960, mais 9 ans plus tard (le 20 juillet 1969) la mission Apollo 11 a été couronnée d'un immense succès: l'atterrissage à la lune. -->
-
-<!-- Comme vous pouvez l'imaginez une telle réussite ne peut pas être attribuée à une seule personne. Des milliers d'individus y ont travaillé et chacun d'eux devait transcender ses propres intérêts personnels pour se consacrer à la mission commune. Un des travailleurs de la mission a résumé cet esprit d'équipe avec la phrase: "It won't fail because of me." -->
-
-<!-- Cette phrase est aussi devenue la devise du studio de Tom Sachs et je vous propose de l'adopter aussi quand vous travaillez en équipe. -->
 
 ## Alignement des groupes 
 

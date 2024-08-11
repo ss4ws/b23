@@ -3,12 +3,12 @@ title: "La start-up (à faire en autonomie)"
 author: "(adaptation d'un exercice paru sur RFI par Joëlle Vivier-Merle)"
 format: 
   html: 
-    self-contained: true
+    self-contained: false
     page-layout: article
     docx: default
     pdf: default
 #  revealjs: 
-#    chalkboard: true
+#    chalkboard: false
 #    smaller: true
 #    scrollable: true
 embed-resources: true

@@ -3,13 +3,13 @@ title: "Activité de réseautage rapide (speed-networking)"
 author: "Adaptée de Sublett, L. W., Johnston, A. M., Walther, C. A. P., Seahorn, C., Moreno, G. L., & Brownlee, L. (2022). Speed-Interviewing for Classroom  Group Formation: How a Clever Twist on the Classic “Speed-Dating” Tradition Enhances Small Group Coursework. Teaching of Psychology, 0(0). https://doi.org/10.1177/00986283221134034"
 format: 
 #  revealjs: 
-#    self-contained: true
+#    self-contained: false
 #    chalkboard: true
 #    smaller: true
 #    scrollable: true
 #    theme: dark
   html: 
-    self-contained: true
+    self-contained: false
     page-layout: article
     docx: default
     pdf: default
@@ -78,7 +78,7 @@ Lisez attentivement la liste des questions suivantes. Ajoutez, éliminez, ou fai
 
 ## Déroulement de la séance
 
-![Diagramme pour montrer le déroulement de la séance du réseautage rapide](images/Screenshot%202024-03-12%20at%207.28.02%20AM.png)
+![Diagramme pour montrer le déroulement de la séance du réseautage rapide](Screenshot 2024-03-12 at 7.28.02 AM.png)
 
 ## Après l’activité notez vos préférences (\~5 minutes)
 

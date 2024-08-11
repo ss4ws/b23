@@ -3,7 +3,7 @@ title: "CV par incompétences -- Activités à faire en autonomie"
 #author: ""
 format: 
   html: 
-    self-contained: true
+    self-contained: false
     page-layout: article
     docx: default
     pdf: default
@@ -33,7 +33,7 @@ Voici son texte de présentation:
 [^4]: moyen de libérer ou d'exprimer des émotions, des sentiments ou du stress accumulé, de manière à soulager une personne de la pression ou du malaise intérieur
 
 ```{=html}
-<iframe width="100%" src="/Users/ss4ws/Library/CloudStorage/OneDrive-UniversityofVirginia/000-teaching/fren-3035/001-syllabus-S24/module-3/cv-incompetence.mp3" title="CV par incompétences"></iframe>
+<iframe width="100%" src="cv-incompetence.mp3" title="CV par incompétences"></iframe>
 ```
 ## Transcription
 

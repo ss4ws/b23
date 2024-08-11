@@ -3,7 +3,7 @@ title: "Le compte rendu"
 #author: ""
 format: 
   html: 
-    self-contained: true
+    self-contained: false
     page-layout: article
     docx: default
     pdf: default

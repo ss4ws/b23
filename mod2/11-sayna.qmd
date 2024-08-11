@@ -3,12 +3,12 @@ title: "Sayna, la startup malgache qui séduit les fonds I&P Accélération Tech
 author: "Marie-France Réveillard (adaptation d'un article paru dans La Tribune Afrique)"
 format: 
   html: 
-    self-contained: true
+    self-contained: false
     page-layout: article
     docx: default
     pdf: default
 #  revealjs: 
-#    chalkboard: true
+#    chalkboard: false
 #    smaller: true
 #    scrollable: true
 toc: true
@@ -24,7 +24,7 @@ En 2018, à l'âge de 19 ans, Matina Razafimahefa se lance dans l'Edtech[^1] et 
 
 [^2]: éduquer, instruire
 
-![Matina Razafimahefa, co-fondatrice et directrice générale de Sayna. (Crédits : DR)](https://static.latribune.fr/full_width/1725364/matina-razafimahefa.jpg)
+![Matina Razafimahefa, co-fondatrice et directrice générale de Sayna. (Crédits : DR)](matina-razafimahefa.jpg)
 
 **La Tribune Afrique - Qu'est-ce qui vous a conduit à**[^3] **vous lancer**[^4] **dans l'Edtech?**
 

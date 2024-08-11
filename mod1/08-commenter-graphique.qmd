@@ -3,13 +3,13 @@ title: "Parler des données chiffrées (À faire en classe)"
 author: "Spyridon Simotas (Adapté d'une fiche de Delphine Ripaud)"
 format: 
 #  revealjs: 
-#    self-contained: true
+#    self-contained: false
 #    chalkboard: true
 #    smaller: true
 #    scrollable: true
 #    theme: dark
   html: 
-    self-contained: true
+    self-contained: false
     page-layout: article
     docx: default
     pdf: default
@@ -58,7 +58,7 @@ Votre responsable financier vous demande de rédiger un bref rapport sur l'évol
 
 1.  Observez les graphiques disponibles ci-dessous:
 
-![Les trois graphiques à commenter](images/Screenshot%202024-01-29%20at%203.30.47%20PM.png){fig-alt="trois graphiques"}
+![Les trois graphiques à commenter](Screenshot 2024-01-29 at 3.30.47 PM copy.png){fig-alt="trois graphiques"}
 
 2.  Complétez la rédaction du rapport. Sélectionnez les informations qui correspondent aux graphiques en cochant les bonnes réponses.
 

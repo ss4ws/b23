@@ -3,7 +3,7 @@ title: "Syllabus 3585"
 author: "Spyridon Simotas"
 format: 
   html: 
-    self-contained: true
+    self-contained: false
     page-layout: article
     docx: default
     pdf: default
