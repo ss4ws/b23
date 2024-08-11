@@ -7,7 +7,7 @@ number-sections: false
 
 book:
   repo-url: https://github.com/ss4ws/b23
-  downloads: [pdf, epub]
+  downloads: [pdf]
   title: "Business French" 
   author: "Spyridon Simotas"
   # date: "2/1/2023"
@@ -92,8 +92,8 @@ comments:
 #         text: Syllabus
 #       - modules.qmd
       
-# format:
-#   pdf:
-#     documentclass: scrreport
-#   epub:
-#     cover-image: cover.png
+format:
+  html:
+    theme: default
+  pdf:
+    documentclass: scrreport
