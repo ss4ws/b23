@@ -1,0 +1,159 @@
+---
+title: "Parler des données chiffrées (À faire en classe)"
+author: "Spyridon Simotas (Adapté d'une fiche de Delphine Ripaud)"
+format: 
+#  revealjs: 
+#    self-contained: true
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+#    theme: dark
+  html: 
+    self-contained: true
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual  
+---
+
+## Objectifs pédagogiques
+
+-   Apprendre à collecter des informations sur un sujet
+
+<!-- -->
+
+-   Interpréter un graphique avec un lexique approprié
+
+-   Structurer et présenter un discours oral en suscitant la curiosité du public.
+
+-   Présenter l’argument de l’article de façon claire et convaincante.
+
+-   Provoquer la discussion et répondre aux questions du public.
+
+## Description et informations pratiques
+
+Dans un milieu professionnel, on est souvent chargé à faire des présentations basées sur des informations qu’on doit collecter et interpréter. Ces informations incluent des tableaux statistiques et des graphiques. Comme exemple, j’ai fait [une présentation modèle](https://canvas.its.virginia.edu/courses/104170/files/6143772) basée sur l’article “La désindustrialisation à la française.”
+
+Imaginez que vous êtes dans une reunion professionnelle et que vous devez faire une présentation, afin d’informer vos collègues à propos d’un sujet de l’actualité économique et entrepreneuriale du monde francophone. Trouvez un article sur un sujet de votre choix, lisez-le attentivement jusqu’à ce que vous l’ayez entièrement compris. **L’article doit contenir un graphique**.
+
+Voici une liste (non exhaustive) des publications de la presse économique en ligne où vous pouvez effectuez vos recherches:
+
+-   [Afrique XXI](https://afriquexxi.info)
+
+-   [Orient XXI](https://orientxxi.info/)
+
+-   [Harvard Business Review France](https://www.hbrfrance.fr/)
+
+-   [JDN : E-business, FinTech, Big Data, IoT, tendances média, décideurs…](https://www.journaldunet.com/)
+
+-   [RFI : L’actualité économique mondiale en direct](https://www.rfi.fr/fr/%C3%A9conomie/)
+
+-   [Maddyness : Le média pour comprendre l’économie de demain](https://www.maddyness.com/)
+
+-   [L’observatoire des inégalités](https://www.inegalites.fr/)
+
+-   <https://fr.statista.com/>
+
+## Présentation
+
+Le moment de la présentation levez-vous, présentez-vous devant votre public et prenez la parole avec confiance. Assurez-vous que tout le monde dans la salle peut vous attendre. Vous aurez **5 minutes pour votre présentation**.
+
+### D’abord identifiez le document
+
+Vous devez faire un repérage des informations essentielles. Pour cela, vous pouvez commencer par répondre à quelques questions:
+
+-   **De quel type de document s’agit-il?**
+
+    -   Il s’agit d’ *un article / une émission / une publicité / un texte littéraire / etc.* de type *informatif / descriptif / argumentatif / narratif / injonctif etc.* à visée *informative / descriptive.*
+
+    -   C’est *un article / une émission / une publicité / un texte littéraire / etc.* dont le but est de *informer / décrire / etc.*
+
+    -   Il s’agit *un article / une émission / une publicité / un texte littéraire / etc.* dont la finalité est de *informer / décrire / etc.*
+
+-   **Où et quand est-il publié?**
+
+    -   L’article est paru *dans le journal Le Monde en novembre 2012 / dans Libération du 10 avril 2006 / dans Le nouvel Obs en 1960.*
+
+    -   L’article a été publié *dans le journal Le Monde en novembre 2012 / dans Libération du 10 avril 2006 / dans Le nouvel Obs en 1960.*
+
+    -   L’article est extrait *du site Internet de l’INSEE et daté de 2014.*
+
+    -   L’article est tiré *du journal Le Parisien et est daté de mars 2009.*
+
+-   **Quel est le titre?**
+
+    -   L’article s’intitule « … »
+
+-   **Quelle est sa composition?**
+
+    -   L’article est composé de *3 parties / 2 grandes sections / de plusieurs fragments / etc*.
+
+    -   L’article comprend *3 parties / 2 grandes sections / de plusieurs fragments / etc*.
+
+    -   Le texte est accompagné d’ *un schéma / un graphique / une illustration / une photo / un graphique /un dessin etc.*
+
+### Contextualisation
+
+Il est essentiel que vous puissiez situer le document dont vous parler dans un contexte plus large. Cela vous aidera pour l’approfondissement.
+
+Cibler le sujet et les enjeux
+
+Résumez l’article et ciblez avec clarté le(s) sujet(s) et les enjeux du texte. Pour ce faire il faut trouver et suivre ses articulations logiques, les exemples donnés etc.
+
+Voici une série de questions utiles pour parvenir à condenser et simplifier l’article, en étant moins précis sur certains points:
+
+-   Quel est *le but / la finalité* de cet article?
+
+-   À qui s’adresse-t-il?
+
+-   Quelles sont les questions sous-jacentes?
+
+-   À ce stade, on laisse de côté les anecdotes, ou les chiffres, pour aller à l’idée essentielle qu’ils sont censés illustrer.
+
+### Après le résumé on approfondit avec des exemples.
+
+Dans cette étape on s’intéresse aux **mots-clés**, et aux **représentations graphiques** de l’article.
+
+-   Est-ce qu’il y a des mots spécifiques qui méritent d’être, définis, ou expliqués
+
+-   Comment peut-on interpréter les données chiffrées?
+
+-   À part le point de vue de l’article est-ce qu’il y a d’autres perspectives qu’on doit prendre en considération, des critiques à faire?
+
+### Conclure
+
+Qu’on soit d’accord ou non avec les opinions et analyses proposées par l’article, l’intérêt d’une présentation est qu’on ne nous demande pas de prendre parti ou de donner un jugement définitif. C’est pourquoi une bonne façon de conclure consiste à se demander:
+
+-   Quels sont les points/idées à retenir de l’article?
+
+-   Qu’est-ce qui constitue, à vos yeux, l’intérêt principal de cet article?
+
+-   Donner la possibilité au public de réagir en leur posant directement une question ou en les invitant de participer au débat.
+
+-   Avant de reprendre votre place, remercier votre public pour son attention et pour sa participation à la discussion.
+
+## Boîte à outils
+
+Ressources linguistiques supplémentaires pour vous aidez dans tous vos travaux en français:
+
+-   Bon usage de certains verbes qui posent problème: [Construction et emploi des verbes](https://ecampusontario.pressbooks.pub/consortiumclonetest/chapter/construction-et-emploi-des-verbes/)
+
+-   Bon usage de certaines prépositions qui posent problème: [Prépositions et conjonctions](https://ecampusontario.pressbooks.pub/consortiumclonetest/chapter/prepositions-et-conjonctions/)
+
+-   [Organisateurs textuels et transitions logiques](https://ecampusontario.pressbooks.pub/consortiumclonetest/chapter/organisateurs-textuels/)
+
+-   [Marqueurs de cause](https://ecampusontario.pressbooks.pub/consortiumclonetest/chapter/marqueurs-de-cause/)
+
+-   [Marqueurs de conséquence](https://ecampusontario.pressbooks.pub/consortiumclonetest/chapter/marqueurs-de-consequence/)
+
+-   [Marqueurs de but et d’intention](https://ecampusontario.pressbooks.pub/consortiumclonetest/chapter/marqueurs-de-but-et-dintention/)
+
+-   [Marqueurs de condition et d’hypothèse](https://ecampusontario.pressbooks.pub/consortiumclonetest/chapter/marqueurs-de-condition-et-dhypothese/)
+
+-   [Marqueurs d’opposition et de restriction](https://ecampusontario.pressbooks.pub/consortiumclonetest/chapter/marqueurs-de-concession-dopposition-et-de-restriction/)
+
+-   [C’est vs il est](https://ecampusontario.pressbooks.pub/consortiumclonetest/chapter/chapitre-10/#2.2)

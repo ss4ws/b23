@@ -1,0 +1,208 @@
+---
+title: "Boite à lettres"
+#author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: true
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+  html: 
+    self-contained: true
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual
+---
+
+## La boite à lettres de Caroline
+
+Imaginez la correspondance par email entre Caroline et Mr. Novak pour fixer un rendez-vous. Ensuite imaginez la réponse de Caroline à sa directrice.
+
+### 1. De Caroline à Mr Novak
+
+Caroline prend contact avec Mr Novak. D'abord elle lui explique la situation et ensuite elle lui propose une date de rendez-vous. Elle finit avec une formule de politesse.
+
+> Objet : Proposition de rendez-vous
+
+> Monsieur Novak,
+
+> Je vous écris sous la recommandation de Mme Poullard, pour solliciter un rendez-vous. Nous souhaiterions discuter de votre contribution dans la mise à jour de notre appli. C'est un projet sur lequel nous avons pris du retard, mais que votre expertise pourrait nous aider à mener efficacement à terme.
+
+> Pourrions-nous envisager une rencontre dans les locaux de notre entreprise le 29 septembre? Nous serions ravis de vous accueillir, de vous présenter notre équipe, ainsi que l'avancement du projet. Si cette date ne vous convient pas, je vous prie de bien vouloir me suggérer une autre.
+
+> Dans l'attente de votre réponse, veuillez agréer, Monsieur, l'expression de mes salutations distinguées.
+
+> Cordialement,
+>
+> Caroline Coordinatrice de projet
+
+### 2. De Mr Novac à Caroline
+
+Mr Novak remercie Caroline pour son email et son intérêt. Comme il est en déplacement professionnel, il n'est pas disponible à la date proposée par Caroline. Il propose un rendez-vous dès son retour. Il finit avec une formule de politesse.
+
+> Objet : Re: Proposition de rendez-vous
+
+> Madame,
+
+> Je vous remercie pour votre invitation et l'intérêt que vous portez à mon travail. J’accepterais volontiers votre invitation de vous rencontrer pour discuter de ma possible contribution au succès de votre initiative.
+
+> Malheureusement, je suis actuellement en déplacement professionnel et je ne serai pas disponible à la date que vous avez proposée.
+
+> Je serai de retour et disponible à partir du 5 octobre. Je serai flexible concernant le jour et l'heure, donc n'hésitez pas à me faire savoir ce qui vous conviendrait le mieux.
+
+> Dans l’attente de votre réponse, je vous prie de recevoir, Madame, l'expression de mes salutations distinguées.
+
+> Cordialement,
+
+> M. Novak Developpeur
+
+### 3. De Caroline à Mr Novak
+
+Caroline confirme la nouvelle date.
+
+> Objet : Re: Proposition de rendez-vous
+
+> Monsieur Novak,
+
+> Merci pour votre réponse rapide et pour votre flexibilité. Je comprends tout à fait les contraintes liées à votre déplacement et j'apprécie votre volonté de trouver un autre créneau qui nous convienne à tous les deux.
+
+> La semaine de votre retour me convient parfaitement. Pourriez-vous me confirmer votre disponibilité pour le 6 octobre, disons à 10h? Sinon, je reste disponible à toute autre proposition de date et heure durant cette semaine.
+
+> Dans l'attente de votre confirmation, je vous prie de recevoir, Monsieur, l'expression de mes salutations distinguées.
+
+> Cordialement,
+
+> Caroline Coordinatrice de projet
+
+### 4. Caroline à Mme Poullard (la directrice de COMEX)
+
+Caroline écrit un email à sa directrice pour la tenir au courant de l'échange avec Mr Novak et de la date éventuelle de leur rendez-vous.
+
+> Objet : Rendez-vous avec M. Novak
+
+> Chère Mme Poullard,
+
+> Je tenais à vous informer que suite à votre recommandation, j'ai pris contact avec M. Novak concernant son rôle potentiel dans la mise à jour de l'appli. Malheureusement, il est actuellement en déplacement professionnel et il n'était pas disponible à la date initialement proposée.
+
+> En revanche, M. Novak a exprimé une grande ouverture et une disponibilité pour nous rencontrer la semaine suivant son retour. Nous avons provisoirement envisagé le 6 octobre, et j'attends sa confirmation pour finaliser les détails de notre rendez-vous.
+
+> Je vous tiendrai bien entendu au courant de tout développement ultérieur et de l'issue de notre rencontre.
+
+> Je vous remercie pour votre soutien continu et reste à votre disposition pour toute information complémentaire.
+
+> Bien cordialement,
+
+> Caroline
+>
+> Coordinatrice de projet
+
+::: {.callout-tip appearance="simple" icon="false"}
+### Boite à outils / lexique 4
+
+Les mots et expressions suivantes sont couramment utilisées dans la correspondance professionnelle en français. Notez également l'usage du futur (pour exprimer les actions à venir) et du conditionnel (pour exprimer un souhait, ou une formule de politesse).
+
+-   **Suite à + nom**
+
+    -   Suite à notre réunion...
+
+-   **je tiens à + infinitif**
+
+    -   Je tiens à vous remercier...
+
+-   **il est de notre intérêt commun...**
+
+-   **coordonnées** : informations de contact
+
+-   **nous sommes convaincus que...**
+
+-   **nous restons à votre entière disposition**
+
+-   **n'hésitez pas à me contacter**
+
+-   **Au plaisir de + nom / infinitif**
+
+    -   Au plaisir de vos nouvelles
+
+    -   Au plaisir de vous voir bientôt...
+
+-   **Je vous écris sous la recommandation de** : Expression formelle pour introduire l'origine de la communication.
+
+-   **solliciter un rendez-vous** : Demander formellement une rencontre.
+
+-   **mener \[quelque chose\] à terme** : terminer une tâche, ou un projet
+
+-   **en revanche:** toutefois, cependant
+
+-   **convenir \[pour une date/lieux de rendez-vous\] :** conjugué à la troisième personne du singulier (forme "il")
+
+    -   ça me convient / ça ne me convient pas
+
+-   **dans l'attente de votre réponse** : Formule de politesse exprimant l'attente d'un retour.
+
+-   **faire savoir:**
+
+    -   dans la forme impérative: ex. faites moi savoir \[quelque chose\]
+
+    -   à l'infinitif: ex. n'hésitez pas à me faire savoir \[quelque chose\]
+
+-   **Je vous remercie pour votre réponse rapide** : Remerciement formel pour une réponse prompte.
+
+-   **pourriez-vous** : Formulation polie pour faire une demande.
+
+-   **je reste ouverte à une autre proposition** : se montrer flexible avec la planification.
+
+-   **disponibilité** : Capacité à être présent ou à participer.
+
+-   **en déplacement professionnel** : Indique qu'une personne est en voyage d'affaires.
+
+-   **un contretemps** : Un imprévu ou un obstacle.
+
+-   **volontiers :** avec plaisir
+
+-   **bien entendu :** évidemment, sans doute
+
+-   **créneau :** temps spécifique, plage horaire
+
+-   **issue**: la conclusion, l'aboutissement de quelque chose
+
+    -   ex. Je vous tiendrai au courant de l'issue du projet.
+
+-   **provisoirement** : De manière temporaire, en attente de confirmation.
+
+-   **tenir \[quelqu'un\] au courant** : Promettre de continuer à communiquer des informations.
+
+-   **je vous prie de recevoir** : Formule de politesse pour introduire une conclusion.
+
+-   **\[bien\] cordialement** : Formule de politesse utilisée pour conclure un courriel de manière amicale mais professionnelle.
+
+------------------------------------------------------------------------
+
+**Confirmer un rendez-vous**
+
+-   Je confirme que je suis disponible pour + rendez-vous + date + heure + lieu
+
+    -   ex : Je confirme que je suis disponible pour le séminaire des agents de publicité de ce mercredi de 10h à 12h à la salle de conférence.
+
+<!-- -->
+
+-   Date (jour/date/heure) + formules d’approbation (serait parfait/me convient/me conviendrait parfaitement) + rendez-vous.
+
+    -   ex : Le 14 novembre à 14h me convient parfaitement pour la conférence des experts.
+
+**Modifier un rendez-vous**
+
+-   Je reporte/change la date de + rendez-vous + nouvelle date
+
+    -   ex : Je reporte la date de notre réunion du comité exécutif au jeudi de la semaine prochaine.
+
+**Annuler un rendez-vous**
+
+-   Formules de regret (Malheureusement/ Je regrette de vous informer que) + je ne serai pas disponible + date
+
+    -   ex : Je regrette de vous informer que je ne serai pas disponible pour la session interactive avec les nouvelles recrues le vendredi 12 octobre de 8h à 12h.
+:::

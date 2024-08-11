@@ -1,0 +1,44 @@
+---
+title: "Le compte rendu"
+#author: ""
+format: 
+  html: 
+    self-contained: true
+    page-layout: article
+    docx: default
+    pdf: default
+#  revealjs: 
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual
+---
+
+Dans la vie professionnelle, on est souvent appelé à rédiger un compte rendu à la suite d'une activité, d'un entretien, d'une mission, pour faire état d'un problème, d'une opportunité, de l'avancement d'une recherche, pour relater une conférence, etc.
+
+Dans le compte rendu il s’agit de présenter les faits ou les idées de manière claire, précise et objective. Un compte rendu peut avoir différents objectifs: informer, analyser, évaluer, synthétiser, etc.
+
+Le compte rendu peut avoir des longueurs variables selon le type, l’objectif et le destinataire du texte. Il n’existe pas de règle universelle sur la longueur idéale d’un compte rendu, mais il faut respecter le principe de la concision, c’est-à-dire ne pas ajouter d’informations superflues ou inutiles. Voici quelques exemples de longueurs moyennes pour différents types de compte rendu :
+
+-   Un compte rendu de réunion professionnel : entre 2 et 5 pages, selon le nombre de sujets abordés, le niveau de détail et le format choisi (texte suivi, énumération de points, tableau, etc.).
+
+-   Un compte rendu de lecture universitaire : entre 5 et 7 pages, selon le niveau d’analyse et de synthèse requis, le nombre de références bibliographiques et le respect des normes de présentation.
+
+-   Un compte rendu d’activité ou de mission : entre 1 et 3 pages, selon la complexité et la durée de l’activité ou de la mission, le nombre d’éléments à rapporter et le style adopté (formel, neutre, télégraphique, etc.).
+
+Le plus souvent, dans un compte rendu, on doit s'en tenir aux faits puisque il s'agit d'un type d'écrit objectif. Mais, selon la situation et les attentes du destinataire, on peut aussi être appelés à introduire son jugement et ses opinions.
+
+::: callout
+### Savoir-faire
+
+1.  Trouver les points clés qui peuvent être dispersés dans les propos des interlocuteurs, ou dans différents documents.
+2.  Ré-organiser les points clés dans une structure logique.
+3.  Respectez la structure du compte rendu : introduction, développement, conclusion.
+4.  Utilisez un style formel, neutre et précis. Évitez les expressions familières, les répétitions et les digressions et les jugements personnels (sauf si vous êtes demandés à partager vos opinions ou à porter un jugement).
+5.  Adaptez le contenu et le ton du compte rendu au destinataire et à l’objectif du texte. Par exemple, si vous rédigez un compte rendu pour votre supérieur hiérarchique, vous devez mettre en évidence les points essentiels, les résultats obtenus, les problèmes rencontrés, les solutions proposées, etc.
+6.  Relisez et corrigez votre compte rendu avant de le transmettre. Vérifiez l’orthographe, la grammaire, la ponctuation, la cohérence et la clarté du texte.
+:::

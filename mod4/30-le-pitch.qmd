@@ -1,0 +1,75 @@
+---
+title: "Le pitch"
+author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: true
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+#    theme: dark
+  html: 
+    self-contained: true
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual  
+---
+
+## Le pitch
+
+À l'issue de la phase de la conceptualisation d'un projet, chaque équipe doit être en mesure d'expliquer son projet de façon claire et convaincante. C'est l'heure pitch! Dans le monde des affaires le pitch varie d'une brève présentation informelle, à un exposé formel devant des investisseurs, des partenaires, ou des clients. Le pitch est aussi important que l'idée même! 
+
+Le pitch peut avoir plusieurs fonctions selon le stade de l'évolution d'un projet. À un stade initial, il permet aux équipes d'obtenir des retours (_feedback_) pour améliorer leur idée, à un stade plus avancé, il permet aux équipes à chercher du financement (présenter leur idée à des investisseurs pour faire des levée de fonds), et même à des partenaires pour la promotion de l'entreprise. 
+
+Si le pitch n'arrive pas à convaincre son public, ou à susciter de l'intérêt, l'idée entrepreneuriale qui se trouve derrière, risque de tomber à l'eau^[d'être abandonnée]. 
+
+Le pitch est un discours bien organisé et bien répété(!) et qui prend des formes variées selon le public. La longueur de ces formes varie aussi. Le pitch peut aller d'une **phrase-projet** à un exposé beaucoup plus détaillé comme celui de l'équipe [_La Vie Laine_](https://canvas.its.virginia.edu/courses/104170/files/7260962?module_item_id=1083006&fd_cookie_set=1). 
+
+## La phrase-projet
+
+La phrase-projet est, comme son nom l'indique, une phrase qui résume bien les points essentiels d'un projet entrepreneurial: le(s) métier(s)/secteur(s) professionnel(s), le produit/service, le client, la spécificité de l'entreprise.
+
+Par exemple, voici la phrase-projet d'OptiMiam:
+
+> OptiMiam est une appli qui crée un "pont digital" entre les consommateurs et les commerçants du quartier, afin que les uns puissent avoir accès à des produits de qualité à un prix réduit, et que les autres vendent leurs produits périssables sans les gaspiller. 
+
+Dans cette phrase tout y est: 
+
+1. "Une appli" signifie que le secteur professionnel est l'informatique. Il faut donc employer des développeurs pour créer ce service.
+
+2. Les consommateurs: ce sont les clients, ceux qui payent. 
+
+3. La valeur unique de cette idée: les consommateurs mangent des produits frais moins cher, les commerçants se débarrassent de leurs surplus. 
+
+4. L'impact social: OptiMiam permet à une clientèle qui cherche des bons plans (étudiants, chômeurs, familles nombreuses, etc) de consommer moins cher, et elle permet aussi les commerçants d'éviter de gaspiller de la nourriture. 
+
+À partir de cette phrase on peut développer le pitch pour donner des clarifications nécessaires sur tel ou tel point. 
+
+## Présentation orale d'un pitch selon la séquence de motivation de Monroe
+
+La séquence de motivation de Monroe est un modèle de communication persuasive en 5 étapes, développé par Alan H. Monroe dans les années 1930. Ce modèle est à la portée de tous, et il s’avère être un instrument très efficace dans les présentations professionnelles. Ce modèle est largement utilisé dans le monde des affaires pour structurer un message de manière convaincante et motiver l’auditoire à agir.
+
+1. Attirer l'attention
+
+La première étape consiste à capter l'attention de votre auditoire. Vous pouvez y parvenir en utilisant une accroche intéressante, une histoire captivante, une statistique surprenante, ou une question provocante. L'objectif est de susciter l'intérêt de votre public dès le début de votre présentation.
+
+2. Établir le besoin  
+
+Ensuite, vous devez convaincre votre auditoire qu'il existe un problème ou un besoin spécifique qui doit être résolu. Mettez en évidence les défis actuels, les opportunités manquées ou les conséquences négatives de l'inaction. Cette étape vise à créer un sentiment d'urgence et à préparer votre public à votre solution proposée.
+
+3. Satisfaire le besoin
+
+Une fois que vous avez établi le besoin, présentez votre solution de manière claire et convaincante. Expliquez comment votre idée peut résoudre le problème identifié. Mettez en avant les avantages uniques de votre solution et montrez comment elle répond à des besoins spécifiques.
+
+4. Visualiser le futur
+
+Aidez votre auditoire à imaginer un avenir positif où votre solution est mise en œuvre avec succès. Décrivez les résultats bénéfiques, les améliorations et les opportunités qui découleront de l'adoption de votre proposition. Cette étape vise à créer un désir fort pour votre solution en montrant à votre public ce qu'il peut gagner.
+
+5. Appel à l'action
+
+Enfin, concluez votre présentation par un appel à l'action clair et spécifique. Dites à votre auditoire exactement ce que vous voulez qu'il fasse, que ce soit acheter votre produit, s'inscrire à votre service ou soutenir votre idée. Rendez-leur la tâche aussi simple que possible et fournissez toutes les informations nécessaires pour qu'ils puissent agir immédiatement.

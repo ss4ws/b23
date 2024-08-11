@@ -1,0 +1,173 @@
+---
+title: "La désindustrialisation à la française (Lire en autonomie)"
+author: "Adapté de [cet article](https://www.radiofrance.fr/franceculture/podcasts/la-bulle-economique/la-desindustrialisation-a-la-francaise-8496335) sur France Culture"
+format: 
+#  revealjs: 
+#    self-contained: true
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+#    theme: dark
+  html: 
+    self-contained: true
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual  
+---
+
+::: callout
+Réindustrialiser la France, c'est l'un des axes majeurs[^03-desindustrialisation-francaise-1] du plan de relance[^03-desindustrialisation-francaise-2]. On part de loin, la France est le pays de l'Union européenne qui s'est le plus désindustrialisé[^03-desindustrialisation-francaise-3] depuis les années 70. Quelles sont les causes spécifiquement françaises de ce phénomène ?
+:::
+
+[^03-desindustrialisation-francaise-1]: lignes directrices principales
+
+[^03-desindustrialisation-francaise-2]: plan de renaissance économique
+
+[^03-desindustrialisation-francaise-3]: ayant perdu son secteur industriel
+
+"Depuis quelques mois, le textile est en crise. Réductions d'horaires[^03-desindustrialisation-francaise-4], fermeture d'ateliers, d'usines même. De mois en mois, on espère la relance..."  [Extrait du journal télévisé en avril 1965](https://enseignants.lumni.fr/fiche-media/00000000922/crises-et-mutations-du-secteur-textile-dans-la-region-nord-pas-de-calais.html). La relance évoquée à l'époque n'est que commerciale, saison du blanc, printemps… et le textile fait alors vivre [plus de 500 000 personnes en France](https://www.persee.fr/doc/estat_0336-1454_1971_num_28_1_2144).  
+
+[^03-desindustrialisation-francaise-4]: diminution des heures de travail
+
+50 ans plus tard, ce chiffre a été divisé par 5. Ce déclin aura concerné tous les secteurs industriels. De 5 millions 700 000 personnes employées dans l'industrie en 1974, on est passé à un peu plus de 3 millions en 2019.  
+
+La désindustrialisation est un phénomène mondial. Même la Chine et l'Allemagne, les deux premières puissances industrielles du monde, ont vu la part de l'industrie baisser dans ce qui est produit sur leur sol.   
+
+![](https://www.radiofrance.fr/s3/cruiser-production/2020/07/19131df2-a075-4ebc-9795-6a91b894039d/860_banque_mondiale_pib_industrie.jpg) Part de l'industrie dans le Produit Intérieur Brut[^03-desindustrialisation-francaise-5] comparé entre la Chine, l'Allemagne, les Etats Unis et la France.
+
+[^03-desindustrialisation-francaise-5]: PIB (GDP) mesure de l'activité économique d'un pays
+
+Cela s'explique aisément[^03-desindustrialisation-francaise-6] :  
+
+[^03-desindustrialisation-francaise-6]: facilement, sans difficulté
+
+-   la demande de service est depuis 20 ans sur la piste ascendante[^03-desindustrialisation-francaise-7],  
+
+-   les gains de productivité sont plus importants dans l'industrie que dans le tertiaire[^03-desindustrialisation-francaise-8], 
+
+-   l'industrie a beaucoup externalisé[^03-desindustrialisation-francaise-9], c'est à dire transféré à des prestataires extérieurs tout un tas d'activité, comme le ménage, la sécurité, la communication etc... 
+
+[^03-desindustrialisation-francaise-7]: La voie montante
+
+[^03-desindustrialisation-francaise-8]: le secteur de l'économie qui n'est ni agricole ni industriel. Il y a 3 secteurs d'économie: Primaire, Secondaire, Tertiaire. `Le secteur primaire` regroupe l'ensemble des activités dont la finalité consiste en une exploitation des ressources naturelles : agriculture, pêche, forêts, mines, gisements. Parfois les industries extractives sont classées dans le secteur secondaire. `Le secteur secondaire` regroupe l'ensemble des activités consistant en une transformation plus ou moins élaborée des matières premières comme les industries manufacturières, mais également la construction. `Le secteur tertiaire` se définit par complémentarité avec les activités agricoles et industrielles (secteurs primaire et secondaire). Il se compose du tertiaire principalement marchand (commerce, transports, activités financières, services rendus aux entreprises, services rendus aux particuliers, hébergement-restauration, immobilier, information-communication) du tertiaire principalement non-marchand (administration publique, enseignement, santé humaine, action sociale). [Source](https://www.vie-publique.fr/fiches/269995-les-grands-secteurs-de-production-primaire-secondaire-et-tertiaire)
+
+[^03-desindustrialisation-francaise-9]: L'industrie a confié beaucoup de ses activités à d'autres entreprises qu'on appelle sous-traitantes.
+
+La France ne fait pas exception à ces tendances, mais si on la compare aux autres pays de l'Union Européenne, la désindustrialisation y a été plus forte.  
+
+Quand on prend l'ensemble de la production industrielle de la zone euro, ce qui exclu les anciens pays du bloc communiste où les salaires sont bien inférieurs, [la part que représente l'industrie française a baissé de 4 points](http://www.rexecode.fr/public/Analyses-et-previsions/Documents-de-travail/La-competitivite-francaise-en-2018-un-espoir-de-stabilisation-mais-l-erosion-industrielle-se-poursuit), celle l'Italie 2 points, l'Espagne est quasi stable, et l'Allemagne a elle gagné 5 points.  
+
+![Part de l'industrie dans la valeur ajoutée par région européenne](https://www.radiofrance.fr/s3/cruiser-production/2020/07/22cf3f68-759f-489a-bbfd-6ce904ddd834/860_2015_etat_de_lindustrie.jpg)
+
+Aujourd'hui l'industrie pèse un quart du Produit Intérieur Brut européen[^03-desindustrialisation-francaise-10], [21% en Allemagne, 20% en Italie, 13% en France](https://www.entreprises.gouv.fr/files/files/etudes-et-statistiques/chiffres-cles/2018-chiffres-cles-industrie-manufacturiere.pdf). Si on prend l'activité manufacturière, c'est à dire sans l'industrie lourde et extractive, c'est 10%.
+
+[^03-desindustrialisation-francaise-10]: Un quart de l'économie européenne est constitué par l'industrie.
+
+## Salaires élevés et productivité la plus élevée de la zone euro 
+
+Pourquoi le déclin de l'industrie a-t-il été plus fort en France que chez nos voisins qui partagent la même monnaie[^03-desindustrialisation-francaise-11], et peu ou prou[^03-desindustrialisation-francaise-12] les mêmes standards sociaux[^03-desindustrialisation-francaise-13] ?  
+
+[^03-desindustrialisation-francaise-11]: Unité monétaire: dollar, euro, etc
+
+[^03-desindustrialisation-francaise-12]: Plus ou moins
+
+[^03-desindustrialisation-francaise-13]: droits et avantages sociaux obtenus par les travailleurs
+
+**Première explication, la plus entendue : l'ouvrier ou l'ouvrière française sont trop chers**. Comparé au sud est asiatique, et même aux pays comme la Pologne, la Roumanie, la Bulgarie... c'est sûr. Comparé à l'Espagne, et l'Italie, c'est vrai aussi. Depuis 2000, sous l'effet notamment des 35 heures, le coût horaire de la main d'œuvre[^03-desindustrialisation-francaise-14] a augmenté et pu pousser les industriels français à rogner[^03-desindustrialisation-francaise-15] sur l'investissement ou d'innovation... ce qui peut expliquer qu'ils se soient fait distancer par leurs voisins. L'industrie est le secteur le plus exposé à la concurrence[^03-desindustrialisation-francaise-16] internationale. Il représente encore les trois quarts des exportations françaises.
+
+[^03-desindustrialisation-francaise-14]: La rémunération horaire des employés
+
+[^03-desindustrialisation-francaise-15]: couper, réduir
+
+[^03-desindustrialisation-francaise-16]: Compétitivité sur le marché
+
+Mais premier bémol[^03-desindustrialisation-francaise-17], [l'augmentation de la productivité a été bien plus forte en France qu'en Allemagne](https://www.insee.fr/fr/statistiques/2654972), en Espagne et en Italie depuis les années 2000. Cette "surproductivité" fut aussi un facteur important de destruction d'emplois, et elle a en partie compensé l'augmentation des coûts salariaux. 
+
+[^03-desindustrialisation-francaise-17]: limitation
+
+"Dans l'industrie, au cours des années 2000 et jusqu'en 2006, la productivité a évolué en France à un rythme supérieur d'environ 6 points à celui de la zone euro. Cet écart d'évolution avec la zone euro s'est encore accentué depuis, pour atteindre 13 points en 2018." [Direction du Trésor.](https://www.tresor.economie.gouv.fr/Articles/a1dcd5b0-99ef-4e02-ae88-c0443b85ddf9/files/7ef7116b-5df4-45a4-98dc-73ce9a85f51e)
+
+![Les 35 heures ont augmenté les coûts salariaux, mais elles ont aussi été un moyen de réorganiser le travail et d'augmenter la productivité.](https://www.radiofrance.fr/s3/cruiser-production/2020/07/1dd9e94f-b397-4dc7-a2ed-4938d90446fd/860_productivite_insee.jpg)
+
+Les 35 heures[^03-desindustrialisation-francaise-18] ont augmenté les coûts salariaux, mais elles ont aussi été un moyen de réorganiser le travail et d'augmenter la productivité.
+
+[^03-desindustrialisation-francaise-18]: Une réforme mise en place en 2000 qui fait la Réduction du Temps de Travail (RTT) hebdomadaire d'un travailleur à temps plein en 35 heures.
+
+Deuxième bémol, les coûts salariaux ne représentent que 16% des coûts finaux dans l'industrie, et depuis 2013, ils ont été réduits par le biais[^03-desindustrialisation-francaise-19] des allègements de cotisations[^03-desindustrialisation-francaise-20]. Et puis, si on se tourne vers l'Allemagne, le coût du travail manufacturier y est toujours plus élevé que chez nous.   
+
+[^03-desindustrialisation-francaise-19]: par l'intermédiaire, via
+
+[^03-desindustrialisation-francaise-20]: Baisse des cotisations sociales
+
+![Chiffres clés de l'industrie manufacturière en 2018.](https://www.radiofrance.fr/s3/cruiser-production/2020/07/b5edd3e8-a645-4615-ba01-6c28c77e1eaf/860_cout_du_travail_dge.jpg)
+
+Chiffres clés de l'industrie manufacturière en 2018.
+
+Les salaires ne sont donc pas le seul facteur explicatif. Alors quoi d'autre ? 
+
+**Les impôts de production ! s'écrient les industriels depuis des années**. [Ils représentent en France 2% du PIB, contre 0.5% en Allemagne](https://www.la-croix.com/Economie/France/impots-production-pesent-entreprises-francaises-2019-06-25-1201031313), ou 1% en Espagne. Ce sont des coûts fixes[^03-desindustrialisation-francaise-21], et cela rend donc la concurrence peu équitable. D'où la décision du gouvernement de réduire ces impôts de production.    
+
+[^03-desindustrialisation-francaise-21]: Dépenses permanentes
+
+Salaires, impôts, cela suffit-il pour expliquer la déroute industrielle française ?  Non. Il y a aussi des facteurs politiques, sociétaux, et thèse plus rarement entendue, le poids des multinationales dans l'économie française. 
+
+C'est le Centre d'étude et de prospective d'informations internationales qui fait cette hypothèse dans une étude nommée :  [L'étonnante atonie des exportations françaises](http://www.cepii.fr/PDF_PUB/lettre/2019/let395.pdf) (janvier 2019). 
+
+**En France, le poids des multinationales est plus grand que chez nos voisins**, or entre 2007 et 2014, leurs effectifs à l'étranger ont augmenté de 60%, deux fois plus que pour les multinationales allemandes et italiennes. Ces emplois ne se sont pas forcément substitués aux emplois en France, reconnaissent les chercheurs qui ont mené cette étude, mais ils remarquent que dans les années 2000 pour l'automobile, 10% des voitures vendues en France étaient produites à l'étranger, en 2016, c'était 50%. En Allemagne, on est passé dans le même temps de 15 à 25%.  
+
+Nos fleurons industriels[^03-desindustrialisation-francaise-22] manqueraient-ils de patriotisme ? Ont-ils été séduits par cette vision de l'ancien patron d'Alcatel Serge Tchuruk de l'entreprise sans usine ? (on disait aussi *fabless*). Si la crise du coronavirus a pu susciter des espoirs de changement, que Renault annonce mi juillet qu'il produirait en Chine un petit véhicule électrique, destiné au marché français... [fut la première douche froide](https://www.autoactu.com/actualites/la-catastrophique-importation-de-la-dacia-spring-de-chine)[^03-desindustrialisation-francaise-23].
+
+[^03-desindustrialisation-francaise-22]: Les entreprises phares de l'industrie, les meilleurs entreprises
+
+[^03-desindustrialisation-francaise-23]: Choc désagréable
+
+L'hebdomadaire Marianne a fait les comptes des emplois créés en dehors de France par les entreprises du CAC 40[^03-desindustrialisation-francaise-24] ces dernières années. 
+
+[^03-desindustrialisation-francaise-24]: Liste des 40 plus grandes entreprises françaises cotées en bourse.
+
+"Au cours de ces dix dernières années seulement (2008-2018), les groupes du CAC 40 ont réduit de 150 000 personnes le nombre de leurs salariés en France (...) Dans le même temps, les mêmes parviennent à augmenter de 4 % leurs effectifs dans le monde et de 52 % dans les pays émergents (+ 466 000 salariés). [Comment le CAC 40 largue la France](https://www.marianne.net/economie/comment-le-cac-40-largue-la-france). Marianne, 31 octobre 2019.
+
+## Germinal et le 7e plan
+
+Autre explication possible, **l'image très négative véhiculée par l'industrie en France**. Pierre Musso[^03-desindustrialisation-francaise-25], auteur de la Religion industrielle, considère que la France est "allergique" à l'industrie car elle a en gardé une image très 19e siècle. 
+
+[^03-desindustrialisation-francaise-25]: Pierre Musso. Docteur en sciences politiques, professeur en Sciences de l'information et de la communication à Télécom ParisTech.
+
+"Toute la littérature du XIXe siècle fut une réaction à l'industrialisation. Quand on pense industrie en France, on pense *Germinal*[^03-desindustrialisation-francaise-26], conditions de travail déplorables, exploitations. Avec un tel imaginaire en tête, on a pu considérer chez nous qu'il était souhaitable que les emplois industriels diminuent, et qu'on les remplace par des emplois de service."
+
+[^03-desindustrialisation-francaise-26]: Livre d'Émile Zole
+
+Et nos politiques ? Ont-ils manqué de vision ? Non, ils ont fait mieux, accusait un syndicaliste de la CFDT dans ce reportage télé de 1975, ils ont planifié la fin de certaines industries:  
+
+"La mort du textile est voulue ! Elle a été programmé par le gouvernement et le patronat[^03-desindustrialisation-francaise-27] dans le 7e plan. Il suffit de lire ce 7e plan, et les mesures gouvernementales qui l'accompagnent pour se rendre compte !"
+
+[^03-desindustrialisation-francaise-27]: l'ensemble des chefs d'entreprises
+
+Le 7ème plan (1976-1980), [que vous pouvez lire ici](https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/septieme-plan-1976-1980.pdf), n'organisait pas la désindustrialisation, mais il tournait la page du soutien de l'État à l'industrie, sauf pour le militaire et le nucléaire.  
+
+"Le gouvernement évitera de modifier les conditions de la concurrence en distribuant des subventions[^03-desindustrialisation-francaise-28] : la rentabilité se conquiert, elle ne se concède pas. (extrait du 7e plan)
+
+[^03-desindustrialisation-francaise-28]: soutien financier de l'État
+
+Pierre Musso y voit le début du néolibéralisme[^03-desindustrialisation-francaise-29] en France et du laisser faire. Il n'est pas le seul. "Le corps des mines s'est fait absorber par l'inspection des finances à partir des années 70", décrit pour sa part David Cousquer, de l'institut Trendeo.
+
+[^03-desindustrialisation-francaise-29]: Doctrine économique et politique prônant la liberté des marchés, la réduction de l'intervention de l'État et la privatisation.
+
+Finie la vision d'un état colbertiste, dirigiste et protectionniste, place à l'État qui ne pilote plus, mais accompagne les mutations économiques.  
+
+De ministère de plein exercice depuis quasi toujours, l'Industrie se retrouve sous la tutelle du ministre des finances en 1991, et de façon définitive à partir de 1997 au retour au pouvoir des socialistes dans le gouvernement de Lionel Jospin.  
+
+Tour à tour associée au commerce extérieur, à la recherche, à l'artisanat, l'industrie revient sur le devant de la scène sous le nom de ministère du redressement productif avec Arnaud Montebourg de 2012 à 2014, avant de disparaître totalement de l'intitulé des ministères à l'arrivée au pouvoir d'Emmanuel Macron.
+
+Période révolue. L'industrie est revenue dans le gouvernement Castex, au rang de ministère délégué. Agnès Pannier Runacher peut désormais s'y consacrer à plein temps avec une équipe étoffée (4 ou 5 conseillers contre 1 auparavant) alors qu'auparavant elle devait s'occuper en même temps de l'artisanat, du commerce, de la consommation... ou plus récemment des discothèques.  
+
+"Nous traversons une tempête économique sans précédent. L'industrie ne doit pas être le ministère des problèmes mais le ministère des solutions, la solution pour une économie décarbonée, la solution sur les enjeux de souveraineté, la solution pour créer des richesses sur les territoires et des emplois pas seulement dans l'industrie mais dans les services autour d'elle, la solution pour l'inclusion des jeunes. Agnès Pannier-Runacher dans l['Usine nouvelle](https://www.usinenouvelle.com/editorial/avec-agnes-pannier-runacher-l-industrie-est-dotee-d-une-ministre.N983516).
+
+Que l'industrie soit de nouveau incarnée par une ministre, c'est un signe politique : une condition sans doute nécessaire, mais pas suffisante pour faire de la réindustrialisation de la France une réalité. D'autant que dans les mois qui viennent, ce qui s'annonce, c'est la perte de milliers d'emplois, notamment industriels. Autant que la relance, Agnès Pannier Runacher va devoir gérer une nouvelle vague de désindustrialisation.
+
+([Article paru sur le site de France Culture le Samedi 29 août 2020](https://www.radiofrance.fr/franceculture/podcasts/la-bulle-economique/la-desindustrialisation-a-la-francaise-8496335))

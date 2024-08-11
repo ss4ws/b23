@@ -1,0 +1,25 @@
+---
+title: "La vie laine: Activités"
+author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: true
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+#    theme: dark
+  html: 
+    self-contained: true
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual  
+---
+
+
+
+<iframe src="https://virginia.h5p.com/content/1292217084268033708/embed" aria-label="La vie laine" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://virginia.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>

@@ -1,0 +1,92 @@
+---
+title: "Brainstorming"
+author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: true
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+#    theme: dark
+  html: 
+    self-contained: true
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual  
+---
+
+Comment trouver un idée de start-up? Comme nous avons déjà vu, surtout avec le business modèle Canevas, une entreprise doit identifier et répondre à un problème et cette réponse doit être bien reçue par un public spécifique. La solution à ce problème viendrait alors sous forme de service ou de produit que l'entreprise mettraient en vente à une certaine clientèle, préalablement aussi identifiée.
+
+Mais, sauf exception d'une idée très originale et audacieuse qui "révolutionne" un secteur ou une industrie, on se doute qu'il y a déjà dans le marché des entreprises qui proposent déjà des solutions pour le même problème. Mais est-ce que ces solutions conviennent à toutes et à tous? Il peut y avoir une myriade de réponses à un problème. Comme nous sommes différent.e.s les unes des autres, il nous faut des solutions qui répondent au plus près de nos besoins.
+
+Prenez l'amour par exemple. On cherche toutes et tous l'amour et l'amitié, à court ou à long terme. Et, dans ce domaine, il y a plusieurs solutions proposées par autant d'applications différentes: tinder, okcupid, bumble, hinge, grindr… Il y a des applis hétéros, homos, pour groupes ethniques spécifiques, pour types de corps particuliers, pour préférences alimentaires… Bref, dans le domaine d'applis de rencontres, il y en a pour tous les goûts.
+
+Comme le numérique s'est bien installé dans notre quotidien (depuis un moment déjà) les entreprises et les start-up proposent de plus en plus des solutions en forme de "ponts digitaux". Dans [cette page du journal en ligne Madyness](https://www.maddyness.com/secteurs/) vous pouvez explorez tous les secteurs professionnels qui sont en mutation numérique. Ainsi, pour citer quelques uns, vous avez:
+
+-   L’Adtech fait référence aux nouvelles technologies utilisées dans l’industrie de la publicité.
+-   L’Agritech regroupe toutes les startups et entreprises qui mettent au point des technologies agricoles.
+-   La Biotech regroupe toutes les startups et entreprises qui mettent au point des technologies de manipulation du vivant.
+-   La Medtech regroupe toutes les startups et entreprises qui mettent au point des technologies médicales, hors manipulation du vivant (considérée comme la Biotech).
+-   La Deeptech regroupe toutes les startups et entreprises qui mettent au point des technologies de recherche pointue (IA, blockchain…) qui ne s’appliquent pas à un domaine particulier.
+-   L’E-commece regroupe toutes les startups et entreprises de vente en ligne.
+-   La Edtech regroupe toutes les startups et entreprises qui mettent au point des technologies éducatives.
+-   Les secteurs de la foodtech et de la winetech regroupent toutes les startups et entreprises ayant trait à l’alimentation (hors agritech) et les technologies ou innovations liées aux vins et spiritueux.
+-   La Martech regroupe toutes les startups et entreprises qui mettent au point des technologies marketing, qui boostent l’activité de l’entreprise.
+-   Le secteur du Retail regroupe les startups et technologies qui améliorent l’expérience de vente.
+-   Le secteur rh / management regroupe toutes les startups et entreprises qui mettent au point des technologies de recrutement et de gestion des équipes. (RH c'est l'acronyme de ressources humaines).
+-   Le secteur de la mobilité regroupe toutes les startups et entreprises qui mettent au point des technologies de transport de personnes (y compris la SpaceTech).
+
+Et votre entreprise dans quel secteur appartiendra?
+
+## Brainstorming
+
+(source: [Wikipédia](https://fr.wikipedia.org/wiki/Brainstorming))
+
+## Qu'est-ce que le brainstorming?
+
+Le *brainstorming*, (remue-méninges en Français) est une activité de groupe. Tout.e seul.e on ne fait pas du remue-méninges, on réfléchit, tout simplement.
+
+C'est une méthode pour les groupes de générer le plus grand nombre d'idées possibles avant de se concentrer au développement de l'une d'entre elles plus tard.
+
+Deux principes de base définissent le *brainstorming*: la suspension du jugement et l'étendue de la recherche.
+
+Ces deux principes de base se traduisent par quatre règles:
+
+-   se laisser aller (*freewheeling*) pour obtenir le plus grand nombre d'idées possibles
+-   toute idée, aussi farfelue[^1] soit-elle, est la bienvenue
+-   s'abstenir de toute critique des idées proposées
+-   rebondir (*hitchhike*) sur les idées exprimées: toute combinaison ou amélioration est la bienvenue
+
+[^1]: folle
+
+## Les phases d'une séance de brainstorming
+
+### Phase 1: Préparer
+
+-   Définition de l'objet du *brainstorming*: **générer des idées pour une start-up**.
+    -   Quel est le problème?
+    -   Qui sont les clients?
+    -   Quelle est la solution?
+-   Constitution de l'équipe de travail:
+    -   groupes de 2 partenaires
+-   Organisation de la réunion:
+    -   Pour commencer, rappeler-vous de vos valeurs de groupe. Ensuite, pensez comment ces valeurs vont être servies quand vous essayez de trouver une solution à un problème.
+
+### Phase 2: Animer
+
+-   Ne jamais critiquer les idées des autres. **Tout noter!**
+-   Débrider sa créativité en exprimant toutes ses idées sans réserve et sans autocensure.
+-   Rebondir sur les idées des autres et les améliorer car la quantité d'idées est importante.
+
+### Phase 3: Capitaliser et valoriser
+
+-   **Développement et combinaison :** Explorer les idées générées, les développer davantage et voir si certaines peuvent être combinées pour créer des solutions plus complètes.
+
+-   **Évaluation et sélection :** Examiner les idées selon des critères prédéfinis et sélectionner celles qui semblent les plus prometteuses pour atteindre l'objectif fixé.
+
+-   **Plan d'action :** Définir les étapes suivantes pour mettre en œuvre les idées sélectionnées.

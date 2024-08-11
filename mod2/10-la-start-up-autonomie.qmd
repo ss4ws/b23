@@ -1,0 +1,58 @@
+---
+title: "La start-up (à faire en autonomie)"
+author: "(adaptation d'un exercice paru sur RFI par Joëlle Vivier-Merle)"
+format: 
+  html: 
+    self-contained: true
+    page-layout: article
+    docx: default
+    pdf: default
+#  revealjs: 
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+embed-resources: true
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual
+---
+
+## Écouter
+
+Écoutez l'enregistrement audio: [Afrique du Sud: Le Cap, ville des start-up](https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20220216-afrique-du-sud-le-cap-ville-des-start-up)
+
+## Transcription
+
+Le Watershed coche toutes les cases attendues d'un tel lieu: boutiques d'artisanat à la mode, café au lait de soja… En son cœur, sur une immense mezzanine, un lieu de travail partagé qui compte plus de 90 organisations inscrites, dont de nombreuses start-up. Lora travaille au Workshop 17. « Il semble que cela soit effectivement un lieu central pour les start-up, avance-t-elle. Je pense que la communauté ici est très solidaire. Il y a beaucoup de ressources sur lesquelles les gens peuvent s'appuyer[^10-la-start-up-autonomie-1]. Et puis… le succès entraîne le succès».
+
+[^10-la-start-up-autonomie-1]: se reposer sur quelque chose ou quelqu'un pour obtenir du soutien ou justifier une action ou une opinion
+
+Daniel, poncho rouge et badge autour du cou, est tout sourire. C'est un jeune éditeur vidéo. Il voit beaucoup d'avantages à travailler pour une start-up comme Digital Frontier Institute. « Ils m'ont embauché alors que je débutais et j'ai grandi avec l'entreprise. Deux ans après, je dirige une équipe à tout juste 24 ans, ce qui ne serait pas arrivé dans un autre contexte. Par exemple, si j'avais commencé dans la production de films publicitaires pour la télé, je serais junior. Et puis, vous pouvez facilement finir par diriger un département de production pour une entreprise où vous vous occupez de caméras qui coûtent un demi-million de rands mais vous, vous gagnez moins de 10 000 rands par mois. La start-up semble le meilleur choix pour les conditions de travail.»
+
+«Oui, c'est la nouvelle Californie…» Fred Roed est à la tête d'Heavy Chef, une plateforme d'apprentissage pour les entrepreneurs: «Je pense qu'en tant que start-up, nous sommes capables d'aller vite, d'être agile, de résoudre des problèmes sans demander la permission… Et donc cela nous donne la possibilité de vraiment casser les codes et d'agir rapidement. C'est la différence avec une entreprise traditionnelle, qui fournit potentiellement un service à une petite audience et qui est heureuse de faire la même marge[^10-la-start-up-autonomie-2] mois après mois. Alors qu'une start-up, elle peut péricliter[^10-la-start-up-autonomie-3] très vite mais peut aussi grandir de manière importante très rapidement».
+
+[^10-la-start-up-autonomie-2]: faire marge: réaliser un profit
+
+[^10-la-start-up-autonomie-3]: décliner, se détériorer
+
+Pour ce spécialiste, le choix du Cap par les entrepreneurs est stratégique: «Le Cap est une ville qui peut travailler avec les pays occidentaux mais qui en même temps est très connectée au tiers monde[^10-la-start-up-autonomie-4]. C'est donc une sorte de passerelle. Nous avons beaucoup de compétences ici. C'est très rentable d'y créer une entreprise. Cela en vaut la peine[^10-la-start-up-autonomie-5]. Et cela attire un ensemble d'individus très créatifs».
+
+[^10-la-start-up-autonomie-4]: pays en voie de développement
+
+[^10-la-start-up-autonomie-5]: Cela mérite l'effort ou le coût investi
+
+Un projet de loi, le «start-up act», est actuellement sur la table. Les professionnels du secteur espèrent un allègement des taxes ainsi qu'une simplification des procédures administratives pour la création de start-up.
+
+## Activités
+
+<!-- https://fle-rfi.h5p.com/content/1291846294935732207/embed  -->
+
+<iframe src="https://fle-rfi.h5p.com/content/1291846294935732207/embed" aria-label="L&#39;entreprise, c&#39;est quoi?" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *">
+
+</iframe>
+
+```{=html}
+<script src="https://virginia.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+```

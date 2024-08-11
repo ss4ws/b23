@@ -1,0 +1,29 @@
+---
+title: "Le nom d'une marque"
+author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: true
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+#    theme: dark
+  html: 
+    self-contained: true
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual  
+---
+
+Nous avons vu au début de ce semestre qu’une entreprise est une personne morale (*legal entity*). Ainsi, tout comme une personne physique, une entreprise doit aussi avoir une “carte d’identité” où il est inscrit son nom et l’adresse de son siège social (*headquarters*).
+
+Mais, en dehors de ses obligations envers la loi, une entreprise doit acquérir une certaine reconnaissance dans le marché. Pour se démarquer donc de sa concurrence, une marque doit se doter d’un nom mémorable, et d’arriver à créer une image qui génère des associations positives auprès de ses clients.
+
+C’est ce que la marque automobile Citroën tente de faire avec le lancement de son nouveau logo. Le lancement du nouveau logo est accompagné d’une campagne publicitaire pour rappeler à ses clients que Citroën se réinvente pour répondre à leurs besoins de mobilité, tout en s’engageant dans l’énergie verte afin d’assurer ses clients qu’elle fait sa part dans la réduction des émissions CO~2~. Ce marketing aide Citroën à se placer comme marque avec une conscience environnementale et à établir avec ses clients un rapport de confiance sur ce point. Ensuite les produits, dans le cas de Citroën, ses voitures, s’ils sont de qualité, renforceront la satisfaction des clients, voire gagner leur fidélisation.
+
+**Pour résumer:** Une marque a besoin d’un logo qui sera porté comme un badge d’honneur par ses clients. Un logo ne vend pas nécessairement des produits, mais rappelle aux clients deux choses: l’histoire de la marque et ses valeurs. Citroën, dans sa campagne de révélation de son nouveau logo, ne vise pas à vendre des produits, mais plutôt à rappeler à ses clients que la marque est à leur écoute, et qu’elle est capable de faire les changements nécessaires pour répondre à leurs besoins. Le logo devient un miroir dans lequel les clients retrouvent leur propre image, ainsi que leurs valeurs, surtout en ce qui concerne la conscience environnementale.

@@ -1,0 +1,92 @@
+---
+title: "Pitch La Vie Laine -- Activité à faire en autonomie"
+# author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: true
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+#    theme: dark
+  html: 
+    self-contained: true
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual  
+---
+
+{{< video https://www.youtube.com/watch?v=uqzdr4lWPyA&t=18s >}}
+
+## La transcription de la vidéo
+
+Bonjour à tous et merci pour votre présence. Nous sommes heureuses de vous présenter aujourd'hui notre projet d'entreprise *La Vie Laine*. Le défi[^1] de cinq étudiantes bourguignonnes. Le but? Redynamiser la filière[^2] de laine des moutons française par la création d'une marque écoresponsable de prêt-à-porter[^3] 100% laine. Une démarche qui fait suite à[^4] l'arrivé massive des fibres[^5] synthétiques et à la délocalisation des industries. Nos produits français regroupent des valeurs environnementales et sociétales. Notre entreprise produit et commercialise un vêtement de qualité ayant une traçabilité[^6] irréprochable[^7] et participe directement à l'économie des petites entreprises françaises. *La Vie Laine* offrira un nouveau souffle[^8] à la mode française. Ce n'est pas qu'une marque, c'est une proposition pour un nouveau mode de consommation. 
+
+[^1]: épreuve, mission difficile, obstacle à surmonter
+
+[^2]: le secteur d'activité
+
+[^3]: Vêtements fabriqués en série, en tailles standardisées, destinés à être portés sans modifications ou ajustements significatifs. Contrairement à la haute couture, qui propose des pièces uniques adaptées aux mesures spécifiques des client.e.s
+
+[^4]: faire suite à: en réponse à, en conséquence de
+
+[^5]: fil, composant textile
+
+[^6]: le parcours d'un produit de sa matière première à sa fabrication et sa distribution
+
+[^7]: exemplaire, sans défaut, impeccable
+
+[^8]: Revitaliser, régénérer, renouveler
+
+Notre produit est en 100% laine, construit dans sa totalité en France dans le respect de l'environnement et suivant les tendances[^9] mode actuelles. À l'aide des éleveurs des moutons[^10] français, nous nous procurons[^11] la matière première en valorisant une laine brute[^12] composée de fibres 100% naturelles. Une matière noble et résistante que nos partenaires les entreprises de lavage, de filature[^13] et de tricotage[^14] de laine, transforment en un produit fin et doux puis en un produit fini, fidèle à nos valeurs et engagements. De plus, une société[^15] de transport nous permet un acheminement[^16] de chaque matériau entre chaque atelier. Enfin, chaque étape suit un protocole et un cahier des charges[^17] rigoureux[^18] ce qui fait de *La Vie Laine* un gage[^19] de transparence et de traçabilité des conditions d'élevage, du bien-être des moutons, jusqu'à la commercialisation de nos pulls. 
+
+[^9]: Les "tendances" désignent les directions ou les courants prédominants dans des domaines variés comme la mode, la technologie, l'économie, la culture, et les comportements sociaux, reflétant les intérêts, les préférences, et les valeurs émergentes d'une société à un moment donné.
+
+[^10]: Un fermier, une personne qui s'occupe de la gestion de la reproduction, de l'alimentation, et du bien-être des animaux comme les moutons, les vaches, les chevaux, etc. Son travail est essentiel pour la production alimentaire et l'agriculture.
+
+[^11]: Obtenir, acquérir, trouver
+
+[^12]: laine naturelle non traitée
+
+[^13]: Fabrication de fils textiles
+
+[^14]: Le "tricotage" désigne l'acte de former un tissu en entrelaçant des fils à l'aide d'aiguilles à tricoter ou de machines. Cette technique permet de créer des boucles, appelées mailles, qui sont ensuite passées les unes dans les autres.
+
+[^15]: une entreprise, une compagnie
+
+[^16]: Transport, livraison
+
+[^17]: dossier des spécifications techniques d'un projet
+
+[^18]: Méticuleux, précis, soigneux
+
+[^19]: garantie, preuve d'engagement
+
+*La Vie Laine* mise sur un design de pulls à la fois intemporel et tendance pour séduire la gente féminine[^20]. Celui-ci suivra les tendances et les saisons: chaud pour l'hiver et plus léger pour l'été. En plus, des collections été / hiver, notre marque proposera des collections capsules[^21], afin de varier les plaisirs et toujours proposer de la nouveauté. Notre pull s'adresse à des femmes de tout âge soucieuses de l'environnement et de l'origine des produits, qui cherchent qualité et style. Par un circuit court et entièrement réalisé en France la réduction des émissions du CO2 et l'emploi d'industrie locale, consommer *La Vie Laine*, c'est faire une action écoresponsable et solidaire.  
+
+[^20]: les femmes élégantes, raffinées
+
+[^21]: séries limitées, éditions spéciales
+
+Nous avons d'abord choisi de lancer notre produit dans une boutique en ligne pour pouvoir s'étendre et atteindre tout le territoire français. Puis nous ouvrirons notre propre boutique, à partir de la troisième année. Mais notre stratégie marketing ne s'arrête pas là. En effet, nous avons une valeur de zéro distance[^22] avec nos consommateurs. Grâce aux réseaux sociaux, tel qu'Instagram, nous allons pouvoir être au plus proche de nos clients et collaborateurs via des vidéos, des photos et des posts réguliers sur le fonctionnement et le cheminement  de nos produits, depuis les agriculteurs jusqu'à la conception et au modeling. Nous comptons aussi être présents dans les salons d'exposition de mode et d'agriculture, dans vos radios et dans de nombreux reportages.  
+
+[^22]: relation directe
+
+Vous l'aurez compris, notre entreprise a la volonté de participer à la redynamisation d'une filière qui se meurt peu à peu. La filière de laine de mouton française. Ainsi, nous permettrons aux éleveurs des moutons français d'avoir un vrai débouché[^23] tous les ans, multipliant le prix de vente de leur laine par 6, ce qui permet de pouvoir couvrir le prix d'une prestation[^24] de tonte[^25]. Nos entreprises partenaires, c'est-à-dire les agriculteurs et les ateliers sont déjà contactées. Nous n'avons plus qu'à nous lancer et vous présenter notre premier modèle. Alors n'hésitez pas à nous contacter via nos réseaux. Nous nous ferons un plaisir de[^26] répondre à vos questions. 
+
+[^23]: marché, opportunité de vente
+
+[^24]: Une "prestation" désigne un service fourni par une personne, une entreprise ou une organisation à un client ou bénéficiaire.
+
+[^25]: La "tonte" désigne l'action de couper ou de raser les poils ou la laine d'un animal, le plus souvent des moutons.
+
+[^26]: Nous serons ravies de
+
+## Activité
+
+Après la lecture du pitch [faite l'activité sur H5P](https://canvas.its.virginia.edu/courses/104170/assignments/473461?module_item_id=1082980).
+

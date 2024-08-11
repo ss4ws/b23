@@ -1,0 +1,64 @@
+---
+title: "CV par incompétences -- Activités à faire en autonomie"
+#author: ""
+format: 
+  html: 
+    self-contained: true
+    page-layout: article
+    docx: default
+    pdf: default
+#  revealjs: 
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual
+---
+
+Dans le cadre du Concours Podcasts & Créations perso de ARTE Radio 2023, Marie Perrier a proposé son podcast "CV par incompétences".
+
+Voici son texte de présentation:
+
+"L'été, je sens souffler sur moi un vent de liberté. L'envie de faire voler en éclats[^1] les injonctions sociales[^2]. Nous sommes dans une société du paraître où il faut tout montrer sous son meilleur jour. Il faut à tout prix vanter les mérites des marques, des produits mais aussi de soi. La recherche d'emploi, les applications de rencontre, les réseaux sociaux: tout nous invite à bâtir une version édulcorée[^3] de nous-mêmes. Alors j'ai eu envie de me demander: à quoi cela ressemblerait si nous nous mettions tout simplement à être un peu plus francs? Petit exutoire[^4], ce CV par incompétences est une invitation à embrasser et affirmer qui l'on est réellement, sans artifices."
+
+[^1]: pulvériser, détruire, anéantir
+
+[^2]: pression sociale, norme sociale, attente sociale
+
+[^3]: amélioré, embelli
+
+[^4]: moyen de libérer ou d'exprimer des émotions, des sentiments ou du stress accumulé, de manière à soulager une personne de la pression ou du malaise intérieur
+
+```{=html}
+<iframe width="100%" src="/Users/ss4ws/Library/CloudStorage/OneDrive-UniversityofVirginia/000-teaching/fren-3035/001-syllabus-S24/module-3/cv-incompetence.mp3" title="CV par incompétences"></iframe>
+```
+## Transcription
+
+Madame, Monsieur,
+
+Je sais que votre entreprise prône la franchise et la transparence. Je partage entièrement ces valeurs et c'est pourquoi, en complément de ma candidature, j'ai tenu à vous soumettre mon CV par incompétence.
+
+Pour commencer, je suis incapable de fonctionner le matin. Ne comptez jamais sur moi avant 10h. Évitez de me demander de réagir à ce que quelqu'un vient de dire en réunion. Cela fait probablement 15 minutes que j'ai décroché et que je fais autre chose.
+
+Je ne sais pas dire non. Ni aux projets à faire en urgence et aux heures sup[^5], ni aux propositions de jouer au babyfoot ou de prendre un petit 2h pour débriefer de nos vies avec les collègues. J'adore faire des montages photo-absurdes. Ne me demandez pas pourquoi, c'est comme ça. J'en ferai régulièrement sur mes collègues pendant mon temps de travail.
+
+[^5]: heures supplémentaires
+
+En vous remerciant d'avance, de l'attention que vous porterez à ma candidature, je vous prie d'agréer, Madame, Monsieur, l'expression de mon ennui profond d'avoir dû rédiger une lettre de motivation.
+
+([source](https://audioblog.arteradio.com/blog/203804/podcast/211051/cv-par-incompetences))
+
+::: {.callout-note appearance="simple" icon="false"}
+### Matière à réflexion
+
+-   Dans sa présentation du podcast Marie Perrier dit vouloir se libérer de certaines "injonctions sociales". De quelle injonction ou norme sociale elle fait allusion dans son podcast?
+
+-   Pour réussir son objectif qui est la création d'un podcast humoristique, elle joue avec les normes d'un document professionnel. Lequel?
+
+-   Bien qu'elle garde la structure et les conventions du document intactes, elle insère un contenu qui ne correspond pas à la situation professionnelle. Trouvez deux exemples où il y a un décalage (une contradiction, un écart) entre les conventions du documents et son contenu.
+
+    🔗 Suivez [le lien pour répondre à ces questions](https://canvas.its.virginia.edu/courses/104170/assignments/465636) dans une activité interactive H5P.
+:::

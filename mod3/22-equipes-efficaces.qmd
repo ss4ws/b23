@@ -1,0 +1,87 @@
+---
+title: "Équipes efficaces"
+author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: true
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+#    theme: dark
+  html: 
+    self-contained: true
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual  
+---
+
+Comme nous l'avons déjà constaté, il y a un lien fort entre le projet d'une entreprise et le profil de ses entrepreneurs. Comment donc l'identité des partenaires, leurs valeurs personnelles, et leurs ambitions contribuent à former leurs projets?
+
+Avant de créer une entreprise réussie, il faut avoir une équipe efficace.
+
+# Qu'est-ce qu'une équipe efficace? Comment reconnaît-on une équipe efficace?
+
+Une équipe efficace est une équipe dont les membres ne travaillent pas seulement les uns à côté des autres, mais une équipe dont les membres travaillent harmonieusement ensemble dans une sorte de symbiose.
+
+Travailler ensemble signifie qu'on fixe des objectifs ensemble, et si on les atteint on partage la réussite, si on ne les atteint pas on partage l'échec.
+
+Ni la réussite, ni l'échec ne sont une affaire individuelle. Si l'équipe réussit tous les membres réussissent. Si l'équipe échoue tous les membres échouent.
+
+Dans ce cas, la question que chaque membre de l'équipe doit se poser ne doit pas être "qu'est-ce que je peux faire pour réussir?" mais "qu'est-ce que je peux faire pour contribuer?"
+
+<!-- # "It won't fail because of me" -->
+
+<!-- ![La devise: It won't fail because of me.](/Users/ss4ws/Library/CloudStorage/OneDrive-UniversityofVirginia/zettlr/teaching/courses/fren-3035/it-wont-fail.jpeg "La devise: It won't fail because of me.") -->
+
+<!-- Connaissez-vous l'artiste américain Tom Sachs? Tom Sachs travaille dans des grands projets et, par conséquent, il a besoin de beaucoup d'employé(e)s dans son studio à partager des micro-tâches. Un des projets du studio the "Space Program" consistait à reconstruire avec des moyens de bord le prestigieux programme Apollo de NASA. Le program a été conçu en 1960, mais 9 ans plus tard (le 20 juillet 1969) la mission Apollo 11 a été couronnée d'un immense succès: l'atterrissage à la lune. -->
+
+<!-- Comme vous pouvez l'imaginez une telle réussite ne peut pas être attribuée à une seule personne. Des milliers d'individus y ont travaillé et chacun d'eux devait transcender ses propres intérêts personnels pour se consacrer à la mission commune. Un des travailleurs de la mission a résumé cet esprit d'équipe avec la phrase: "It won't fail because of me." -->
+
+<!-- Cette phrase est aussi devenue la devise du studio de Tom Sachs et je vous propose de l'adopter aussi quand vous travaillez en équipe. -->
+
+## Alignement des groupes 
+
+> Tout ce qu’accomplit une équipe, de l’organisation d’une soirée à la construction d’un avion, découle de son alignement. L’alignement est le processus consistant à faire converger les contributions individuelles pour atteindre un but partagé dans l’intérêt de tous. Il transforme des individus vaquant à[^22-equipes-efficaces-1] leurs tâches en contributeurs actifs et engagés. Travailler en équipe demande plus d’efforts que travailler seul; il faut, en plus de tenir son rôle, se synchroniser avec les autres. C’est le prix à payer pour atteindre des objectifs (plus ambitieux) que l’on ne peut accomplir seul.[^22-equipes-efficaces-2]
+
+[^22-equipes-efficaces-1]: vaquer à: se consacrer à
+
+[^22-equipes-efficaces-2]: Mastrogiacomo, Stefano, Alexander Osterwalder, Emily Borgeaud, Alan Smith, and Trish Papadakos. *Les 5 outils pour réussir en équipe: votre nouvelle boîte à outils pour construire l’alignement, créer la confiance et obtenir des résultats rapidement*. Paris: Pearson, 2021. p. 12
+
+Comment effectuer l'alignement d'une équipe?
+
+-   Bien **définir les valeurs partagées** entre les membres d'une équipe.
+-   Bien **définir la mission et les rôles de chacun** pour accomplir la mission. Mais, soyez flexibles! Ne pas s'enfermer dans son rôle, donner des coups de main quand c'est nécessaire.
+-   **Communiquer**. Pour que la communication soit réussie, il faut une base commune et des règles établies au préalable entre les membres du groupe. Ne pas attendre un moment de crise pour commencer la communication! Avant d'entreprendre un projet avec un groupe, il faut penser au préalable à certains scénarios:
+    -   Quelle est la meilleure façon de communiquer?
+    -   Comment est-ce qu'on partage des information et des documents communs?
+    -   Qu'est-ce qui se passe dans le cas où le membre d'un groupe ne peut pas participer dans une séance de travail?
+
+## Climat de sécurité psychologique
+
+Quand on travaille en équipe pour obtenir un résultat, il ne faut pas oublier l'aspect humain de l'équipe—le bien-être de tous les membres de l'équipe.
+
+Car, pour être créatif.ve, il faut se sentir à l'aise dans le groupe. Si on n'est pas à l'aise, on reste silencieux, de peur que si on prend la parole, on va faire des erreurs, on ne va pas être compris, etc. Cette attitude fait obstacle, pas seulement à la communication, mais nuit gravement à l'exploration des idées originales et à l'innovation.
+
+Il faut donc **établir un climat de respect mutuel**, de sorte que les membres du groupe partagent librement leurs idées, sans essayer d'imposer une idée à la place d'une autre (surtout au moment du brainstorming). Il faut aussi **faire de la curiosité et de l'expérimentation des valeurs partagées** dans le groupe. Quand on est curieux, on entend attentivement les idées qui viennent des horizons différents du nôtre et on essaie des les combiner. Le résultat peut être expérimental au début, mais pour arriver à l'innovation, il faut passer par l'expérimentation!
+
+Comportements d’apprentissage:
+
+-   Faites des retours, donnez du *feedback*. Rares sont les idées qui ne s'améliorent pas avec les retours des partenaires.
+-   Partager les infos. Rechercher des sources fiables pour vérifier vos suppositions. Si une supposition n'est pas vérifiée, elle doit être présentée comme telle et elle ne peux pas servir comme base solide pour un projet.
+-   **Demander de l’aide**, quand vous en avez besoin, ou quand vous n'êtes pas sûres de quelque chose.
+-   Parler des erreurs et corrigez-les, sans avoir peur ou honte d'elles! Les erreurs sont des opportunités d'amélioration.
+-   Être à l'écoute. Écouter les autres quand ils parlent c'est plus facile à dire qu'à faire. Ne pensez pas à votre réponse lorsque quelqu'un parle. Répétez ce que vous avez entendu avant de passez à votre réponse.
+-   Expérimenter. L'originalité, la créativité et l'innovation, ne tombent pas du ciel! Elles sont le résultat de l'expérimentation.
+
+## Communication non-violente
+
+Même dans les meilleurs équipes les désaccords, les malentendus, et même les conflits ne sont pas tout à fait inévitables. Comment résoudre ces problèmes? La communication non-violente et votre alliée.
+
+Si quelque chose ne vas pas il faut en parler! Mais attention il faut parler de la chose qui ne va pas et pas de la personne! Voici la formule à suivre:
+
+Quand tu fais `___` je me sens `___`. J'ai donc besoin de `___`. Pourrais-tu faire `___` s'il te plaît?

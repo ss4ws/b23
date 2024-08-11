@@ -1,0 +1,57 @@
+---
+title: "Le business modèle Canvas"
+#author: ""
+format: 
+  html: 
+    self-contained: true
+    page-layout: article
+    docx: default
+    pdf: default
+#  revealjs: 
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual
+---
+
+Le Business Model Canvas (BMC) est un outil stratégique inventé par Alexander Osterwalder et Yves Pigneur, les auteurs du best-seller *Business Model Generation*. Cet outil vise à simplifier la planification et l’exécution d’un modèle d’affaires. C’est un peu comme une carte qui montre en un clin d'œil la raison d'être d'une entreprise, son fonctionnement, la valeur qu'elle crée pour ses clients, et la façon dont elle gagne de l'argent.
+
+## Origines
+
+L’idée du BMC est née de la nécessité de rendre la création de modèles d'affaires plus accessible et adaptable. Avant cela, les entreprises s'appuyaient sur de longs documents compliqués et peu pratiques, pour planifier et communiquer leur stratégie. Imaginez passer des mois à rédiger un plan, pour ensuite devoir le changer complètement à cause d'un imprévu! Osterwalder et Pigneur ont donc proposé le BMC comme une solution, permettant aux entreprises de **visualiser et d'ajuster rapidement leur modèle économique sur une seule page**.
+
+## La structure du BMC
+
+[Le BMC](https://canvas.its.virginia.edu/courses/104170/pages/presentation-du-business-modele-canevas?module_item_id=865494)
+
+Pour définir, visualiser et tester rapidement une idée ou une nouvelle fonctionnalité d'un produit on peut suivre l'ordre des questions proposées par le BMC. Le BMC se compose de neuf blocs fondamentaux qui représentent les aspects clés d’une entreprise:
+
+-   Propositions de valeur: Quelle valeur l’entreprise offre-t-elle à ses clients?
+-   Segments de clients: Qui sont les clients ? Quels sont leurs besoins?
+-   Canaux: Comment l’entreprise communique-t-elle et livre-t-elle cette valeur?
+-   Relations avec les clients: Quel type de relation l’entreprise établit-elle avec ses clients?
+-   Sources de revenus: Comment l’entreprise génère-t-elle des revenus?
+-   Ressources clés: Quelles ressources sont essentielles pour offrir la proposition de valeur?
+-   Activités clés: Quelles activités sont cruciales pour délivrer la proposition de valeur?
+-   Partenariats clés: Qui sont les partenaires stratégiques et fournisseurs?
+-   Structure de coûts: Quels sont les coûts majeurs dans le modèle d’affaires?
+
+::: {.callout-note appearance="simple" icon="false"}
+## Remarques
+
+Que remarquez-vous dans la structure du BMC (voir le pdf ou la fiche que je vous ai distribuée)? Qu'est-ce qui est mis au centre et pourquoi à votre avis?
+:::
+
+## Succès actuel
+
+La popularité du BMC repose sur sa capacité de concevoir un modèle d'affaire comme un puzzle à compléter. Chaque morceau du puzzle est simple et compréhensible et mis ensemble permet de donner une idée générale d'un projet.
+
+Le BMC encourage l'exploration et l'innovation, et il permet aux entreprises de s'adapter (pivoter) rapidement aux changements du marché. Il est devenu un incontournable dans le monde de l'entrepreneuriat pour son approche visuelle et interactive, facilitant le dialogue entre différents acteurs (investisseurs et entrepreneurs, par exemple) autour des questions stratégiques d'un projet.
+
+## Activité
+
+Dans [cette discussion](https://canvas.its.virginia.edu/courses/104170/discussion_topics/363444), vous avez ceuilli et posté des information sur une entreprise. En fonction de ces informations commencez à remplir le BMC pour l'entreprise que vous avez choisie. Vous avez 9 blocs numérotées de 1 à 9. Par quel bloc allez-vous commencer? À votre avis, faut-il suivre l'ordre proposé? Pourquoi?

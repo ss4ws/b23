@@ -1,0 +1,52 @@
+---
+title: "Le marketing"
+#author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: true
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+  html: 
+    self-contained: true
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual
+---
+
+## Introduction
+
+On a trouvé la solution à un problème et on a décidé de monter une boîte. On a testé la solution auprès d'un cercle restreint, mais maintenant on est prêts à lancer une campagne de marketing pour faire connaître la solution auprès de la clientèle concernée. Comment faire?
+
+Il faut trouver une stratégie marketing (*mercatique* en français, mais le mot n'est pas couramment employé).
+
+> Le marketing consiste à **l'ensemble des actions ayant pour objectifs d'étudier et d'influencer les besoins et comportements des consommateurs** et de réaliser en continu les adaptations de la production et de l'appareil commercial en fonction des besoins et comportements précédemment identifiés. ([source](https://www.definitions-marketing.com/definition/marketing/))
+
+### Les étapes du marketing
+
+1.  Étude du marché. Cette étape permet de déterminer, parmi l'ensemble des consommateurs d'un marché, un segment spécifique qui serait susceptible d'être intéressé par le produit ou service de notre entreprise. Cette étape initiale permettra de mettre au point une stratégie de communication.
+
+2.  Stratégie de communication. Pour mettre au point une stratégie de communication, il faut savoir qui sont ses clients, par quel canal de communication les atteindre, comment construire le message de communication.
+
+Toutes les entreprises ne communiquent pas de la même façon avec leurs clients. Par exemple, les entreprises bien établies n'ont pas besoin de se faire connaître au public. Au contraire, elles ont besoin de renouveler l'image de leur marque pour montrer à leurs clients qu'elles évoluent et qu'elles sont toujours à l'écoute de leurs besoins. Il faut montrer aux clients qu'elles ne sont pas démodées et qu'elles suivent, tout comme leurs clients, les nouvelles tendances. Ces entreprises, donc, lorsqu'elles communiquent avec leurs clients, elles leur rappellent l'histoire de la marque, ses valeurs, et sa mission. Ces communications sont sporadiques. Mais, quand une entreprise lance un nouveau produit ou un service, il est nécessaire de communiquer cette offre avec ses clients.
+
+Pensez par exemple un constructeur automobile. Lorsqu'un nouveau modèle de la gamme est disponible sur le marché, des nouvelles publicités sont spécifiquement créées pour annoncer . Dans ce cas, pour que la communication soit réussie, la publicité met en valeur le plus grand atout du nouveau produit.
+
+::: {.callout-note appearance="simple" icon="false"}
+## Matière à réflexion
+
+-   Est-ce que les entreprises font le marketing de leurs produits elles-mêmes, ou est-ce qu'elles font de la sous-traitance?
+
+-   Comment appelle-t-on les entreprises responsables pour les campagnes de communication? (Choisissez une des trois réponses suivantes.)
+
+    -   Agences de publicité
+
+    -   La comm
+
+    -   Sous-traitantes de promotion
+:::

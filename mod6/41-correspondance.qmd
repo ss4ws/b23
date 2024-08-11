@@ -1,0 +1,132 @@
+---
+title: "Correpondance professionnelle"
+#author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: true
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+  html: 
+    self-contained: true
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual
+---
+
+## Après la présentation devant le COMEX
+
+Après la présentation devant le Comex, Caroline reçoit un email. C'est de la part d'Amélie, la directrice du COMEX. Le voici:
+
+> Objet : Soutien au projet et coordination avec expert en développement d'applications
+>
+> Chère Caroline,
+>
+> Suite à notre récente réunion concernant la mise à jour de l'appli, je tiens tout d'abord à vous remercier, vous et votre équipe, pour la qualité de la présentation et l'engagement manifeste envers le succès du projet. J'apprécie grandement votre professionnalisme et votre dévouement.
+>
+> Comme évoqué à la fin de réunion, il est de notre intérêt commun d'assurer l'avancement du projet sans encombre[^1] supplémentaire. À cet effet, je tiens à vous mettre en contact avec un développeur de renom, Mr Novak, afin de vous fournir le soutien indispensable à cette phase du projet.
+>
+> L'expertise de Mr Novak dans le domaine des applications mobiles pourrait s'avérer inestimable pour votre projet. Mr Novak possède une expérience considérable et a déjà contribué au succès de nombreux projets similaires au sein de plusieurs startups.
+>
+> Nous sommes convaincus que son accompagnement permettra de surmonter les défis techniques que vous rencontrez actuellement et d'éviter tout retard supplémentaire concernant le lancement de la nouvelle version de notre appli.
+>
+> Veuillez trouver ci-dessous ses coordonnées :
+>
+> Nom : Karl Novak\
+> Email : knovak\@devapp.com\
+> Téléphone : 06 36 50 20 00
+>
+> Je vous encourage vivement à prendre contact avec lui dès que possible pour le mettre au courant de la phase actuelle du projet, ainsi que pour prendre un rendez-vous avec lui dans les meilleurs délais.
+>
+> Je reste à votre entière disposition pour toute question ou besoin supplémentaire de votre part. N'hésitez pas à mes solliciter.
+>
+> Encore une fois, merci pour votre travail et votre engagement. Au plaisir de vos nouvelles.
+>
+> Cordialement,
+>
+> Amélie Poullard\
+> Directrice COMEX
+
+[^1]: obstacle, difficulté
+
+## L'étape suivante
+
+Qu'est-ce que Caroline doit faire après la reception de l'email d'Amélie?Mettez ces actions dans l'ordre:
+
+| Ordre | Actions                                                                                                                                                      |
+|--------------|---------------------------------------------------------|
+|       | Caroline rédige un email à Karl Noval pour prendre un rendez-vous avec lui le plus tôt possible.                                                             |
+|       | Caroline confirme la nouvelle date de Karl Novak.                                                                                                            |
+|       | Karl Novak répond à l'email. Malheureusement il n'est pas disponible à la date proposé par Caroline. Il propose une nouvelle date.                           |
+|       | Karl Novak arrive dans les locaux de l'entreprise et il s'enferme dans la "war room" avec Caroline, Émilie, et leur équipe de développeurs.                  |
+|       | Caroline envoie un accusé de réception[^2] à Amélie pour l'informer qu'elle a bien reçu son email.                                                           |
+|       | Caroline regarde son agenda pour trouver une date de libre.                                                                                                  |
+|       | Caroline appelle Émilie et toutes les deux regardent leurs agenda pour vérifier leur disponibilité afin de proposer une date de rendez-vous avec Karl Novak. |
+
+[^2]: Un "accusé de réception" est une confirmation formelle indiquant qu'une lettre, un document, ou un colis a été reçu. Dans le contexte des communications électroniques, c'est souvent une notification automatique envoyée à l'expéditeur pour l'informer que son message a été livré ou ouvert par le destinataire. L'accusé de réception sert à assurer les deux parties de la bonne transmission des informations ou des biens envoyés.
+
+## La boîte à lettres de Caroline 
+
+Imaginez la correspondance par email entre Caroline et Mr. Novak pour fixer un rendez-vous. Ensuite imaginez la réponse de Caroline à sa directrice.
+
+### 1. De Caroline à Mr Novak
+
+Caroline prend contact avec Mr Novak. D'abord elle lui explique la situation et ensuite elle lui propose une date de rendez-vous. Elle finit avec une formule de politesse.
+
+> Objet : Proposition de rendez-vous
+
+> Monsieur Novak,
+
+[...]
+
+> Cordialement, 
+
+>Caroline 
+>Coordinatrice de projet
+
+### 2. De Mr Novac à Caroline
+
+Mr Novak remercie Caroline pour son email et son intérêt. Comme il est en déplacement professionnel, il n'est pas disponible à la date proposée par Caroline. Il propose un rendez-vous dès son retour. Il finit avec une formule de politesse.
+
+> Objet : Re: Proposition de rendez-vous
+
+[...]
+
+> Cordialement,
+
+> M. Novak 
+> Developpeur
+
+### 3. De Caroline à Mr Novak
+
+Caroline confirme la nouvelle date.
+
+> Objet : Re: Proposition de rendez-vous
+
+> Monsieur Novak,
+
+[...] 
+
+> Cordialement,
+
+> Caroline 
+> Coordinatrice de projet
+
+### 4. Caroline à Mme Poullard (la directrice de COMEX)
+
+Caroline écrit un email à sa directrice pour la tenir au courant de l'échange avec Mr Novak et de la date éventuelle de leur rendez-vous.
+
+> Chère Mme Poullard,
+
+
+[...]
+
+> Bien cordialement,
+
+> Caroline 
+> Coordinatrice de projet

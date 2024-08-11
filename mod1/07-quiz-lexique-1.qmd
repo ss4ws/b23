@@ -1,0 +1,70 @@
+---
+title: "Quiz lexique 1"
+# author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: true
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+#    theme: dark
+#  html: 
+#    self-contained: true
+#    page-layout: article
+    docx: default
+#    pdf: default
+toc: false
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual  
+---
+
+### Quiz de Fin de Module : Vocabulaire en Français des Affaires
+
+#### Partie 1 : Complétez les Phrases
+
+1.  Un \_\_\_\_\_\_\_\_ est essentiel pour redynamiser l'économie après une récession. (Réponse : plan de relance)
+
+2.  La ville a souffert après être devenue \_\_\_\_\_\_\_\_\_\_, perdant la majorité de ses usines. (Réponse : désindustrialisée)
+
+3.  Le \_\_\_\_\_\_\_\_ est un indicateur clé de la santé économique d'un pays. (Réponse : Produit Intérieur Brut)
+
+4.  L'entreprise envisage de suivre \_\_\_\_\_\_\_\_\_\_ pour améliorer sa position sur le marché. (Réponse : trois axes majeurs)
+
+#### Partie 2 : Vrai ou Faux
+
+1.  "La main d'œuvre" désigne l'ensemble des outils utilisés par les employés. (Faux - La main d'œuvre désigne la rémunération horaire des employés)
+
+2.  Le "néolibéralisme" favorise une intervention minimale de l'État dans l'économie. (Vrai)
+
+3.  "Les 35 heures" font référence à une politique limitant la semaine de travail à 35 heures. (Vrai)
+
+4.  "Rogner" signifie augmenter. (Faux - Rogner signifie couper, réduire)
+
+#### Partie 3 : Associez les Termes
+
+1.  Cotisations sociales
+    a)  Secteur économique non agricole ni industriel
+2.  Le tertiaire
+    b)  Prélèvements obligatoires sur les salaires
+3.  La concurrence
+    c)  Compétitivité sur le marché
+4.  Les fleurons industriels
+    d)  Les entreprises leaders dans l'industrie
+
+(Réponses : 1-b, 2-a, 3-c, 4-d)
+
+#### Partie 4 : Questions à Réponses Courtes
+
+1.  Définissez "la douche froide" dans un contexte économique. (Réponse : Un choc désagréable, souvent lié à une mauvaise nouvelle économique)
+
+2.  Qu'implique l'expression "peu ou prou" ? (Réponse : Signifie "plus ou moins", souvent utilisée pour indiquer une approximation)
+
+3.  Expliquez le terme "impôts". (Réponse : Les taxes prélevées par le gouvernement sur les individus ou les entreprises)
+
+4.  Qu'est-ce que signifie "par le biais de" ? (Réponse : Signifie "par l'intermédiaire de" ou "via")
+
+#### Partie 5 : Mise en Situation
+
+Imaginez que vous êtes un analyste économique et que vous avez créé un plan de relance pour une région qui a été fortement affecté par la désindustrialisation. Vous rédigez un discours (au moins 8 phrases complètes et cohérentes) pour défendre votre plan en soulignant 3-4 points clés. Utilisez au moins trois des termes du lexique.

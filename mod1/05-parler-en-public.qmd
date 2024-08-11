@@ -1,0 +1,79 @@
+---
+title: "Parler en public -- Apprendre à construire une présentation orale"
+# author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: true
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+#    theme: dark
+  html: 
+    self-contained: true
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual  
+---
+
+## Objectifs
+
+-   Collecter des informations sur un sujet
+-   Structurer une prise de parole
+-   Apprendre à parler devant un public
+
+## Types de discours oral
+
+Il y a plusieurs types d'un discours prononcés en public.
+
+-   Présentation (ex. Présentation d'un produit, présentation d'un plan de marketing devant ses collègues pendant une réunion)
+-   Exposé (ex. l'exposé d'un étudiant devant la classe)
+-   Conférence (ex. un chercheur présente sa recherche devant un public de spécialistes)
+-   Conférence de presse (ex. le PDG d'une entreprise présente une nouvelle action de son entreprise)
+-   Un toast (ex. Pendant une fête de départ à la retraite d'un collègue, fête pour la réussite d'un projet, etc)
+
+Indépendamment du type de discours et de son contexte, chaque prise de parole doit être structurée. Il faut avoir un plan, c'est-à-dire que le discours doit être organisé.
+
+-   Quel est l'objectif de votre intervention? De quel sujet traitez-vous?
+-   Est-ce que le sujet est bien connu par tout le monde ou est-ce qu'il faut faire une introduction préalable (ex. expliquer les termes clés)?
+-   Dans certains types de discours, outre[^05-parler-en-public-1] votre objectif, vous devez être en mesure de justifier le choix de votre sujet. Pourquoi l'avez-vous choisi? Est-il pertinent dans le contexte spécifique de votre discours? Comment est-ce que vous allez amener votre public à suivre votre raisonnement?
+-   Il faut donc utiliser `un lexique signalétique` pour aider votre public à vous suivre.
+
+[^05-parler-en-public-1]: en plus de
+
+## Réflechir au plan d'une intervention orale
+
+Le plan consiste à la structure de votre discours. Un discours, selon son contexte, est souvent constitué de trois parties.
+
+-   Une introduction
+-   Un développement (selon la durée de l'intervention il y aura deux, trois, ou même plusieurs parties dans le développement de l'intervention)
+    -   Partie 1
+    -   Partie 2
+    -   Partie 3
+    -   etc
+-   Une conclusion
+
+## Lexique signaletique
+
+Se servir d'un lexique signalétique vous aide à structurer une succession des faits ou des idées, et à guider votre public à travers les parties de votre discours.
+
+`pour commencer, tout d'abord, en premier lieu, dans un premier temps`
+
+`pour continuer, puis, ensuite, en second lieu, dans un second temps, par la suite`
+
+`pour terminer, enfin, en dernier lieu, finalement`
+
+::: callout
+### Activité de groupe
+
+Vous êtes dans une réunion professionnelle où vous devez présenter l'article sur la désindustrialisation en France. Vos collègues internationaux ne savent pas grand chose sur le sujet. Faites le plan d'une intervention orale. Votre objectif est de leur donner une idée d'ensemble. Il faut donc éviter les détails spécifiques qui nécessitent des explications supplémentaires.
+
+-   Quels sont les informations que vous devez absolument inclure dans votre discours?
+-   Quels sont les mots clés à expliquer à votre public?
+-   Quel graphique choisiriez-vous pour accompagner votre discours?
+-   Comment l'interpréteriez-vous?
+:::

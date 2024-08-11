@@ -1,0 +1,102 @@
+---
+title: "Création de l'identité visuelle de votre entreprise"
+#author: "Spyridon Simotas"
+format: 
+#  revealjs: 
+#    self-contained: true
+#    chalkboard: true
+#    smaller: true
+#    scrollable: true
+  html: 
+    self-contained: true
+    page-layout: article
+    docx: default
+    pdf: default
+toc: true
+reference-location: margin
+citation-location: margin
+#fig-cap-location: margin
+editor: visual
+---
+
+## **Objectif**
+
+L'objectif de ce devoir est de réfléchir sur l'identité (nom, slogan, logo) que vous avez développée pour votre entreprise. Est-ce que tous les éléments de l’identité de votre projet fonctionnent de façon optimale pour atteindre le marché cible?
+
+## **1. Création**
+
+D’abord assurez-vous que vous avez les éléments suivants:
+
+-   **Nom de l'entreprise:** Le nom doit être pertinent avec l’activité de l’entreprise. Il doit aussi être mémorable et facile à prononcer.
+
+-   **Slogan:** Pour accompagner le nom de votre entreprise rédigez un slogan accrocheur. Votre slogan doit être court, impactant et refléter la proposition unique de votre entreprise.
+
+-   **Logo:** Pour la création de votre logo, je vous propose les options suivantes:
+
+    -   [logo.comLinks to an external site.](https://logo.com/)
+
+    -   [logomakrLinks to an external site.](https://logomakr.com/tutorials/)
+
+    -   [Création de logo avec Adobe expressLinks to an external site.](https://www.adobe.com/express/create/logo)
+
+    -   [Création de logo avec CanvaLinks to an external site.](https://www.canva.com/create/logos/)
+
+Ses sites (logo.com, Adobe Express, Canva) ne requièrent aucune expertise en graphisme de votre part et ils intègrent déjà des outils d’intelligence artificielle. Il vous suffit de leur donner des informations comme le nom de votre marque, le slogan et le secteur d’activité de votre entreprise. À la fin du processus automatique, vous aurez la liberté de faire des modifications supplémentaires si vous le souhaitez.
+
+## **2. Consultation**
+
+Pour tester l'efficacité de l’identité visuelle de votre projet, sollicitez des conseils d'un expert. Celui-ci sera simulé par Copilot. Cette étape vous permettra de recevoir des retours et des conseils susceptibles à améliorer vos projets.
+
+**Procédure à suivre pour la consultation:**
+
+1.  Demandez à Copilot de simuler le rôle d’un directeur artistique avec une expertise dans la pub.
+
+2.  Présentez-vous ainsi que la raison pour laquelle vous le solliciter.
+
+3.  Demandez-lui d’évaluer le nom de votre entreprise en analysant ses forces et ses faiblesses et en vous proposant des conseils concrets pour l’améliorer.
+
+4.  Demandez-lui d’évaluer le slogan de votre entreprise en analysant ses forces et ses faiblesses et en vous proposant des conseils concrets pour l’améliorer.
+
+5.  Demandez-lui d’évaluer votre logo en analysant ses forces et ses faiblesses et en vous proposant des conseils concrets pour l’améliorer.
+
+Dans votre interaction avec Copilot assurez-vous que vous utilisez un language formel comme dans une vrai intéraction professionnelle.
+
+### Exemple de prompts
+
+**Initiez la conversation**
+
+> Bonjour, vous êtes un directeur artistique dans la pub. Vous avez piloté plusieurs campagnes publicitaires, et vous avez une expérience et une expertise inégalée.
+
+**Attendez sa réponse**
+
+**Présentez-vous ainsi que la raison pour laquelle vous le sollicitez**
+
+> Nous sommes un groupe de jeunes étudiants-entrepreneurs et nous sollicitons vos conseils concernant le nom de notre startup. Celle-ci s'appelle \[nom de votre startup\] et il s'agit d'une \[application/entreprise\] qui \[expliquez brièvement ce que fait votre startup et qui est votre marché cible\]. Que pensez-vous de ce nom? Pourriez-vous nous indiquer ses forces et ses faiblesses? Quels conseils auriez-vous à nous donner pour l'améliorer?
+
+**Attendez sa réponse**
+
+Continuez la conversation, dans le même language formel, pour le slogan et le logo.
+
+## **3. Réflexion**
+
+Cette étape de réflexion est cruciale pour valider ou ajuster l’identité visuelle de votre projet en fonction d'un retour professionnel. Elle vous permettra de prendre des décisions stratégiques en ce qui concerne l'adoption ou la modification des éléments de l’identité visuelle de votre entreprise.
+
+En groupe, réfléchissez sur les conseils reçus. Discutez des points suivants:
+
+-   Les conseils reçus sont-ils pertinents et applicables à votre projet?
+
+-   Les conseils reçus vous donnent-ils des directions claires pour améliorer tout ou partie des éléments suivants: nom, slogan, logo?
+
+-   Quels sont les risques si vous ne faites pas les améliorations proposées?
+
+-   Quelles sont les opportunités liées à la mise en œuvre des conseils reçus?
+
+## Travail à rendre
+
+Un fichier par groupe avec:
+
+1.  l’identité de votre entreprise: nom, logo, slogan
+
+2.  l’intégralité de votre interaction avec Copilot.  **No screenshots please**, copy-paste all the parts of the conversation individually.
+
+3.  Une réflexion de 300 mots par groupe
