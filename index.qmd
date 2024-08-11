@@ -4,7 +4,7 @@ title : "About this project"
 
 ## Introduction to Business French OER
 
-Welcome to the Business French OER project! This course is designed for French language learners at the B1/B2 proficiency level who wish to explore the world of business and entrepreneurship in a francophone context.
+Welcome to the Business French OER project. This course is designed for French language learners at the B1/B2 proficiency level who wish to explore the world of business and entrepreneurship in a francophone context.
 
 Conceived as a global simulation, this course encourages students to envision their own company and to workshop their entrepreneurial idea in various steps leading to their final project: the reveal of their company’s website. Throughout the course, students will draw inspiration from creative and socially responsible projects of young francophone entrepreneurs and will develop key competencies that will help them become responsible citizens and leaders in a diverse and globally interconnected world.
 
@@ -70,15 +70,15 @@ Instructors can adapt the assessment methods to suit their specific teaching con
 
 One of the key benefits of this Business French course is its flexibility. As an open educational resource, it can be easily adapted, modified, and expanded to fit the unique needs of your students and teaching environment. You may choose to use the entire course as-is, or you can select specific modules, resources, or activities to integrate into your existing curriculum.
 
-If you choose to use this OER I would like to hear from you. Your feedback and experiences, will help me improve and update the resource for the benefit of the wider French teaching community.
+If you choose to use this OER for your course, don't hesitate to contact me. Your feedback will help me improve and update this project for the benefit of the wider French teaching community.
 
 ## Getting Started
 
-You can explore the OER online or download the PDF of the entire course. If you want to download individual pages/files please visit [the Github page of the project](https://github.com/ss4ws/b23/tree/docs).
+You can explore this project online or download the PDF of the entire course. If you want to download individual pages/files please visit [the Github page of the project](https://github.com/ss4ws/b23/tree/docs).
 
 ## Acknowledgment
 
-This project is created with the generous support of the [Affordability & Equity Grants at the UVA library](https://library.virginia.edu/services/faculty/equity) funded by the Jefferson Trust.
+This project has received generous support from the [Affordability & Equity Grants at the UVA library](https://library.virginia.edu/services/faculty/equity) funded by the Jefferson Trust. Alexis Osipovs assistance with the creation of the website was instrumental.
 
 ## Licence
 
