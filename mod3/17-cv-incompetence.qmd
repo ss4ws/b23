@@ -3,7 +3,7 @@ title: "CV par incompétences -- Activités à faire en autonomie"
 #author: ""
 format: 
   html: 
-    self-contained: false
+    
     page-layout: article
     docx: default
     pdf: default

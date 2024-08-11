@@ -3,13 +3,13 @@ title: "Parler des données chiffrées (À faire en classe)"
 author: "Spyridon Simotas (Adapté d'une fiche de Delphine Ripaud)"
 format: 
 #  revealjs: 
-#    self-contained: false
+#    
 #    chalkboard: true
 #    smaller: true
 #    scrollable: true
 #    theme: dark
   html: 
-    self-contained: false
+    
     page-layout: article
     docx: default
     pdf: default

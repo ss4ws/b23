@@ -3,13 +3,13 @@ title: "Qu'est-ce qu'une entreprise? (Lire en autonomie)"
 # author: "Spyridon Simotas"
 format: 
 #  revealjs: 
-#    self-contained: false
+#    
 #    chalkboard: true
 #    smaller: true
 #    scrollable: true
 #    theme: dark
   html: 
-    self-contained: false
+    
     page-layout: article
     docx: default
     pdf: default

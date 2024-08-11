@@ -3,12 +3,12 @@ title: "Création de l'identité visuelle de votre entreprise"
 #author: "Spyridon Simotas"
 format: 
 #  revealjs: 
-#    self-contained: false
+#    
 #    chalkboard: true
 #    smaller: true
 #    scrollable: true
   html: 
-    self-contained: false
+    
     page-layout: article
     docx: default
     pdf: default

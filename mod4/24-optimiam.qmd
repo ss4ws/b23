@@ -3,13 +3,13 @@ title: "Optimiam: Activités (À faire en autonomie)"
 author: "Spyridon Simotas (Adapté d'une fiche de Joëlle Vivier-Merle sur RFI)"
 format: 
 #  revealjs: 
-#    self-contained: false
+#    
 #    chalkboard: true
 #    smaller: true
 #    scrollable: true
 #    theme: dark
   html: 
-    self-contained: false
+    
     page-layout: article
     docx: default
     pdf: default
